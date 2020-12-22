@@ -24,6 +24,11 @@
 					color: _palette(accent);
 				}
 
+				&.current {
+					color: _palette(accent);
+					font-weight: bold;
+				}
+
 				&.opener {
 					@include vendor('transition', 'color #{_duration(transition)} ease-in-out');
 					@include icon(false, solid);

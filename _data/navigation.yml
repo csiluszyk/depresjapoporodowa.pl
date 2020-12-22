@@ -1,28 +1,27 @@
-- name: Home
+- name: Strona główna
   link: /
-- name: Real
+- name: Objawy
+  link: /objawy
   children:
-    - name: Generic
-      link: /generic.html
-    - name: Elements
-      link: /elements.html
-- name: Test
+    - name: Elementy
+      link: /objawy/elements
+    - name: Test
+      link: /objawy/test
+- name: Leczenie
+  link: /leczenie
   children:
-    - name: Lorem Dolor
-      link: /
-    - name: Ipsum Adipiscing
-      link: /
-    - name: Tempus Magna
-      link: /
-    - name: Feugiat Veroeros
-      link: /
-- name: Submenu
+    - name: Leczenie farmakologiczne
+      link: /leczenie/leczenie-farmakologiczne
+    - name: Psychoterapia
+      link: /leczenie/psychoterapia
+- name: Zasoby
+  link: /zasoby
   children:
-    - name: Lorem Dolor
-      link: /
-    - name: Ipsum Adipiscing
-      link: /
-    - name: Tempus Magna
-      link: /
-    - name: Feugiat Veroeros
-      link: /
+    - name: Książki
+      link: /zasoby/ksiazki
+    - name: Wywiady
+      link: /zasoby/wywiady
+    - name: Materiały wideo
+      link: /zasoby/materialy-wideo
+    - name: Publikacje naukowe
+      link: /zasoby/publikacje-naukowe

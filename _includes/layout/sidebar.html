@@ -15,17 +15,19 @@
 					{% for parent in site.data.navigation %}
 						{% if parent.children %}
 							<li>
-								<span class="opener active">{{ parent.name }}</span>
+								{% assign slug_size = parent.link | size %}
+								{% assign slug = page.url | slice: 0, slug_size %}
+								<span class="opener{% if slug == parent.link %} active{% endif %}">{{ parent.name }}</span>
 								<ul>
 								{% for child in parent.children %}
-									<li><a href="{{ child.link }}" {% if page.url == child.link %}style="color: red;"{% endif %}>
+									<li><a href="{{ child.link }}" {% if page.url == child.link %}class="current"{% endif %}>
 										{{ child.name }}
 									</a></li>
 								{% endfor %}
 								</ul>
 							</li>
 						{% else %}
-							<li><a href="{{ parent.link }}" {% if page.url == parent.link %}style="color: red;"{% endif %}>
+							<li><a href="{{ parent.link }}" {% if page.url == parent.link %}class="current"{% endif %}>
 								{{ parent.name }}
 							</a></li>
 						{% endif %}
