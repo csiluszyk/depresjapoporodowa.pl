@@ -1,0 +1,28 @@
+- name: Home
+  link: /
+- name: Real
+  children:
+    - name: Generic
+      link: /generic.html
+    - name: Elements
+      link: /elements.html
+- name: Test
+  children:
+    - name: Lorem Dolor
+      link: /
+    - name: Ipsum Adipiscing
+      link: /
+    - name: Tempus Magna
+      link: /
+    - name: Feugiat Veroeros
+      link: /
+- name: Submenu
+  children:
+    - name: Lorem Dolor
+      link: /
+    - name: Ipsum Adipiscing
+      link: /
+    - name: Tempus Magna
+      link: /
+    - name: Feugiat Veroeros
+      link: /

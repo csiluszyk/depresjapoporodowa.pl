@@ -1,29 +1,7 @@
-{% comment %}
-
-	Editorial by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-
-	Name:
-
-		Default layout
-
-	Description:
-
-		Basic HTML foundation for all pages.
-
-	Example:
-
-		---
-		layout: default
-		---
-
-{% endcomment %}
-
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Untitled</title>
+		<title>{{ page.title }}</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
