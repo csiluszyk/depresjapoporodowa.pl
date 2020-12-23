@@ -15,9 +15,13 @@
 					{% for parent in site.data.navigation %}
 						{% if parent.children %}
 							<li>
-								{% assign slug_size = parent.link | size %}
-								{% assign slug = page.url | slice: 0, slug_size %}
-								<span class="opener{% if slug == parent.link %} active{% endif %}">{{ parent.name }}</span>
+								{% assign is_active = false %}
+								{% for child in parent.children %}
+                                	{% if child.link == page.url %}
+										{% assign is_active = true %}
+									{% endif %}
+								{% endfor %}
+								<span class="opener{% if is_active %} active{% endif %}">{{ parent.name }}</span>
 								<ul>
 								{% for child in parent.children %}
 									<li><a href="{{ child.link }}" {% if page.url == child.link %}class="current"{% endif %}>

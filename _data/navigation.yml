@@ -1,21 +1,18 @@
 - name: Strona główna
   link: /
 - name: Objawy
-  link: /objawy
   children:
     - name: Elementy
       link: /objawy/elements
     - name: Test
       link: /objawy/test
 - name: Leczenie
-  link: /leczenie
   children:
     - name: Leczenie farmakologiczne
       link: /leczenie/leczenie-farmakologiczne
     - name: Psychoterapia
       link: /leczenie/psychoterapia
 - name: Zasoby
-  link: /zasoby
   children:
     - name: Książki
       link: /zasoby/ksiazki
