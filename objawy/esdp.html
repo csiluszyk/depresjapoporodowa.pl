@@ -1,0 +1,20 @@
+---
+layout: page
+title: Edynburska Skala Depresji Poporodowej
+---
+
+<form>
+    <ol>
+    {% for question in site.data.esdp %}
+        <li><fieldset>
+        <legend>{{ question.question }}</legend>
+        {% assign outer_index = forloop.index %}
+        {% for answer in question.answers %}
+            <div><input type="radio" id="q{{outer_index}}-a{{forloop.index}}" name="q{{ outer_index }}" value="{{ answer.value }}" required>
+            <label for="q{{outer_index}}-a{{forloop.index}}">{{ answer.answer }}</label></div>
+        {% endfor %}
+        </fieldset></li>
+    {% endfor %}
+    </ol>
+    <button type="submit">Submit</button>
+</form>

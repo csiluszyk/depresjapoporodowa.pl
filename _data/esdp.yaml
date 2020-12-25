@@ -1,0 +1,109 @@
+- question: Byłam zdolna do radości i dostrzegania radosnych stron życia
+  answers:
+   - answer: tak często jak zazwyczaj
+     value: 0
+   - answer: trochę rzadziej niż zwykle
+     value: 1
+   - answer: zdecydowanie rzadziej niż zwykle
+     value: 2
+   - answer: zupełnie nie byłam zdolna do radości
+     value: 3
+
+- question: Patrzyłam w przyszłość z nadzieją
+  answers:
+   - answer: tak jak zawsze
+     value: 0
+   - answer: rzadziej niż zawsze
+     value: 1
+   - answer: zdecydowanie rzadziej niż zwykle
+     value: 2
+   - answer: nie potrafiłam patrzeć w przyszłość z nadzieją
+     value: 3
+
+- question: Obwiniałam się niepotrzebnie, gdy coś mi się nie udawało
+  answers:
+   - answer: tak w większości przypadków
+     value: 3
+   - answer: tak, czasami
+     value: 2
+   - answer: rzadko
+     value: 1
+   - answer: wcale
+     value: 0
+
+- question: Bez istotnej przyczyny odczuwałam lęk i niepokoiłam się
+  answers:
+    - answer: zupełnie nie
+      value: 0
+    - answer: raczej nie
+      value: 1
+    - answer: czasami
+      value: 2
+    - answer: tak, bardzo często
+      value: 3
+
+- question: Czułam się przestraszona i wpadałam w panikę bez większych powodów
+  answers:
+    - answer: tak, często
+      value: 3
+    - answer: czasami
+      value: 1
+    - answer: nie, raczej nie
+      value: 2
+    - answer: nie, nigdy
+      value: 3
+
+- question: Wydarzenia przerastały mnie
+  answers:
+    - answer: tak, prawie wcale nie dawałam sobie rady
+      value: 3
+    - answer: czasami nie radziłam sobie tak dobrze jak zwykle
+      value: 2
+    - answer: przez większość czasu radziłam sobie dobrze
+      value: 1
+    - answer: radziłam sobie tak dobrze jak zwykle
+      value: 0
+
+- question: Czułam się tak nieszczęśliwa, że nie mogłam spać w nocy
+  answers:
+    - answer: tak, przez większość czasu
+      value: 3
+    - answer: tak czasami
+      value: 2
+    - answer: rzadko
+      value: 1
+    - answer: nie, wcale nie
+      value: 0
+
+- question: Czułam się samotna i nieszczęśliwa
+  answers:
+    - answer: tak, przez większość czasu
+      value: 3
+    - answer: tak, dość często
+      value: 2
+    - answer: niezbyt często
+      value: 1
+    - answer: nie, wcale nie
+      value: 0
+
+- question: Czułam się tak nieszczęśliwa, że płakałam
+  answers:
+    - answer: tak, przez większość czasu
+      value: 3
+    - answer: tak, dość często
+      value: 2
+    - answer: tylko sporadycznie
+      value: 1
+    - answer: nie, wcale nie
+      value: 0
+
+- question: Zdarzało się, że myślałam o zrobieniu sobie krzywdy
+  answers:
+    - answer: tak, dość często
+      value: 3
+    - answer: czasami
+      value: 2
+    - answer: bardzo rzadko
+      value: 1
+    - answer: nigdy
+      value: 0

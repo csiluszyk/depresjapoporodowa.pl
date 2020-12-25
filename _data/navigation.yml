@@ -5,7 +5,7 @@
     - name: Elementy
       link: /objawy/elements
     - name: Test
-      link: /objawy/test
+      link: /objawy/esdp
 - name: Leczenie
   children:
     - name: Leczenie farmakologiczne
