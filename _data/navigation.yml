@@ -2,8 +2,10 @@
   link: /
 - name: Objawy
   children:
-    - name: Elementy
+    - name: Objawy depresji
       link: /objawy/elements
+    - name: Psychoza poporodowa
+      link: /objawy/psychoza-poporodowa
     - name: Test
       link: /objawy/esdp
 - name: Leczenie
