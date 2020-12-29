@@ -264,7 +264,7 @@
 
 		$(".esdp-result").hide();
 		$("#esdp-score").text(score);
-		if ($("form[name='esdp-form'] input[name='q10']:checked").val()) {
+		if ($("form[name='esdp-form'] input[name='q10']:checked").val() !== '0') {
 			$("#esdp-result-0").show();
 		} else if (score < 9) {
 			$("#esdp-result-1").show();
@@ -276,6 +276,7 @@
 			$("#esdp-result-4").show();
         }
 		$("#esdp-result").show();
+		window.scrollTo(0,document.body.scrollHeight);
 	});
 
 })(jQuery);
