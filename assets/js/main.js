@@ -253,4 +253,29 @@
 
 			});
 
+	// Test.
+	$("form[name='esdp-form']").submit(function(event) {
+		event.preventDefault();
+		var score = $("form[name='esdp-form'] input[type='radio']:checked").map(function () {
+			return parseInt($(this).val(), 10);
+		}).get().reduce(function (sum, curr) {
+			return sum + curr;
+		}, 0);
+
+		$(".esdp-result").hide();
+		$("#esdp-score").text(score);
+		if ($("form[name='esdp-form'] input[name='q10']:checked").val()) {
+			$("#esdp-result-0").show();
+		} else if (score < 9) {
+			$("#esdp-result-1").show();
+		} else if (score < 12) {
+			$("#esdp-result-2").show();
+		} else if (score < 14) {
+			$("#esdp-result-3").show();
+		} else {
+			$("#esdp-result-4").show();
+        }
+		$("#esdp-result").show();
+	});
+
 })(jQuery);

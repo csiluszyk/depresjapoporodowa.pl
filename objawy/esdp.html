@@ -3,18 +3,26 @@ layout: page
 title: Edynburska Skala Depresji Poporodowej
 ---
 
-<form>
+<h2>Test</h2>
+<form name="esdp-form">
     <ol>
-    {% for question in site.data.esdp %}
+    {% for item in site.data.esdp-test %}
         <li><fieldset>
-        <legend>{{ question.question }}</legend>
+        <legend>{{ item.question }}</legend>
         {% assign outer_index = forloop.index %}
-        {% for answer in question.answers %}
-            <div><input type="radio" id="q{{outer_index}}-a{{forloop.index}}" name="q{{ outer_index }}" value="{{ answer.value }}" required>
-            <label for="q{{outer_index}}-a{{forloop.index}}">{{ answer.answer }}</label></div>
+        {% for subitem in item.answers %}
+            <div><input type="radio" id="q{{outer_index}}-a{{forloop.index}}" name="q{{ outer_index }}" value="{{ subitem.value }}" required>
+            <label for="q{{outer_index}}-a{{forloop.index}}">{{ subitem.answer }}</label></div>
         {% endfor %}
         </fieldset></li>
     {% endfor %}
     </ol>
-    <button type="submit">Submit</button>
+    <button type="submit">Sprawdź wynik</button>
 </form>
+<div id="esdp-result" hidden>
+<h3>Twój wynik: <span id="esdp-score">0</span> pkt.</h3>
+
+{% for item in site.data.esdp-results %}
+    <p id="esdp-result-{{ forloop.index0 }}" class="esdp-result" hidden>{{ item.result }}</p>
+{% endfor %}
+</div>
