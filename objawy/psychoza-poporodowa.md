@@ -23,7 +23,13 @@ Psychoza poporodowa to poważna choroba psychiczna, którą należy traktować j
 
 Gdy zauważysz u siebie lub osoby bliskiej powyższe objawy natychmiast zadzwoń na pogotowie, które poinformuje Cię o dalszych krokach: 
 
-Tel. 112                  lub             999
+<br/>
+<div class="row">
+    <div class="col-4 align-right"><span class="button primary-red large">Tel. 112</span></div>
+    <div class="col-4 align-center"><span>lub</span></div>
+    <div class="col-4 align-left"><span class="button primary-red large">Tel. 999</span></div>
+</div>
+<br/>
 
 Jeśli nie zostanie natychmiastowo podjęte leczenie, może nastąpić pogorszenie się stanu matki, która może stanowić zagrożenie dla siebie i dziecka. Zazwyczaj matka nie zdaje sobie sprawy z tego, że jest chora. W tym wypadku działanie partnera, rodziny lub przyjaciół jest niezwykle istotne. W momencie zauważenia zmiany w zachowaniu matki nie należy zwlekać, lecz jak najszybciej skontaktować się ze szpitalem.
 

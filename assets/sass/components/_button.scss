@@ -71,6 +71,13 @@
 			}
 		}
 
+		&.primary-red {
+			background-color: _palette(accent-red);
+			box-shadow: none;
+			color: _palette(bg) !important;
+			cursor:	auto;
+		}
+
 		&.disabled,
 		&:disabled {
 			@include vendor('pointer-events', 'none');
