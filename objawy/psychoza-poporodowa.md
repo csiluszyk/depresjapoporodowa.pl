@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Psychoza poporodowa
+img: psychoza.jpg
 ---
 
 Psychoza poporodowa występuje znacznie rzadziej niż depresja poporodowa. Szacuje się, że dotyka ona jedną do trzech na 1000 matek. Początek psychozy występuje zazwyczaj w pierwszych 1-4 tygodniach po porodzie. 
@@ -67,4 +68,4 @@ VanderKruik, R., Barreix, M., Chou, D., Allen, T., Say, L., & Cohen, L. S. (2017
 
 Sit, D., Rothschild, A. J., & Wisner, K. L. (2006). A review of postpartum psychosis. Journal of women's health, 15(4), 352-368.
 
-https://www.nhs.uk/conditions/post-partum-psychosis/
+[https://www.nhs.uk/conditions/post-partum-psychosis/](https://www.nhs.uk/conditions/post-partum-psychosis/)
