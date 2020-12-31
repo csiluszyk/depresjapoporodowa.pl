@@ -8,12 +8,12 @@ Baby blues to tymczasowe wahania nastroju, których największe nasilenie obserw
 
 ## Najczęstszymi symptomami są:
 
-Drażliwość, łatwe wybuchanie złością lub płaczem
-Huśtawka nastrojów
-Trudności w koncentracji
-Niewielkie trudności ze snem i apetytem
-Nadmierny lęk o dziecko i przyszłość
-Trudności w podejmowaniu decyzji
+- Drażliwość, łatwe wybuchanie złością lub płaczem
+- Huśtawka nastrojów
+- Trudności w koncentracji
+- Niewielkie trudności ze snem i apetytem
+- Nadmierny lęk o dziecko i przyszłość
+- Trudności w podejmowaniu decyzji
 
 Jeśli objawy baby blues utrzymują się u Ciebie powyżej 2 tygodni, może oznaczać to, że stan przerodził się w depresję poporodową. Skontaktuj się wtedy ze specjalistą lub położną, którzy pomogą Ci ocenić Twój stan zdrowia. 
 
