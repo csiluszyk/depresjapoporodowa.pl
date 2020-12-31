@@ -10,6 +10,12 @@
       link: /objawy/baby-blues
     - name: Test
       link: /objawy/esdp
+- name: Przyczyny
+  children:
+    - name: Przyczyny depresji
+      link: /przyczyny/przyczyny-depresji
+    - name: Czynniki ryzyka
+      link: /przyczyny/czynniki-ryzyka
 - name: Leczenie
   children:
     - name: Leczenie farmakologiczne
