@@ -15,68 +15,31 @@ features:
 - icon: solid fa-signal
   title: Sed magna finibus
   excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-
-posts:
-- image: /images/pic01.jpg
-  title: Interdum aenean
-  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-  url: "#"
-- image: /images/pic02.jpg
-  title: Nulla amet dolore
-  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-  url: "#"
-- image: /images/pic03.jpg
-  title: Tempus ullamcorper
-  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-  url: "#"
-- image: /images/pic04.jpg
-  title: Sed etiam facilis
-  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-  url: "#"
-- image: /images/pic05.jpg
-  title: Feugiat lorem aenean
-  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-  url: "#"
-- image: /images/pic06.jpg
-  title: Amet varius aliquam
-  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
-  url: "#"
 ---
 
 <!-- Banner -->
-	<section id="banner">
+	<section>
 		<div class="content">
 			<header>
 				<h1>Depresja poporodowa</h1>
 				<p>Choroba, która może dotknąć każdej kobiety!</p>
 			</header>
-			<p>Wszystko nam mówi, że wraz z momentem narodzin dziecka powinniśmy stać się kochającymi i szczęśliwymi rodzicami. Tymczasem zapominamy, że jest to również jedno z największych życiowych wyzwań. Ból poporodowy, burza hormonów, nowa sytuacja i zmęczenie, to tylko część czynników, które mogą sprawiać, że będziemy czuli się bezradni i przygnębieni. Gdy uczucie smutku i rozbicia towarzyszy nam przez okres dłuższy niż 
-2 tygodnie, a dodatkowo zaburza nasze codzienne funkcjonowanie, może to oznaczać, że dotknęła nas depresja poporodowa. Może ona przytrafić się każdej kobiecie, a jej objawy nie muszą wystąpić bezpośrednio po porodzie lecz nawet rok po urodzeniu dziecka.</p>
-
-				<p>Należy jednak pamiętać, że jest to uleczalna choroba, która wymaga jedynie odpowiedniej opieki lekarskiej i/lub terapeutycznej.</p>
-<p>Szacuje się, że depresja poporodowa dotyka nawet 15% kobiet, a także część mężczyzn. Skala problemu jest więc ogromna. Niestety tabu społeczne nadal skłania wiele osób do milczenia i niepodejmowania leczenia. Pora abyśmy to zmienili i zaczęli o tym rozmawiać!
-</p>
-			<ul class="actions">
-				<li><a href="#" class="button large">Learn More</a></li>
-			</ul>
+            <section id="banner">
+                <p>Wszystko nam mówi, że wraz z momentem narodzin dziecka powinniśmy stać się kochającymi i szczęśliwymi rodzicami. Tymczasem zapominamy, że jest to również jedno z największych życiowych wyzwań. Ból poporodowy, burza hormonów, nowa sytuacja i zmęczenie, to tylko część czynników, które mogą sprawiać, że będziemy czuli się bezradni i przygnębieni. Gdy uczucie smutku i rozbicia towarzyszy nam przez okres dłuższy niż
+    2 tygodnie, a dodatkowo zaburza nasze codzienne funkcjonowanie, może to oznaczać, że dotknęła nas depresja poporodowa. Może ona przytrafić się każdej kobiecie, a jej objawy nie muszą wystąpić bezpośrednio po porodzie lecz nawet rok po urodzeniu dziecka.</p>
+                <span class="image object">
+                    <img src="{{ site.baseurl }}/images/pic10.jpg" alt="" />
+                </span>
+            </section>
+            <p>Należy jednak pamiętać, że jest to uleczalna choroba, która wymaga jedynie odpowiedniej opieki lekarskiej i/lub terapeutycznej.</p>
+            <p>Szacuje się, że depresja poporodowa dotyka nawet 15% kobiet, a także część mężczyzn. Skala problemu jest więc ogromna. Niestety tabu społeczne nadal skłania wiele osób do milczenia i niepodejmowania leczenia. Pora abyśmy to zmienili i zaczęli o tym rozmawiać! </p>
 		</div>
-		<span class="image object">
-			<img src="{{ site.baseurl }}/images/pic10.jpg" alt="" />
-		</span>
 	</section>
 
 <!-- Section -->
 	<section>
 		<header class="major">
-			<h2>Erat lacinia</h2>
+			<h2>Dowiedz się więcej</h2>
 		</header>
 		{% include components/features.html features=page.features %}
-	</section>
-
-<!-- Section -->
-	<section>
-		<header class="major">
-			<h2>Ipsum sed dolor</h2>
-		</header>
-		{% include components/posts.html posts=page.posts %}
 	</section>

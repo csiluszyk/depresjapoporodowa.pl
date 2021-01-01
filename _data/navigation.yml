@@ -22,7 +22,7 @@
       link: /leczenie/leczenie-farmakologiczne
     - name: Psychoterapia
       link: /leczenie/psychoterapia
-- name: Zasoby
+- name: Publikacje
   children:
     - name: Książki
       link: /publikacje/ksiazki
