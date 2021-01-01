@@ -2,9 +2,12 @@
 
 	#banner {
 		@include vendor('display', 'flex');
-
 		h1 {
 			margin-top: -0.125em;
+		}
+
+		p {
+			@include padding(3em, 0);
 		}
 
 		.content {
