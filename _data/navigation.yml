@@ -25,10 +25,10 @@
 - name: Zasoby
   children:
     - name: Książki
-      link: /zasoby/ksiazki
+      link: /publikacje/ksiazki
     - name: Wywiady
-      link: /zasoby/wywiady
+      link: /publikacje/wywiady
     - name: Materiały wideo
-      link: /zasoby/materialy-wideo
+      link: /publikacje/materialy-wideo
     - name: Publikacje naukowe
-      link: /zasoby/publikacje-naukowe
+      link: /publikacje/publikacje-naukowe
