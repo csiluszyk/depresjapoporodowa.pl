@@ -10,7 +10,7 @@ Psychoza poporodowa to poważna choroba psychiczna, którą należy traktować j
 
 ## Objawy
 
-- **Halucynacje** - widzi się, słyszy bądź czuje rzeczy/osoby, które nie istnieją w rzeczywistości, żyje się w świecie fantazji, częste są fantazje o zabiciu siebie, innych lub dziecka
+- **Halucynacje** - widzi się, słyszy bądź czuje rzeczy/osoby, które nie istnieją w rzeczywistości, żyje się w świecie fantazji, mogą wystąpić fantazje o zabiciu siebie, innych lub dziecka
 - **Urojenia** - to nieprawdziwe myśli, przekonania, podtrzymywane mimo dowodów na ich nieprawdziwość np. matka może być przekonana o nadnaturalnej niezwykłości, uważać że zagraża jej i jej dziecku nieustanne niebezpieczeństwo, może uważać że w dziecko wstąpił demon
 - **Zmiana charakteru** -  matka znacząco zmienia swoją osobowość, zachowuje się inaczej niż zwykle, czuje się wyobcowana (depersonalizacja) lub postrzega środowisko jako bardzo zmienione (derealizacja)
 - **Utrata zahamowań** - osoba nie przestrzega reguł społecznych np. obraża innych, zachowuje się prowokacyjnie 
@@ -63,7 +63,7 @@ Gdy kobieta otrzyma odpowiednią i szybką pomoc tzn. otrzyma leczenie farmakolo
 
 
 ## Wsparcie dla partnera, bliskich i przyjaciół
-Fakt zachorowania osoby bliskiej na psychozę poporodową jest ogromnie stresującym wydarzeniem dla najbliższych osób. Pamiętaj, żeby zadbać też o siebie. Staraj się znajdywać czas dla siebie, rozmawiaj z zaufanymi osobami o tym co Cię spotyka, a kiedy widzisz potrzebę, nie bój się poprosić o pomoc i udać się do specjalisty.
+Fakt zachorowania osoby bliskiej na psychozę poporodową jest ogromnie stresującym wydarzeniem dla najbliższych osób. Pamiętaj, żeby zadbać też o siebie. Staraj się znajdywać czas na własny odpoczynek, rozmawiaj z zaufanymi osobami o tym co Cię spotyka, a kiedy widzisz potrzebę, nie bój się poprosić o pomoc i udaj się do specjalisty.
 
 
 
