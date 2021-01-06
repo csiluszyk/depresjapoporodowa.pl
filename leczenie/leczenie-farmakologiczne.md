@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Leczenie farmakologiczne
+img: leczenie-farmakologiczne.jpg
 ---
 
 Zażółć gęślą jaźń

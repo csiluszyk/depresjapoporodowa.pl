@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Psychoterapia
+img: psychoterapia.jpg
 ---
 
 Zażółć gęślą jaźń
