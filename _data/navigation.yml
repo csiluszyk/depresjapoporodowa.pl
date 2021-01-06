@@ -3,7 +3,7 @@
 - name: Objawy
   children:
     - name: Objawy depresji
-      link: /objawy/elements
+      link: /objawy/objawy-depresji
     - name: Psychoza poporodowa
       link: /objawy/psychoza-poporodowa
     - name: Depresja a "baby blues"
