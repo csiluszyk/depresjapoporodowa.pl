@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Generic
+title: Wywiady
+img: wywiady.jpg
 ---
 
 Zażółć gęślą jaźń

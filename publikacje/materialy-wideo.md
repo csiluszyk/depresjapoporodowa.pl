@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Generic
+title: Materiały wideo
+img: materialy-wideo.jpg
 ---
 
 Zażółć gęślą jaźń

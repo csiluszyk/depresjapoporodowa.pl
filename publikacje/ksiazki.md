@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Generic
+title: Książki
+img: ksiazki.jpg
 ---
 
 Zażółć gęślą jaźń
