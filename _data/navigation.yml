@@ -24,10 +24,10 @@
       link: /leczenie/psychoterapia
     - name: Samopomoc
       link: /leczenie/samopomoc
-- name: Fakti i mity
-  link: /fakty-i-mity
 - name: Informacje dla bliskich
   link: /informacje-dla-bliskich
+- name: Fakti i mity
+  link: /fakty-i-mity
 - name: Materiały
   children:
     - name: Wywiady
