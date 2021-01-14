@@ -22,13 +22,16 @@
       link: /leczenie/leczenie-farmakologiczne
     - name: Psychoterapia
       link: /leczenie/psychoterapia
-- name: Publikacje
+- name: Materiały
   children:
-    - name: Książki
-      link: /publikacje/ksiazki
     - name: Wywiady
-      link: /publikacje/wywiady
+      link: /materialy/wywiady
+    - name: Książki
+      link: /materialy/ksiazki
     - name: Materiały wideo
-      link: /publikacje/materialy-wideo
+      link: /materialy/materialy-wideo
+    - name: Podcasty
+      link: /materialy/podcasty
     - name: Publikacje naukowe
-      link: /publikacje/publikacje-naukowe
+      link: /materialy/publikacje-naukowe
+
