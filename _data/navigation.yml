@@ -28,6 +28,8 @@
   link: /fakty-i-mity
 - name: Informacje dla bliskich
   link: /informacje-dla-bliskich
+- name: O nas
+  link: /o-nas
 - name: Materiały
   children:
     - name: Wywiady
