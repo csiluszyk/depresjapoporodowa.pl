@@ -26,6 +26,8 @@
       link: /leczenie/samopomoc
 - name: Fakti i mity
   link: /fakty-i-mity
+- name: Informacje dla bliskich
+  link: /informacje-dla-bliskich
 - name: Materiały
   children:
     - name: Wywiady
