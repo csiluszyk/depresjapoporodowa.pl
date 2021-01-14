@@ -40,6 +40,5 @@
       link: /materialy/podcasty
     - name: Publikacje naukowe
       link: /materialy/publikacje-naukowe
- - name: O nas
-   link: /o-nas
-
+- name: O nas
+  link: /o-nas

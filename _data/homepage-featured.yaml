@@ -1,0 +1,16 @@
+- icon: solid fa-question
+  title: Test na depresję
+  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+  link: /objawy/esdp
+- icon: solid fa-heartbeat
+  title: Objawy
+  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+  link: /objawy/objawy-depresji
+- icon: solid fa-book-medical
+  title: Jak sobie pomóc
+  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+  link: /leczenie/samopomoc
+- icon: solid fa-baby-carriage
+  title: Fakty i mity
+  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+  link: /fakty-i-mity

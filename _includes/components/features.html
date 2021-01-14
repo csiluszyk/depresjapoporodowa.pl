@@ -1,9 +1,9 @@
 <!-- Features -->
 	<div class="features">
 
-		{% for feature in include.features %}
+		{% for feature in site.data.homepage-featured %}
 
-			<article>
+		<article>
 
 				{% if feature.icon %}
 					<span class="icon {{ feature.icon }}"></span>
@@ -13,9 +13,9 @@
 					<h3>{{ feature.title }}</h3>
 					<p>{{ feature.excerpt | remove: "<p>" | remove: "</p>" }}</p>
 
-					{% if feature.url %}
+					{% if feature.link%}
 						<ul class="actions">
-							<li><a class="button" href="#">Read More</a></li>
+							<li><a class="button" href="{{ feature.link }}">Czytaj dalej</a></li>
 						</ul>
 					{% endif %}
 
