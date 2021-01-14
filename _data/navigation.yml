@@ -26,7 +26,7 @@
       link: /leczenie/samopomoc
 - name: Informacje dla bliskich
   link: /informacje-dla-bliskich
-- name: Fakti i mity
+- name: Fakty i mity
   link: /fakty-i-mity
 - name: Materiały
   children:
