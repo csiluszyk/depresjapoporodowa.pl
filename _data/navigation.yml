@@ -22,6 +22,8 @@
       link: /leczenie/leczenie-farmakologiczne
     - name: Psychoterapia
       link: /leczenie/psychoterapia
+    - name: Samopomoc
+      link: /leczenie/samopomoc
 - name: Materiały
   children:
     - name: Wywiady
