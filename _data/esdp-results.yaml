@@ -1,13 +1,9 @@
-- result: "Immediate discussion required. Refer to PCP ± mental health
-  specialist or emergency resource for further assessment and intervention as
-  appropriate. Urgency of referral will depend on several factors including:
-  whether the suicidal ideation is accompanied by a plan, whether there has been
-  a history of suicide attempts, whether symptoms of a psychotic disorder are
-  present and/or there is concern about harm to the baby."
-- result: "Depression not likely. Continue support."
-- result: "Depression possible. Support, re-screen in 2 –  4 weeks. Consider
-  referral to primary care provider (PCP)."
-- result: "Fairly high possibility of depression. Monitor, support and offer
-  education. Refer to PCP."
-- result: "Probable depression. Diagnostic assessment and treatment by PCP
-  and/or specialist."
+- result: "Twój stan zdrowia powinien natychmiast zbadać lekarz. Jeżeli masz myśli samobójcze zadzwoń na numer 999. Tam poinformują Cię, gdzie możliwa jest natychmiastowa konsultacja psychiatryczna. To czego doświadczasz w depresji jest straszne, ale choć ciężko Ci w to teraz uwierzyć, możesz poczuć się lepiej - depresja jest uleczalna!" 
+
+- result: "Raczej nie masz depresji"
+- result: "Możliwe, że cierpisz na depresję lub doświadczasz trudności emocjonalnych. 
+Zadbaj o wsparcie. Zalecamy powtórne wykonanie testu za 2-4 tygodnie. Rozważ kontakt z lekarzem rodzinnym lub psychologiem."
+- result: "Istnieje dosyć duża możliwość, że cierpisz na depresję. 
+Poszukaj wsparcia. Obserwuj swoje samopoczucie i zdobądź wiedzę na temat depresji. Najlepiej skontaktuj się z lekarzem psychiatrą/ psychologiem/ lekarzem rodzinnym."
+- result: "Prawdopodobnie cierpisz na depresję. 
+Skontaktuj się z lekarzem psychiatrą/ psychologiem lub lekarzem rodzinnym. Nie czekaj aż symptomy się u Ciebie pogłębią. Pamiętaj, że depresja jest uleczalna."
