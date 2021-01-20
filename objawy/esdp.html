@@ -4,6 +4,17 @@ title: Edynburska Skala Depresji Poporodowej
 ---
 
 <h2>Test</h2>
+<div class="box">
+    <h3>Ważne</h3>
+    <p>
+        Poniższy kwestionariusz jest narzędziem pomocniczym, jego wyniki mogą
+        posłużyć jako wskazówka, ale nie zastępuje on badania lekarskiego! Jednak w
+        przypadku, gdy Twój wynik wskazuje na możliwość występowania depresji należy
+        z pewnością skontaktować się z lekarzem. Możesz wtedy na spotkanie zabrać
+        uzyskane wyniki i pokazać je specjaliście. Tylko on może postawić lub
+        wykluczyć diagnozę i ustalić natężenie problemu.
+    </p>
+</div>
 <form name="esdp-form">
     <ol>
     {% for item in site.data.esdp-test %}
@@ -19,7 +30,7 @@ title: Edynburska Skala Depresji Poporodowej
     </ol>
     <button type="submit">Sprawdź wynik</button>
 </form>
-<div id="esdp-result" hidden>
+<div class="box" id="esdp-result" hidden>
 <h3>Twój wynik: <span id="esdp-score">0</span> pkt.</h3>
 
 {% for item in site.data.esdp-results %}

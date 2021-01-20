@@ -264,7 +264,8 @@
 
 		$(".esdp-result").hide();
 		$("#esdp-score").text(score);
-		if ($("form[name='esdp-form'] input[name='q10']:checked").val() !== '0') {
+		var q10 = $("form[name='esdp-form'] input[name='q10']:checked").val();
+		if (q10 === "2" || q10 === "3") {
 			$("#esdp-result-0").show();
 		} else if (score < 9) {
 			$("#esdp-result-1").show();
