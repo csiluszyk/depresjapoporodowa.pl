@@ -74,6 +74,8 @@ Fakt zachorowania osoby bliskiej na psychozę poporodową jest ogromnie stresuj�
 
 https://womensmentalhealth.org/?s=postpartum+psychosis
 
+https://www.rcpsych.ac.uk/mental-health/problems-disorders/postpartum-psychosis
+
 https://www.postpartum.net/postpartum-psychosis-i-didnt-know-motherhood-could-have-a-dark-side-until-i-saw-demons-threatening-to-kill-my-baby/
 
 Perry, A., Gordon-Smith, K., Jones, L., & Jones, I. (2021). Phenomenology, Epidemiology and Aetiology of Postpartum Psychosis: A Review. Brain Sciences, 11(1), 47.
