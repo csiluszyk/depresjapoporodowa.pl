@@ -68,7 +68,7 @@ Fakt zachorowania osoby bliskiej na psychozę poporodową jest ogromnie stresuj�
 
 
 
-## Jeśli chcesz wiedzieć więcej
+## Więcej informacji znajdziesz:
 
 [https://www.nhs.uk/conditions/post-partum-psychosis/](https://www.nhs.uk/conditions/post-partum-psychosis/)
 
