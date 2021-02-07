@@ -1,16 +1,16 @@
 - icon: solid fa-question
   title: Test na depresję
-  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+  excerpt: Podany test nie zastąpi diagnozy specjalisty, ale może pomóc Ci w zrozumieniu tego, czego doświadczasz.
   link: /objawy/esdp
 - icon: solid fa-heartbeat
   title: Objawy
-  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+  excerpt: Depresja, szczególnie poporodowa, może przejawiać się na wiele sposobów. Nie zawsze jest to smutek i brak energii.
   link: /objawy/objawy-depresji
 - icon: solid fa-book-medical
   title: Jak sobie pomóc
-  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+  excerpt: Nie mamy wpływu na to, czy zachorujemy na depresję, ale możemy nauczyć się jak z nią walczyć.
   link: /leczenie/samopomoc
 - icon: solid fa-baby-carriage
   title: Fakty i mity
-  excerpt: Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+  excerpt: Wokół depresji poporodowej narosło wiele mitów. Co jednak mówią naukowe fakty?
   link: /fakty-i-mity
