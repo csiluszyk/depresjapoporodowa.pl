@@ -16,7 +16,7 @@ Im szybciej otrzymasz profesjonalną pomoc, tym szybciej Ty i Twoja rodzina pocz
 
 ## Rodzaje leków stosowanych w depresji
 
-Istnieje kilka rodzajów leków stosowanych w przypadku depresji. Każda osoba inaczej reaguje na dany lek, dlatego należy pamiętać, że coś co może działać u jednej osoby z podobnymi symptomami, nie musi okazać się skuteczne w naszym przypadku. To samo tyczy się dawkowania - jeśli ktoś przyjmuje mniejszą dawkę niż my, nie oznacza to koniecznie tego, że nasza depresja jest cięższa, ponieważ każdy z nas metabolizuje leki inaczej.
+Istnieje kilka rodzajów leków stosowanych w przypadku depresji. Każda osoba inaczej reaguje na dany lek, dlatego należy pamiętać, że coś co może działać u jednej osoby z podobnymi symptomami, nie musi okazać się skuteczne w naszym przypadku. To samo tyczy się dawkowania - jeśli ktoś przyjmuje mniejszą dawkę niż my, nie oznacza to koniecznie tego, że nasza depresja jest cięższa. Każdy z nas metabolizuje bowiem leki inaczej.
 
 Pełną skuteczność leku można niestety zazwyczaj ocenić dopiero po ok. 2-6 tygodniach, kiedy organizm nasyci się wystarczająco daną substancją. Zdarza się jednak, że osoby czują się lepiej już po pierwszej tabletce. Najczęściej obserwuje się dobrą odpowiedź na pierwszy zastosowany lek, w innych przypadkach znalezienie właściwego leczenia może potrwać dłużej i odbywa się metodą prób i błędów. Warto więc uzbroić się w cierpliwość.
 
