@@ -21,6 +21,7 @@ Istnieje kilka rodzajów leków stosowanych w przypadku depresji. Każda osoba i
 Pełną skuteczność leku można niestety zazwyczaj ocenić dopiero po ok. 2-6 tygodniach, kiedy organizm nasyci się wystarczająco daną substancją. Zdarza się jednak, że osoby czują się lepiej już po pierwszej tabletce. Najczęściej obserwuje się dobrą odpowiedź na pierwszy zastosowany lek, w innych przypadkach znalezienie właściwego leczenia może potrwać dłużej i odbywa się metodą prób i błędów. Warto więc uzbroić się w cierpliwość.
 
 Leki stosowane w depresji to:
+
 **1)  Antydepresanty - NIE SĄ UZALEŻNIAJĄCE!** 
 **SSRI** - jest to najnowsza generacja leków antydepresyjnych. Są one najczęściej stosowane, ponieważ u większości osób następuje po nich oczekiwana poprawa, a skutki uboczne są niewielkie i rzadkie. 
 **Trójcykliczne leki przeciwdepresyjne** - najczęściej są przepisywane u osób, u których leki SSRI nie zadziałały. Część psychiatrów preferuje przepisywanie tych leków kobietom w ciąży i matkom karmiącym piersią, ponieważ leki te są na rynku dłużej i ich działanie oraz skutki uboczne są lepiej zbadane.
