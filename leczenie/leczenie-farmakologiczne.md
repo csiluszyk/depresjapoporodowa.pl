@@ -32,7 +32,7 @@ Leki stosowane w depresji to:
 
 **3) Leki nasenne** - większość z tych leków to równocześnie leki uspokajające tzn. że przy ich dłuższym stosowaniu istnieje ryzyko uzależnienia. Używa się ich więc zazwyczaj tylko na początku, zanim antydepresanty (które dobrze przeciwdziałają bezsenności) zaczną działać. Ich stosowanie jest pomocne, ponieważ depresja często powoduje bezsenność, a sen jest bardzo istotny w procesie zdrowienia. 
 
-**4) Stabilizatory nastroju** - mogą być stosowane aby wzmocnić działanie antydepresantów, a także w przypadku choroby afektywnej-dwubiegunowej. Często stosowane są również w bezsenności (brane są wtedy wieczorem), ponieważ mają działanie uspokajające.
+**4) Stabilizatory nastroju** - mogą być stosowane aby wzmocnić działanie antydepresantów, a także w przypadku choroby afektywnej dwubiegunowej. Często stosowane są również w bezsenności (brane są wtedy wieczorem), ponieważ mają działanie uspokajające.
 
 **5) Leki przeciwpsychotyczne** - głównie są używane w leczeniu psychozy poporodowej, jednak zdarza się (bardzo rzadko), że stosowane są również w przypadku ciężkiej bezsenności, która nie odpowiada na inne leki
 
