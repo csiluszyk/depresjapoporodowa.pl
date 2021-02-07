@@ -38,7 +38,7 @@ Leki stosowane w depresji to:
 ## Skutki uboczne leków
 Błędnym mniemaniem jest, że leki antydepresyjne sprawią, że będziemy otępiali/ powolni/ nie będziemy czuli emocji. Pamiętaj, że leki nie zmienią Twojej osobowości - one pomogą Ci poczuć się znowu sobą!
 
-Oczywiście leki stosowane w leczeniu depresji mogą powodować skutki uboczne. Jest to fakt. Jest to też prawdą dla wszystkich leków (czytaliście kiedyś ulotkę zwykłego Paracetamolu?). Trzeba jednak dodać, że dzisiejsze leki są dużo lepsze od tych stosowanych jeszcze kilkanaście lat temu. Szczególnie antydepresanty z grupy SSRI mają niewiele skutków ubocznych lub skutki te nie są trwałe i po kilku tygodniach stosowania zanikają. 
+Oczywiście leki stosowane w leczeniu depresji mogą powodować skutki uboczne. Jest to fakt. Jest to też prawdą dla wszystkich leków (czytaliście kiedyś ulotkę zwykłego Paracetamolu?). Trzeba jednak dodać, że dzisiejsze leki są dużo lepsze od tych stosowanych jeszcze kilkanaście lat temu. Szczególnie antydepresanty z grupy SSRI mają niewiele skutków ubocznych, a czasami są one nietrwałe (po kilku tygodniach mogą zaniknąć).
 
 Lista skutków ubocznych jest dla każdego leku inna. Jeśli odczuwasz lęk związany z tym, czego możesz doświadczyć, to stanowczo odradza się czytanie ulotek oraz postów w internecie. Pamiętajcie, że firmy farmaceutyczne muszą wypisać wszystkie możliwe zagrożenia, nawet jeśli ich prawdopodobieństwo jest bardzo niewielkie. Część osób zaczyna czuć rzekome skutki uboczne po samym przeczytaniu ulotki.
 
