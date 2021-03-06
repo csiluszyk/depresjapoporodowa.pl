@@ -8,15 +8,15 @@
 		line-height: 1.65;
 
 		@include breakpoint('<=xlarge') {
-			font-size: 11pt;
+			font-size: 13pt;
 		}
 
 		@include breakpoint('<=large') {
-			font-size: 10pt;
+			font-size: 13pt;
 		}
 
 		@include breakpoint('<=xxsmall') {
-			font-size: 10pt;
+			font-size: 13pt;
 		}
 	}
 
