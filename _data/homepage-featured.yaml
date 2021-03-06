@@ -2,15 +2,19 @@
   title: Test na depresję
   excerpt: Podany test nie zastąpi diagnozy specjalisty, ale może pomóc Ci w zrozumieniu tego, czego doświadczasz.
   link: /objawy/esdp
+  button: Wykonaj test
 - icon: solid fa-heartbeat
   title: Objawy
   excerpt: Depresja, szczególnie poporodowa, może przejawiać się na wiele sposobów. Nie zawsze jest to smutek i brak energii.
   link: /objawy/objawy-depresji
+  button: Czytaj dalej
 - icon: solid fa-book-medical
   title: Jak sobie pomóc
   excerpt: Nie mamy wpływu na to, czy zachorujemy na depresję, ale możemy nauczyć się jak z nią walczyć.
   link: /leczenie/samopomoc
+  button: Czytaj dalej
 - icon: solid fa-baby-carriage
   title: Fakty i mity
   excerpt: Wokół depresji poporodowej narosło wiele mitów. Co jednak mówią naukowe fakty?
   link: /fakty-i-mity
+  button: Czytaj dalej
