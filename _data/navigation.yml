@@ -4,10 +4,10 @@
   children:
     - name: Objawy depresji
       link: /objawy/objawy-depresji
-    - name: Psychoza poporodowa
-      link: /objawy/psychoza-poporodowa
     - name: Depresja a "baby blues"
       link: /objawy/baby-blues
+    - name: Psychoza poporodowa
+      link: /objawy/psychoza-poporodowa
     - name: Edymburska skala depresji poporodowej
       link: /objawy/esdp
 - name: Przyczyny
