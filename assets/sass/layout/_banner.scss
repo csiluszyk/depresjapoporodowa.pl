@@ -6,10 +6,6 @@
 			margin-top: -0.125em;
 		}
 
-		p {
-			@include padding(3em, 0);
-		}
-
 		.content {
 			@include vendor('flex-grow', '1');
 			@include vendor('flex-shrink', '1');
