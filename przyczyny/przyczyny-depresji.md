@@ -11,7 +11,7 @@ Przyczyny depresji poporodowej nie są do końca znane. Badania sugerują, że a
 Nie do końca wiemy co powoduje depresję, ale wiemy, że gdy ona wystąpi to jest związana z nierównowagą biochemiczną w mózgu. To nie jest więc wymyślona choroba! 
 
 
-**WAŻNE:** Warto zauważyć, że część czynników (np. deprywacja snu, przedefiniowanie relacji, lęk o zdrowie dziecka) dotyka nie tylko matek, ale również ojców. Dlatego u ojców również może wystąpić depresja poporodowa! Przypuszcza się, że dotyczy to nawet 9-10% mężczyzn [^Rao], [^Paulson].
+**WAŻNE:** Warto zauważyć, że część czynników (np. deprywacja snu, przedefiniowanie relacji, lęk o zdrowie dziecka) dotyka nie tylko matek, ale również ojców. Dlatego u ojców również może wystąpić depresja poporodowa! Przypuszcza się, że dotyczy to nawet 9-10% mężczyzn [^Rao][^Paulson].
 
 
 
@@ -29,7 +29,7 @@ Warto mieć na uwadze, że:
 
 - Poziom estrogenu w czasie ciąży jest 200 razy wyższy niż normalnie, progesteronu zaś od 50 do 100 razy wyższy. Po porodzie poziom stężenia tych hormonów spada w ciągu kilku dni do wartości oryginalnych. Wiadomo też, że estrogen i progesteron wpływają na neurotransmitery (m.in. serotoninę, dopaminę, noradrenalinę), które odpowiedzialne są za regulację nastroju [^link_postpartale]
 - W czasie ciąży poziom prolaktyny rośnie 20-50 razy i na takim poziomie utrzymuje się jeśli kobieta karmi piersią. Jeśli kobieta nie przystawia dziecka do piersi, poziom ten normalizuje się w ciągu 3 tygodni [^Szpunar]
-- U części mam może wystąpić poporodowe zapalenie tarczycy. Dotyczy to nawet  8% kobiet [^Keely, 2011]. Zaburzenia tarczycy wpływają na nastrój, a objawy mogą być mylone z depresją. Typowymi symptomami są drażliwość, nerwowość, lęk i ataki paniki, kołatanie serca, spadek energii, zaburzenia koncentracji, problemy ze snem. Dlatego w przypadku podejrzenia depresji powinno się wykonać badanie poziomu TSH, T4 i anty-TPO, aby wykluczyć ewentualne zapalenie tarczycy
+- U części mam może wystąpić poporodowe zapalenie tarczycy. Dotyczy to nawet  8% kobiet [^Keely]. Zaburzenia tarczycy wpływają na nastrój, a objawy mogą być mylone z depresją. Typowymi symptomami są drażliwość, nerwowość, lęk i ataki paniki, kołatanie serca, spadek energii, zaburzenia koncentracji, problemy ze snem. Dlatego w przypadku podejrzenia depresji powinno się wykonać badanie poziomu TSH, T4 i anty-TPO, aby wykluczyć ewentualne zapalenie tarczycy
 - W genezie depresji poporodowej ważną rolę mogą pełnić hormony stresu (kortyzol, ACTH, CRH), które stymulują oś podwzgórze-przysadka-nadnercza i wpływają na autonomiczny układ nerwowy. Trudne wydarzenia życiowe, zarówno po porodzie jak i w czasie ciąży, mogą mieć więc bezpośredni wpływ na rozwój nierównowagi chemicznej w mózgu [^Payne].
 
 
@@ -45,7 +45,7 @@ Wiemy, że insulina, która reguluje poziom cukru we krwi, wpływa również na 
 
 ### Niedobory witamin i minerałów
 
-Niedobór witamin i minerałów również może pogłębiać objawy depresji. Szczególnie narażone są kobiety z anemią, które straciły dużo krwi podczas porodu lub na skutek cesarskiego cięcia [^Wassef]. Również niedobór witaminy D może wpływać na większą podatność na zachorowanie na depresję poporodową [^Amini],[^AminiS]. Dlatego zazwyczaj psychiatra przed rozpoznaniem depresji zleca wykonanie badania krwi, celem wykluczenia anemii oraz niedoboru witaminy D.
+Niedobór witamin i minerałów również może pogłębiać objawy depresji. Szczególnie narażone są kobiety z anemią, które straciły dużo krwi podczas porodu lub na skutek cesarskiego cięcia [^Wassef]. Również niedobór witaminy D może wpływać na większą podatność na zachorowanie na depresję poporodową [^Amini][^AminiS]. Dlatego zazwyczaj psychiatra przed rozpoznaniem depresji zleca wykonanie badania krwi, celem wykluczenia anemii oraz niedoboru witaminy D.
 
 
 
@@ -71,7 +71,7 @@ Zarówno ból przewlekły (trwający wiele dni) jak i ostry (krótki ale silny) 
  
 ### Problemy zdrowotne w połogu
 
-W 6 tygodniu po porodzie zaplanowana jest wizyta kontrolna u ginekologa. Wydaje nam się, że do tego czasu ciało kobiety powinno się zregenerować i zagoić wszystkie poporodowe rany. U kobiety mogą jednak wystąpić dłużej trwające trudności i wcale nie jest to rzadka sytuacja. Hemoroidy, nietrzymanie moczu czy ból krocza (szczególnie przy stosunku) zdarza się dużo częściej niż się o tym słyszy, ponieważ wiele kobiet wstydzi się swoich dolegliwości. Kobiety, u których obserwuje się te trudności są również grupą bardziej narażoną na depresję poporodową [^Evensen], [^Fritel], [^Chang].
+W 6 tygodniu po porodzie zaplanowana jest wizyta kontrolna u ginekologa. Wydaje nam się, że do tego czasu ciało kobiety powinno się zregenerować i zagoić wszystkie poporodowe rany. U kobiety mogą jednak wystąpić dłużej trwające trudności i wcale nie jest to rzadka sytuacja. Hemoroidy, nietrzymanie moczu czy ból krocza (szczególnie przy stosunku) zdarza się dużo częściej niż się o tym słyszy, ponieważ wiele kobiet wstydzi się swoich dolegliwości. Kobiety, u których obserwuje się te trudności są również grupą bardziej narażoną na depresję poporodową [^Evensen][^Fritel][^Chang].
 
 
 ### Problemy z karmieniem piersią 
