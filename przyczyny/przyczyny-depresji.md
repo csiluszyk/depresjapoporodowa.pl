@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Przyczyny depresji
+img: przyczyny.jpg
 ---
 
 Przyczyny depresji poporodowej nie są do końca znane. Badania sugerują, że aby kobieta zapadła na depresję musi wystąpić jednocześnie kilka czynników. W przypadku każdej z matek jest to indywidualna “kombinacja” okoliczności. Dlatego też, choroba musi być leczona na różnych poziomach, dostosowanych do konkretnej osoby (pomoc specjalisty, krewnych, własne działania) (postpartale-depression.ch).
