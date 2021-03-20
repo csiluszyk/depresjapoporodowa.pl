@@ -3,6 +3,7 @@ layout: page
 title: Psychoterapia
 img: psychoterapia.jpg
 ---
+
 L.p. | Nazwa placówki | Koszt | Opis
 ---- | -------------- | ----- | ----
 1.   | Poradnie Zdrowia Psychicznego | bezpłatne | Na psychoterapię często obowiązują kolejki, ale wszystko zależy od konkretnej placówki. Nie ma w nich rejonizacji tzn. że jeśli w Twojej okolicy jest kilka Poradni warto zadzwonić do kilku miejsc i zapytać o terminy. O ile do psychiatry nie potrzeba skierowania, to do psychoterapeuty jest ono konieczne - może je wystawić lekarz rodzinny lub psychiatra.
