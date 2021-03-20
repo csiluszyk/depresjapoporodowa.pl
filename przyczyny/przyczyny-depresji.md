@@ -11,7 +11,7 @@ Przyczyny depresji poporodowej nie są do końca znane. Badania sugerują, że a
 Nie do końca wiemy co powoduje depresję, ale wiemy, że gdy ona wystąpi to jest związana z nierównowagą biochemiczną w mózgu. To nie jest więc wymyślona choroba! 
 
 <div class="box">
-<h2>WAŻNE</h2> 
+<h3>Ważne</h3> 
 Warto zauważyć, że część czynników (np. deprywacja snu, przedefiniowanie relacji, lęk o zdrowie dziecka) dotyka nie tylko matek, ale również ojców. Dlatego u ojców również może wystąpić depresja poporodowa! Przypuszcza się, że dotyczy to nawet 9-10% mężczyzn [^Rao][^Paulson].
 </div>
 
