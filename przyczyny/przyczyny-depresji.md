@@ -27,10 +27,10 @@ Badacze nie są ze sobą zgodni, jaką rolę odgrywają wahania hormonów w gene
 
 Warto mieć na uwadze, że:
 
-Poziom estrogenu w czasie ciąży jest 200 razy wyższy niż normalnie, progesteronu zaś od 50 do 100 razy wyższy. Po porodzie poziom stężenia tych hormonów spada w ciągu kilku dni do wartości oryginalnych. Wiadomo też, że estrogen i progesteron wpływają na neurotransmitery (m.in. serotoninę, dopaminę, noradrenalinę), które odpowiedzialne są za regulację nastroju [^link_postpartale]
-W czasie ciąży poziom prolaktyny rośnie 20-50 razy i na takim poziomie utrzymuje się jeśli kobieta karmi piersią. Jeśli kobieta nie przystawia dziecka do piersi, poziom ten normalizuje się w ciągu 3 tygodni [^Szpunar]
-U części mam może wystąpić poporodowe zapalenie tarczycy. Dotyczy to nawet  8% kobiet [^Keely, 2011]. Zaburzenia tarczycy wpływają na nastrój, a objawy mogą być mylone z depresją. Typowymi symptomami są drażliwość, nerwowość, lęk i ataki paniki, kołatanie serca, spadek energii, zaburzenia koncentracji, problemy ze snem. Dlatego w przypadku podejrzenia depresji powinno się wykonać badanie poziomu TSH, T4 i anty-TPO, aby wykluczyć ewentualne zapalenie tarczycy
-W genezie depresji poporodowej ważną rolę mogą pełnić hormony stresu (kortyzol, ACTH, CRH), które stymulują oś podwzgórze-przysadka-nadnercza i wpływają na autonomiczny układ nerwowy. Trudne wydarzenia życiowe, zarówno po porodzie jak i w czasie ciąży, mogą mieć więc bezpośredni wpływ na rozwój nierównowagi chemicznej w mózgu [^Payne].
+- Poziom estrogenu w czasie ciąży jest 200 razy wyższy niż normalnie, progesteronu zaś od 50 do 100 razy wyższy. Po porodzie poziom stężenia tych hormonów spada w ciągu kilku dni do wartości oryginalnych. Wiadomo też, że estrogen i progesteron wpływają na neurotransmitery (m.in. serotoninę, dopaminę, noradrenalinę), które odpowiedzialne są za regulację nastroju [^link_postpartale]
+- W czasie ciąży poziom prolaktyny rośnie 20-50 razy i na takim poziomie utrzymuje się jeśli kobieta karmi piersią. Jeśli kobieta nie przystawia dziecka do piersi, poziom ten normalizuje się w ciągu 3 tygodni [^Szpunar]
+- U części mam może wystąpić poporodowe zapalenie tarczycy. Dotyczy to nawet  8% kobiet [^Keely, 2011]. Zaburzenia tarczycy wpływają na nastrój, a objawy mogą być mylone z depresją. Typowymi symptomami są drażliwość, nerwowość, lęk i ataki paniki, kołatanie serca, spadek energii, zaburzenia koncentracji, problemy ze snem. Dlatego w przypadku podejrzenia depresji powinno się wykonać badanie poziomu TSH, T4 i anty-TPO, aby wykluczyć ewentualne zapalenie tarczycy
+- W genezie depresji poporodowej ważną rolę mogą pełnić hormony stresu (kortyzol, ACTH, CRH), które stymulują oś podwzgórze-przysadka-nadnercza i wpływają na autonomiczny układ nerwowy. Trudne wydarzenia życiowe, zarówno po porodzie jak i w czasie ciąży, mogą mieć więc bezpośredni wpływ na rozwój nierównowagi chemicznej w mózgu [^Payne].
 
 
 ### Deprywacja snu
