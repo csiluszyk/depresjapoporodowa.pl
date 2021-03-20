@@ -1,8 +1,12 @@
 /* Contact */
 
-	ul.contact {
+	div.contact {
 		list-style: none;
 		padding: 0;
+
+		span {
+			margin-right: 1em;
+		}
 
 		li {
 			@include icon;
