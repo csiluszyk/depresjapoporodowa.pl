@@ -12,8 +12,8 @@ Psychoza poporodowa to poważna choroba psychiczna, którą należy traktować j
 
 ## Objawy
 
-- **Halucynacje** - widzi się, słyszy bądź czuje rzeczy/osoby, które nie istnieją w rzeczywistości, żyje się w świecie fantazji, mogą wystąpić fantazje o zabiciu siebie, innych lub dziecka
-- **Urojenia** - to nieprawdziwe myśli, przekonania, podtrzymywane mimo dowodów na ich nieprawdziwość np. matka może być przekonana o nadnaturalnej niezwykłości, uważać że zagraża jej i jej dziecku nieustanne niebezpieczeństwo, może uważać że w dziecko wstąpił demon
+- **Halucynacje** - widzi się, słyszy bądź czuje rzeczy/osoby, które nie istnieją w rzeczywistości; żyje się w świecie fantazji, mogą wystąpić fantazje o zabiciu siebie, innych lub dziecka
+- **Urojenia** - to nieprawdziwe myśli, przekonania, podtrzymywane mimo dowodów na ich nieprawdziwość np. matka może być przekonana o nadnaturalnej sile, może uważać że zagraża jej dziecku niebezpieczeństwo lub że w jej dziecko wstąpił demon
 - **Zmiana charakteru** -  matka znacząco zmienia swoją osobowość, zachowuje się inaczej niż zwykle, czuje się wyobcowana (depersonalizacja) lub postrzega środowisko jako bardzo zmienione (derealizacja)
 - **Utrata zahamowań** - osoba nie przestrzega reguł społecznych np. obraża innych, zachowuje się prowokacyjnie 
 - **Obniżony nastrój lub nastrój maniakalny** - w przypadku obniżonego nastroju matka ma objawy depresyjne tzn. często płacze, wycofuje się, nie ma energii, zaś w przypadku nastroju maniakalnego matka dużo i szybko mówi, jest pobudzona, robi dużo rzeczy na raz, jest przesadnie szczęśliwa i żywiołowa
@@ -53,15 +53,15 @@ Gdy kobieta otrzyma odpowiednią i szybką pomoc tzn. otrzyma leczenie farmakolo
 
 ## W jaki sposób wspierać matkę
 - Bądź cierpliwy i wyrozumiały
-- Otwarcie pytaj jakiej pomocy potrzebuje osoba chora
-- W miarę możliwości pomagaj w porządkach domowych, zakupach, gotowaniu
-- Pomagaj w opiece nad dzieckiem, szczególnie podczas nocnych karmień, gdyż sen jest niezwykle istotny w procesie zdrowienia 
 - Mów tak często jak to konieczne, że kobieta nie jest winna tego, że jest chora
 - Zapewniaj kobietę, że ją kochasz i że zawsze może ona na Ciebie liczyć
-- Słuchaj i miej czas dla osoby chorej
-- Zachowuj spokój podczas jej ewentualnych wybuchów złości/ płaczu
+- Słuchaj i miej czas dla niej czas
+- Zachowuj spokój podczas jej wybuchów złości/ płaczu
 - Ogranicz wizyty gości
-- Możesz zaproponować, że ty będziesz kontaktować się z waszymi bliskimi i przyjaciółmi
+- Przejmij obowiązek kontaktowania się z waszymi bliskimi i przyjaciółmi
+- Otwarcie pytaj jakiej pomocy potrzebuje kobieta
+- W miarę możliwości pomagaj w porządkach domowych, zakupach, gotowaniu
+- Pomagaj w opiece nad dzieckiem, szczególnie podczas nocnych karmień, gdyż sen jest niezwykle istotny w procesie zdrowienia 
 
 
 ## Wsparcie dla partnera, bliskich i przyjaciół
@@ -72,19 +72,13 @@ Fakt zachorowania osoby bliskiej na psychozę poporodową jest ogromnie stresuj�
 
 ## Więcej informacji znajdziesz:
 
-[https://www.nhs.uk/conditions/post-partum-psychosis/](https://www.nhs.uk/conditions/post-partum-psychosis/)
-
-[https://womensmentalhealth.org/?s=postpartum+psychosis](https://womensmentalhealth.org/?s=postpartum+psychosis)
-
-[https://www.rcpsych.ac.uk/mental-health/problems-disorders/postpartum-psychosis](https://www.rcpsych.ac.uk/mental-health/problems-disorders/postpartum-psychosis)
-
-[https://www.mind.org.uk/information-support/types-of-mental-health-problems/postnatal-depression-and-perinatal-mental-health/postpartum-psychosis/](https://www.mind.org.uk/information-support/types-of-mental-health-problems/postnatal-depression-and-perinatal-mental-health/postpartum-psychosis/)
-
-[https://www.postpartum.net/postpartum-psychosis-i-didnt-know-motherhood-could-have-a-dark-side-until-i-saw-demons-threatening-to-kill-my-baby/](https://www.postpartum.net/postpartum-psychosis-i-didnt-know-motherhood-could-have-a-dark-side-until-i-saw-demons-threatening-to-kill-my-baby/)
-
-Perry, A., Gordon-Smith, K., Jones, L., & Jones, I. (2021). Phenomenology, Epidemiology and Aetiology of Postpartum Psychosis: A Review. Brain Sciences, 11(1), 47.
-
-VanderKruik, R., Barreix, M., Chou, D., Allen, T., Say, L., & Cohen, L. S. (2017). The global prevalence of postpartum psychosis: a systematic review. BMC psychiatry, 17(1), 272.
+- [https://www.nhs.uk/conditions/post-partum-psychosis/](https://www.nhs.uk/conditions/post-partum-psychosis/)
+- [https://womensmentalhealth.org/?s=postpartum+psychosis](https://womensmentalhealth.org/?s=postpartum+psychosis)
+- [https://www.rcpsych.ac.uk/mental-health/problems-disorders/postpartum-psychosis](https://www.rcpsych.ac.uk/mental-health/problems-disorders/postpartum-psychosis)
+- [https://www.mind.org.uk/information-support/types-of-mental-health-problems/postnatal-depression-and-perinatal-mental-health/postpartum-psychosis/](https://www.mind.org.uk/information-support/types-of-mental-health-problems/postnatal-depression-and-perinatal-mental-health/postpartum-psychosis/)
+- [https://www.postpartum.net/postpartum-psychosis-i-didnt-know-motherhood-could-have-a-dark-side-until-i-saw-demons-threatening-to-kill-my-baby/](https://www.postpartum.net/postpartum-psychosis-i-didnt-know-motherhood-could-have-a-dark-side-until-i-saw-demons-threatening-to-kill-my-baby/)
+- Perry, A., Gordon-Smith, K., Jones, L. i Jones, I. (2021). Phenomenology, Epidemiology and Aetiology of Postpartum Psychosis: A Review. Brain Sciences, 11(1), 47.
+- VanderKruik, R., Barreix, M., Chou, D., Allen, T., Say, L. i Cohen, L. S. (2017). The global prevalence of postpartum psychosis: a systematic review. BMC psychiatry, 17(1), 272.
 
 
 
