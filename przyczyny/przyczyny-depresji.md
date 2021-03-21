@@ -8,7 +8,7 @@ img: przyczyny.jpg
 
 Przyczyny depresji poporodowej nie są do końca znane. Badania sugerują, że aby kobieta zapadła na depresję musi wystąpić jednocześnie kilka czynników. W przypadku każdej z matek jest to indywidualna “kombinacja” okoliczności. Dlatego też, choroba musi być leczona na różnych poziomach, dostosowanych do konkretnej osoby (pomoc specjalisty, krewnych, własne działania) [^link_postpartale]. 
 
-**Nie do końca wiemy co wywołuję depresję, ale wiemy, że gdy wystąpi, jest związana z nierównowagą biochemiczną w mózgu. To nie jest więc wymyślona choroba!** 
+**Nie do końca wiemy co wywołuje depresję. Wiemy za to, że gdy wystąpi, jest związana z nierównowagą biochemiczną w mózgu. To nie jest więc wymyślona choroba!** 
 
 <div class="box">
 <h3>Ważne</h3> 
