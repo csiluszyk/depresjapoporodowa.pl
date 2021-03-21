@@ -6,7 +6,9 @@ img: psychoza.jpg
 
 Psychoza poporodowa występuje znacznie rzadziej niż depresja poporodowa. Szacuje się, że dotyka ona jedną do trzech na 1000 matek. Początek psychozy występuje zazwyczaj w pierwszych 1-4 tygodniach po porodzie. 
 
+<div class="box">
 Psychoza poporodowa to poważna choroba psychiczna, którą należy traktować jako stan nagły. Należy jak najszybciej skontaktować się z lekarzem w celu przeniesienia matki na leczenie. Jest to warunek konieczny, ponieważ istnieje wysokie ryzyko, że matka skrzywdzi siebie i/lub dziecko.
+</div>
 
 ## Objawy
 
