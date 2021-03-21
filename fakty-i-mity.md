@@ -25,6 +25,9 @@ Większość mam z PPD darzy swoje pociechy ogromnym ciepłem. Z pewnością jed
 ## Kobieta z PPD jest obciążeniem dla rodziny - jej depresja sprawia, że dziecko nie rozwija się prawidłowo
 Jest to częsta obawa mam cierpiących na depresję, szczególnie jeśli nie są w stanie darzyć dziecka miłością. Rzeczywiście może Ci być trudno adekwatnie reagować na potrzeby malucha. Jednak samo to nie jest zazwyczaj w stanie wyrządzić szkód w jego rozwoju. Ważne jest wtedy, aby inni opiekunowie (ojciec, dziadkowie, przyjaciele, profesjonalna pomoc) dawali maluchowi jak najwięcej uwagi i ciepłego kontaktu.
 
+## Gdy przyznam się, że sobie nie radzę, odbiorą mi dziecko
+Nikt nie odbierze Ci dziecka z powodu depresji! Tak jak nikt nie odbierze nikomu dziecka z powodu jakiejkolwiek innej choroby. To PPD sprawia, że masz trudności w opiece nad maluchem, lecz pamiętaj, że stan ten nie będzie trwał wiecznie. Jesteś obecnie w kryzysie, a zadaniem otoczenia jest zapewnić Ci potrzebne wsparcie. Nie zwlekaj więc z poproszeniem o pomoc.
+
 ## Leki antydepresyjne zmieniają osobowość
 To depresja Cię zmienia. To ona sprawia, że nie czujesz się sobą. Leki antydepresyjne mają za zadanie przywrócić Ci dawną równowagę - przywrócić dawną Ciebie.
 
