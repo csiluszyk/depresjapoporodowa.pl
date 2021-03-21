@@ -55,7 +55,7 @@ Każdy przypadek powinien być traktowany indywidualnie. Dużo zależy od stosow
 Gdy poczujemy się lepiej, nie należy przerywać samemu przyjmowania leków. Czujemy się lepiej dzięki tym lekom, a gdy przerwiemy nagle ich przyjmowanie, to istnieje wysokie ryzyko nawrotu chorobu, najczęściej w cięższej postaci. Dlatego każdą zmianę w przyjmowaniu i dawkowaniu leków należy skonsultować ze specjalistą.
 
 
-## Leki podczas karmienia piersią lub w ciąży
+## Leki podczas karmienia piersią oraz w ciąży
 Powszechnym mitem jest, że w ciąży i podczas karmienia bezwzględnie nie należy stosować leków. Faktem jest jednak, że leki przechodzą do mleka matki oraz przez łożysko. Istnieje więc ryzyko, że mogą one wywołać niepożądane działania u dziecka. Przyjmuje się, że leki antydepresyjne są relatywnie bezpieczne, lecz nikt nie może dać nam 100% pewności. Największą niepewnością jest bowiem brak długotrwałych badań nad dziećmi (tzn. czy w odległej przyszłości są bardziej na coś narażone). 
 
 Trzeba więc uważnie rozważyć ryzyko (choć mało prawdopodobne) wpływu leków na dziecko oraz ryzyko rozwoju choroby u matki jeśli leczenia nie przyjmie. W przypadku kobiet ciężarnych musimy pamiętać, że zdrowie matki jest gwarantem zdrowia nienarodzonego dziecka, a ryzyko powikłań z nieleczonej depresji często przewyższa prawdopodobieństwo uszkodzenia płodu. Przy karmieniu piersią warto z kolei rozważyć, czy nagłe odstawienie nie wywoła u matki pogłębienia problemu oraz czy jak odstawienie przebiegnie u dziecka (są niemowlęta, które odrzucają butelkę).
