@@ -12,7 +12,7 @@ Terapia ma na celu pomóc osobie w zaktywizowaniu jej zasobów tzn. jej mocnych 
 Warto wiedzieć, że skuteczność niektórych rodzajów terapii jest potwierdzona naukowo. Bezpieczna relacja terapeuta-pacjent, rozpoznanie destruktywnych/pesymistycznych myśli oraz wypracowanie zdrowych zachowań redukujących stres, znacznie polepsza jakość życia osoby. 
  
 <div class="box">
-## Ważne
+ <h3>Ważne</h3>
 Nie zawsze możemy sprawić, że nasz problem zniknie, ale możemy zmienić sposób myślenia o nim, a dzięki temu odczuwane emocje. Udowodnione jest również, że dzięki terapii wytwarzają się nowe połączenia w mózgu oraz zmniejsza się aktywizacja przysadki mózgowej (narządu odpowiedzialnego za reakcje stresowe)[^rewire].
 </div>
  
@@ -21,7 +21,7 @@ Istnieją różne formy oraz podejścia (szkoły) terapeutyczne. To jaka metoda 
 Najważniejsze jest, abyś czuła się ze swoim terapeutą swobodnie i bezpiecznie. Czasami niestety znalezienie odpowiedniego specjalisty wymaga czasu i prób. Pamiętaj, że z terapii możesz w każdej chwili zrezygnować, ale bądź również przygotowana, że w jej trakcie pojawiać się będą lepsze i gorsze momenty. 
 Oprócz terapii indywidualnej istnieje również terapia grupowa oraz terapia par. Ta ostatnia może o tyle okazać się skuteczna, że pojawienie się dziecka zmienia relację między partnerami, a dodatkowe problemy w związku mogą przyczyniać się do pogłębienia depresji. 
 
-## KOSZTY
+## Koszty
 Psychoterapię możemy odbyć w gabinecie prywatnym, co wiąże się z pewnymi kosztami (ale zazwyczaj możemy ją rozpocząć natychmiast) lub bezpłatnie w ramach NFZ oraz w fundacjach i stowarzyszeniach (choć często wiąże się to z czasem oczekiwania na miejsce). Wszystko zależy jednak od konkretnej placówki, dlatego warto szukać różnych możliwości. W niektórych miejscach nie prowadzi się psychoterapii, ale możliwe są konsultacje z psychologiem (wtedy spotkania są rzadsze niż w przypadku terapii):
 
 
@@ -47,7 +47,7 @@ Jeśli przez chorobę ciężko jest Ci telefonować i dowiadywać się, gdzie mo
 Jeśli w bezpłatnych placówkach są długie kolejki, a wiesz, że cykliczna psychoterapia w prywatnym gabinecie nie jest dla Ciebie osiągalna finansowo, rozważ pójście na jedno spotkanie za które zapłacisz. Na zdrowiu nie warto oszczędzać. Nie myśl o dalszych wydatkach, tylko o kosztach jednej wizyty. Na pierwszym spotkaniu możesz stworzyć z terapeutą plan działania oraz przedyskutować inne możliwości leczenia. Terapeuta może wiedzieć, czy gdzieś w okolicy prowadzone są grupy wsparcia lub działają miejsca, w których oferowana jest bezpłatna pomoc osobom w kryzysie. 
 
 <div class="box">
-## WAŻNE
+ <h3>Ważne</h3>
 Nie zwlekaj z szukaniem pomocy! Twoje zdrowie jest ważne nie tylko ze względu na Ciebie, ale również ze względu na Twoją rodzinę. Niepodjęcie leczenia prawdopodobnie będzie oznaczać, że będziecie cierpieć dłużej. 
 </div>
 
