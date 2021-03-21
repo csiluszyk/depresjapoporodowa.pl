@@ -64,7 +64,7 @@ Gdy kobieta otrzyma odpowiednią i szybką pomoc tzn. otrzyma leczenie farmakolo
 - Pomagaj w opiece nad dzieckiem, szczególnie podczas nocnych karmień, gdyż sen jest niezwykle istotny w procesie zdrowienia 
 
 
-## Wsparcie dla partnera, bliskich i przyjaciół
+## Wsparcie dla bliskich i partnera
 Fakt zachorowania osoby bliskiej na psychozę poporodową jest ogromnie stresującym wydarzeniem dla najbliższych osób. Pamiętaj, żeby zadbać też o siebie. Staraj się znajdywać czas na własny odpoczynek, rozmawiaj z zaufanymi osobami o tym co Cię spotyka, a kiedy widzisz potrzebę, nie bój się poprosić o pomoc i udaj się do specjalisty.
 
 
