@@ -7,6 +7,7 @@ img: samopomoc.jpg
 
 Poniższe porady - choć nie zastąpią profesjonalnej pomocy - z pewnością pomogą Ci szybciej stanąć na nogi. Wybierz te, które aktualnie są dla Ciebie najważniejsze i postaraj się choć częściowo wprowadzić je w życie.  
 
+<div class="box">
 1. Rozpoznaj chorobę
 2. Bądź dla siebie wyrozumiała 
 3. Myśl o sobie dobrze
@@ -17,7 +18,7 @@ Poniższe porady - choć nie zastąpią profesjonalnej pomocy - z pewnością po
 8. Zaplanuj dzień
 9. Zadbaj o sen
 10. Uzbrój się w cierpliwość
-
+</div>
 
 
 
