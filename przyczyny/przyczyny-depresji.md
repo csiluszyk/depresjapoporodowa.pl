@@ -88,9 +88,7 @@ Problemy z karmieniem piersią w pierwszych dniach życia dziecka są bardzo pow
 
 ## Przyczyny psychologiczne
 ### Stres
-Trudne doświadczenia rzutują na nas zarówno od strony biologicznej (m.in. wytwarza się kortyzol) jak i psychologicznej (odczuwamy lęk jako skutek reakcji “walcz lub uciekaj”). Już samo pojawienie się nowego członka rodziny jest wydarzeniem stresującym, ponieważ diametralnie zmienia nasze życie. Jeśli rodzice doświadczają w czasie ciąży lub po niej dodatkowego stresu (np. śmierci bliskiej osoby, przeprowadzki, problemów zdrowotnych) to ich układ nerwowy jest przeciążony i stają się przez to bardziej podatni na depresję [^Boyce]. Dlatego nie zaleca się w czasie oczekiwania na dziecko oraz pierwszego roku jego życia dokonywać dużych zmian w życiu (zmieniać pracy czy przeprowadzać się do innego środowiska).
-
-Również jeśli w dzieciństwie doświadczyliśmy silnego stresu, a szczególnie przemocy fizycznej. psychicznej lub seksualnej, to istnieje zwiększona szansa, że zachorujemy na depresję poporodową (to tak jakby nasz układ nerwowy pamiętał doświadczony stres z dzieciństwa. [^Silverman].
+Trudne doświadczenia rzutują na nas zarówno od strony biologicznej (m.in. wytwarza się kortyzol) jak i psychologicznej (odczuwamy lęk jako skutek reakcji “walcz lub uciekaj”). Już samo pojawienie się nowego członka rodziny jest wydarzeniem stresującym, ponieważ diametralnie zmienia nasze życie. Jeśli rodzice doświadczają w czasie ciąży lub po niej dodatkowego stresu (np. śmierci bliskiej osoby, przeprowadzki, problemów zdrowotnych) to ich układ nerwowy jest przeciążony i stają się przez to bardziej podatni na depresję [^Boyce]. Dlatego nie zaleca się w czasie oczekiwania na dziecko oraz pierwszego roku jego życia dokonywać dużych zmian w życiu (zmieniać pracy czy przeprowadzać się do innego środowiska).Również jeśli w dzieciństwie doświadczyliśmy silnego stresu, a szczególnie przemocy fizycznej. psychicznej lub seksualnej, to istnieje zwiększona szansa, że zachorujemy na depresję poporodową (to tak jakby nasz układ nerwowy pamiętał doświadczony stres z dzieciństwa. [^Silverman].
 
 
 ### Brak wsparcia
