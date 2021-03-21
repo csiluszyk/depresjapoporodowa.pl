@@ -45,7 +45,7 @@ Każdy z nas po nieprzespanej nocy jest w gorszym nastroju, gorzej zapamiętuje 
 
 ### Wahania poziomu cukru we krwi
 
-Wiemy, że insulina, która reguluje poziom cukru we krwi, wpływa również na poziom serotoniny (hormonu szczęścia) w mózgu. Podczas ciąży poziom insuliny stopniowo wzrasta, jednak po porodzie gwałtownie następuje spadek jej poziomu do wartości oryginalnych [^Ruohomaki]. Dodatkowo w połogu poziom cukru we krwi spada po około 3 godzinach po posiłku (poza tym okresem po ok. 4-5 godzinach). Jeśli kobieta nie zje czegoś co zawiera węglowodany, uwalniana jest adrenalina, która może zaostrzyć objawy PPD (postpartalle-depression.ch). Szczególnie narażone są na to kobiety cierpiące na cukrzycę, w przypadku których ryzyko depresji poporodowej jest wyższe [^Silverman].
+Wiemy, że insulina, która reguluje poziom cukru we krwi, wpływa również na poziom serotoniny (hormonu szczęścia) w mózgu. Podczas ciąży poziom insuliny stopniowo wzrasta, jednak po porodzie gwałtownie następuje spadek jej poziomu do wartości oryginalnych [^Ruohomaki]. Dodatkowo w połogu poziom cukru we krwi spada po około 3 godzinach po posiłku (poza tym okresem po ok. 4-5 godzinach). Jeśli kobieta nie zje czegoś co zawiera węglowodany, uwalniana jest adrenalina, która może zaostrzyć objawy PPD[^link_postpartale]. Szczególnie narażone są na to kobiety cierpiące na cukrzycę, w przypadku których ryzyko depresji poporodowej jest wyższe [^Silverman].
 
 
 ### Niedobory witamin i minerałów
