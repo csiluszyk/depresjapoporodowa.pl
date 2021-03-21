@@ -12,4 +12,4 @@ Mamy nadzieję, że znajdziecie na tej stronie potrzebne informacje i rozwiejeci
 </div>
 
 Zachęcamy do kontaktu z nami poprzez naszego maila: <info@depresjapoporodowa.pl>
-/Z przyjemnością odpowiemy na Wasze wiadomości. 
+  Z przyjemnością odpowiemy na Wasze wiadomości. 
