@@ -8,7 +8,7 @@ Nazywamy się Agata i Cezary. Gdy urodził się nasz syn staliśmy się najszcz�
 Mamy nadzieję, że znajdziecie na tej stronie potrzebne informacje i rozwiejecie swoje wątpliwości. Gdybyśmy mogli posłać w świat jedną myśl byłoby to:
 
 <div class="box">
-## “Depresja poporodowa jest uleczalna! Najważniejszy krok jaki musisz zrobić, to poprosić o pomoc!”
+<h3>“Depresja poporodowa jest uleczalna! Najważniejszy krok jaki musisz zrobić, to poprosić o pomoc!”</h3>
 </div>
 
 Zachęcamy do kontaktu z nami poprzez naszego maila: <info@depresjapoporodowa.pl>
