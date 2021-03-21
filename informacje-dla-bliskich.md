@@ -18,20 +18,22 @@ Do tego cierpienia dołącza wstyd i poczucie winy. Kobieta może uważać, że 
 
 Depresja dotyka całą rodzinę. Jej skutki odczuwa każdy członek, a zwłaszcza partner. Mogą pojawiać się w Tobie różne emocje. Każda z nich jest naturalna - w końcu znalazłeś się w bardzo trudnej sytuacji. 
 
-- Strach - martwisz się o swoją żonę, o dziecko oraz o ich relację. Może boisz się, że Twoja żona nigdy nie wyzdrowieje lub że “zwariowała”. Pamiętaj, że to nieprawda. Jej choroba jest chwilowa, a Twoja żona”nie zwariowała”. Jeśli otrzyma potrzebne leczenie, to znowu stanie się sobą.
-- Bezradność - nie wiesz jak jej pomóc. Twoje starania by poczuła się lepiej nie przynoszą polepszenia. Może zastanawiasz się, co mógłbyś jeszcze zrobić, by wyciągnąć ją z choroby. Pamiętaj jednak, że jakkolwiek byś się nie starał, nie jesteś w stanie sprawić by wyzdrowiała.
-- Frustracja - oczywiście, że odczuwasz frustrację. W końcu to nie jest to czego się spodziewałeś, o czym marzyłeś, gdy myślałeś, że zostaniesz ojcem. Znajdź sposób na rozładowanie napięcia. Nie sięgaj jednak po używki - może i chwilowo rozładują napięcie, ale pogłębią problem  
-- Złość - długotrwały stres często wywołuje w nas złość. Pamiętaj, że jesteś zły na sytuację, nie na swoją żonę. 
-- Zmęczenie - masz dużo na głowie i nie możesz liczyć na wsparcie najbliższej osoby. Pracujesz, opiekujesz się dzieckiem, dbasz o żonę. Musisz jednak w miarę możliwości zadbać też o siebie - na pełnych obrotach nikt z nas nie jest w stanie długo pociągnąć. Kiedy tylko możesz odpoczywaj, ucinaj drzemki, rób przerwy, proś najbliższych o pomoc w opiece nad dzieckiem.
-- Wstyd - niestety w naszym społeczeństwie trudności psychiczne nadal traktowane są jako taboo. Nic więc dziwnego, że odczuwasz wstyd. Wstydliwa jest jednak nie Twoja sytuacja, lecz stereotypy funkcjonujące w społeczeństwie. 
-- Poczucie winy - szczególnie jeśli wcześniej nie wspierałeś wystarczająco żony, możesz obarczać się teraz winą. Nie jesteś jednak odpowiedzialny za jej depresję! Nawet jeśli Twoja żona Cię o to oskarża. Nie bierz wtedy tego do siebie. Ona po prostu szuka racjonalnego wytłumaczenia swojej choroby.
+- **Strach** - martwisz się o swoją żonę, o dziecko oraz o ich relację. Może boisz się, że Twoja żona nigdy nie wyzdrowieje lub że “zwariowała”. Pamiętaj, że to nieprawda. Jej choroba jest chwilowa, a Twoja żona”nie zwariowała”. Jeśli otrzyma potrzebne leczenie, to znowu stanie się sobą.
+- **Bezradność** - nie wiesz jak jej pomóc. Twoje starania by poczuła się lepiej nie przynoszą polepszenia. Może zastanawiasz się, co mógłbyś jeszcze zrobić, by wyciągnąć ją z choroby. Pamiętaj jednak, że jakkolwiek byś się nie starał, nie jesteś w stanie sprawić by wyzdrowiała.
+- **Frustracja** - oczywiście, że odczuwasz frustrację. W końcu to nie jest to czego się spodziewałeś, o czym marzyłeś, gdy myślałeś, że zostaniesz ojcem. Znajdź sposób na rozładowanie napięcia. Nie sięgaj jednak po używki - może i chwilowo rozładują napięcie, ale pogłębią problem  
+- **Złość** - długotrwały stres często wywołuje w nas złość. Pamiętaj, że jesteś zły na sytuację, nie na swoją żonę. 
+- **Zmęczenie** - masz dużo na głowie i nie możesz liczyć na wsparcie najbliższej osoby. Pracujesz, opiekujesz się dzieckiem, dbasz o żonę. Musisz jednak w miarę możliwości zadbać też o siebie - na pełnych obrotach nikt z nas nie jest w stanie długo pociągnąć. Kiedy tylko możesz odpoczywaj, ucinaj drzemki, rób przerwy, proś najbliższych o pomoc w opiece nad dzieckiem.
+- **Wstyd** - niestety w naszym społeczeństwie trudności psychiczne nadal traktowane są jako taboo. Nic więc dziwnego, że odczuwasz wstyd. Wstydliwa jest jednak nie Twoja sytuacja, lecz stereotypy funkcjonujące w społeczeństwie. 
+- **Poczucie winy** - szczególnie jeśli wcześniej nie wspierałeś wystarczająco żony, możesz obarczać się teraz winą. Nie jesteś jednak odpowiedzialny za jej depresję! Nawet jeśli Twoja żona Cię o to oskarża. Nie bierz wtedy tego do siebie. Ona po prostu szuka racjonalnego wytłumaczenia swojej choroby.
 
-
-**WAŻNE:** Kobieta nie jest winna, że ma depresję. Ty również nie jesteś winny! Nie możesz także sprawić, że kobieta wyzdrowieje. Do tego potrzebny jest czas i odpowiednie leczenie. Twoje wsparcie ma jednak ogromne znaczenie w tym, aby szybciej stanęła na nogi. 
-
+<div class="box">
+  <h3>Ważne</h3>
+Kobieta nie jest winna, że ma depresję. Ty również nie jesteś winny! Nie możesz także sprawić, że kobieta wyzdrowieje. Do tego potrzebny jest czas i odpowiednie leczenie. Twoje wsparcie ma jednak ogromne znaczenie w tym, aby szybciej stanęła na nogi. 
+</div>
 
 ## Jak możesz jej pomóc?
 
+<div class="box">
 **Najważniejsze:**
 - Bądź z nią
 - Słuchaj
@@ -39,30 +41,19 @@ Depresja dotyka całą rodzinę. Jej skutki odczuwa każdy członek, a zwłaszcz
 - Nie dawaj rad
 - Nie mów co ma robić i jak ma się czuć
 - Nie pouczaj jak ma pielęgnować dziecko
-
+</div>
 
 - Przede wszystkim słuchaj. Bądź. Nie dawaj gotowych rozwiązań na wszystkie problemy. Zazwyczaj źle reagujemy, gdy ktoś nam daje rady. Pamiętaj też, że to co działa Tobie, nie musi pomóc jej. Mężczyźni bowiem reagują odmiennie na stres. Dodatkowo to, co kiedyś ją uspokajało oraz cieszyło, obecnie może być jej obojętne lub wręcz ją męczyć 
-
 - Nie staraj się również być zbyt optymistyczny, bo może ją to irytować - może pomyśleć, że nie rozumiesz jej cierpienia
-
 - Pomagaj w opiece nad dzieckiem i domem (ale nie wyręczaj we wszystkim). Pytaj jak możesz jej pomóc, ale również staraj się sam dostrzec co powinno być zrobione
-
 - Wspieraj żonę w nocy, ponieważ sen jest jej potrzebny do wyzdrowienia. Część par dzieli się opieką nad dzieckiem (np. pół nocy jedna osoba, pół nocy druga lub jedna noc Ty, druga ona)
-
 - Jeśli boi się zostawać sama z dzieckiem spróbuj podczas Twojej nieobecności zorganizować jej wsparcie (rodziny, przyjaciół, sąsiadów). Możesz też do niej dzwonić lub zostawiać jej karteczki np. “Kocham Cię”, “Myślę o Tobie i naszym dziecku”, “Jestem przy Was myślami”
-
 - Staraj się nie brać do siebie negatywnych rzeczy, które żona mówi o Tobie lub o Waszym dziecku. Agresja i wybuchy złości są symptomem depresji. Nie musisz jednak pozwalać, by Cię obrażała lub traktowała niesprawiedliwie. Powiedz spokojnym głosem, że nie zgadzasz się z tym co mówi i że nie zasługujesz na to, by Cię niesprawiedliwie traktowała. Nie wybuchaj jednak złością i nie wdawaj się z nią w kłótnie
-
 - Ustalcie czas na wspólną rozmowę. Najlepiej jeśli będziecie robić to codziennie o stałej porze, nawet  przez 10-15min.
-
 - Odłóżcie ważne decyzje na potem
-
 - Nie ukrywaj przed nią ważnych rzeczy - ona zapewne to czuje i wyobraża sobie najgorsze
-
 - Zorganizuj żonie wizytę u lekarza - poszukaj psychiatry, psychologa lub w ostateczności lekarza rodzinnego
-
 - Idź na jedno spotkanie z jej terapeutą. Wtedy możesz zadać ważne dla Ciebie pytania 
-
 - Pamiętaj, że to naturalne jeśli popełniasz błędy. Jesteś w bardzo trudnej i ogromnie stresującej sytuacji. Po prostu wyciągaj ze swoich błędów wnioski i staraj się ich ponownie nie popełniać
 
 
@@ -90,7 +81,7 @@ Depresja dotyka całą rodzinę. Jej skutki odczuwa każdy członek, a zwłaszcz
 **Powtarzaj kobiecie te zdania milion razy! Ona tego potrzebuje.**
 
 
-##Czego nie mówić?
+## Czego nie mówić?
 
 - “To powinien być dla Ciebie najwspanialszy okres w życiu”
 - “Nie zachowuj się jak egoistka - powinnaś się cieszyć, że mamy dziecko”
@@ -110,7 +101,9 @@ Depresja dotyka całą rodzinę. Jej skutki odczuwa każdy członek, a zwłaszcz
 - “Wszystko jest okay” (pamiętaj, że dla niej nic nie jest okay)
 
 ## Sygnały samobójstwa
+<div class="box">
 Jeśli dostrzeżesz, któryś z poniższych objawów NATYCHMIAST skontaktuj się z lekarzem prowadzącym lub zadzwoń na pogotowie (tel. 112). Nie powinieneś też wtedy zostawiać swojej żony samej ANI NA CHWILĘ (nie pozwól by zamykała się w łazience, jeśli mieszkacie na wyższym piętrze, pilnuj by nie otwierała okna). Nie zostawiaj jej też wtedy samą z dzieckiem.
+</div>
 
 - Mówi nieracjonalnie i dziwacznie - nawet jeśli to trwa tylko chwilę (sprawdź: symptomy psychozy)
 - Ma nienaturalnie dużo energii i uważa, że jest w stanie wszystko zrobić
