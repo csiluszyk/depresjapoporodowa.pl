@@ -10,9 +10,10 @@ Depresja wiąże się z nierównowagą chemiczną w mózgu, dlatego leki mogą p
 
 Ocena głębokości depresji oraz rekomendacje do tego, czy leki w Twoim przypadku są wskazane, należy do lekarza. Najlepiej aby Twój stan zdrowia ocenił psychiatra, ponieważ to on zna się na leczeniu tego zaburzenia (choć niektóre leki może przepisać również lekarz rodzinny). Pamiętaj, że nawet jeśli lekarz zaleci Ci przyjmowanie leków, to decyzja o tym czy je stosować, należy do Ciebie (nikt nie może zmusić Cię do brania leków bez Twojej woli). Jeśli więc nie jesteś przekonana do leczenia farmakologicznego warto mimo wszystko skonsultować się z lekarzem, który może pomóc Ci w ocenie sytuacji i dokonaniu decyzji. 
 
-WAŻNE
+<div class="box">
+<h3>Ważne</h3>
 Im szybciej otrzymasz profesjonalną pomoc, tym szybciej Ty i Twoja rodzina poczujecie się lepiej! Nie zwlekaj więc z konsultacją u lekarza, ponieważ istnieje ryzyko, że bez odpowiedniego wsparcia Twoje symptomy się pogorszą.
-
+</div>
 
 ## Rodzaje leków stosowanych w depresji
 
