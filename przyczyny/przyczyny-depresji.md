@@ -59,7 +59,7 @@ Niedobór witamin i minerałów również może pogłębiać objawy depresji. Sz
 Każda komplikacja w czasie ciąży jest sytuacją potencjalnie stresującą. Dotyczy to zarówno problemów zdrowotnych kobiety (takich jak cukrzyca ciążowa, wysokie ciśnienie tętnicze, stan przedrzucawkowy, niepowściągliwe wymioty, anemia, czy po prostu odczuwany ból),  jak i wykrytych wad u nienarodzonego dziecka [^Kettunen].
 
 
- ### Komplikacje przy porodzie
+### Komplikacje przy porodzie
  
 Każda mama ma pewne wyobrażenie i oczekiwanie, jak powinien przebiegać poród (marzą zazwyczaj o porodzie naturalnym i bez komplikacji). Gdy jednak coś pójdzie inaczej niż się spodziewały, może zrodzić się w nich poczucie winy i porażki. Zwiększone ryzyko depresji obserwuje się szczególnie u mam, u których wystąpiły takie komplikacje jak: przedwczesny poród, nieoczekiwane cesarskie cięcie, poród próżniowy lub kleszczowy, nadmierne krwawienie [^Xu]. 
 
