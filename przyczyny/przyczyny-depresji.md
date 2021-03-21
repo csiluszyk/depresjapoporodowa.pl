@@ -15,6 +15,11 @@ Przyczyny depresji poporodowej nie są do końca znane. Badania sugerują, że a
 Warto zauważyć, że część czynników (np. deprywacja snu, przedefiniowanie relacji, lęk o zdrowie dziecka) dotyka nie tylko matek, ale również ojców. Dlatego u ojców również może wystąpić depresja poporodowa! Przypuszcza się, że dotyczy to nawet 9-10% mężczyzn [^Rao][^Paulson].
 </div>
 
+W genezie depresji obserwuje się następujące czynniki:
+- Biologiczne
+- Okołoporodowe
+- Psychologiczne
+- Kulturowe
 
 
 ## Przyczyny biologiczne
