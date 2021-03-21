@@ -16,8 +16,9 @@ Baby blues to tymczasowe wahania nastroju, których największe nasilenie obserw
 - Nadmierny lęk o dziecko i przyszłość
 - Trudności w podejmowaniu decyzji
 
+<div class="box">
 Jeśli objawy baby blues utrzymują się u Ciebie powyżej 2 tygodni, może oznaczać to, że stan przerodził się w depresję poporodową. Skontaktuj się wtedy ze specjalistą lub położną, którzy pomogą Ci ocenić Twój stan zdrowia. 
-
+</div>
 
 
 ## Jak radzić sobie z baby blues
