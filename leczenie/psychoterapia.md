@@ -38,9 +38,9 @@ L.p. | Nazwa placówki | Koszt | Opis
 7.   | **Organizacje przykościelne** | zazwyczaj bezpłatne lub niskopłatne | Często przy diecezjach prowadzone są poradnie rodzinne. Zazwyczaj nie trzeba być osobą wierzącą aby otrzymać tam wsparcie.
 8.   | **Prywatny gabinet** | płatne | Zazwyczaj koszt jednej sesji to ok. 80 - 140 zł. Dużą zaletą jest to, że w tych miejscach raczej nie ma kolejek.
 
-
+<div class="box">
 Dokładne adresy i numery telefonu bezpłatnych instytucji, które są dostępne w Twojej miejscowości, znajdziesz na stronie: [https://liniawsparcia.pl/placowki/](https://liniawsparcia.pl/placowki/)
-
+</div>
 
 Jeśli przez chorobę ciężko jest Ci telefonować i dowiadywać się, gdzie możesz otrzymać pomoc, poproś partnera lub inną osobę, aby zrobiła to w Twoim imieniu. 
 
