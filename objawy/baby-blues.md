@@ -40,11 +40,11 @@ Pierwsze tygodnie po porodzie są niezwykle trudne nie tylko dla mamy, ale równ
 
 
 
- 
+--- 
 
 ## Więcej informacji znajdziesz:
 
 
-- [https://www.netdoktor.de/krankheiten/wochenbettdepression/baby-blues/](https://www.netdoktor.de/krankheiten/wochenbettdepression/baby-blues/)
-- [https://womensmentalhealth.org/specialty-clinics/postpartum-psychiatric-disorders/](https://womensmentalhealth.org/specialty-clinics/postpartum-psychiatric-disorders/)
+- <https://www.netdoktor.de/krankheiten/wochenbettdepression/baby-blues/>
+- <https://womensmentalhealth.org/specialty-clinics/postpartum-psychiatric-disorders/>
 - Mason, M. A. i Goulden, M. (2004). Marriage and baby blues: Redefining gender equity in the academy. The Annals of the American Academy of Political and Social Science, 596(1), 86-103.
