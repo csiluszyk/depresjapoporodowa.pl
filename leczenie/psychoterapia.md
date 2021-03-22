@@ -49,5 +49,7 @@ Jeśli w bezpłatnych placówkach są długie kolejki, a wiesz, że cykliczna ps
 Nie zwlekaj z szukaniem pomocy! Twoje zdrowie jest ważne nie tylko ze względu na Ciebie, ale również ze względu na Twoją rodzinę. Niepodjęcie leczenia prawdopodobnie będzie oznaczać, że będziecie cierpieć dłużej. 
 </div>
 
+---
+
 [^rewire]: Pittman, C. M. i Karle, E. M. (2015). Rewire your anxious brain: How to use the neuroscience of fear to end anxiety, panic, and worry. New Harbinger Publications.
 [^Tolin]: Tolin, D. F. (2010). Is cognitive–behavioral therapy more effective than other therapies?: A meta-analytic review. Clinical psychology review, 30(6), 710-720. 

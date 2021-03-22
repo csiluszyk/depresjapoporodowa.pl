@@ -10,19 +10,21 @@ Przyczyny depresji poporodowej nie są do końca znane. Badania sugerują, że a
 
 **Nie do końca wiemy co wywołuje depresję. Wiemy za to, że gdy wystąpi, jest związana z nierównowagą biochemiczną w mózgu. To nie jest więc wymyślona choroba!** 
 
-<div class="box">
-<h3>Ważne</h3> 
+---
+### Ważne
 Warto zauważyć, że część czynników (np. deprywacja snu, przedefiniowanie relacji, lęk o zdrowie dziecka) dotyka nie tylko matek, ale również ojców. Dlatego u ojców również może wystąpić depresja poporodowa! Przypuszcza się, że dotyczy to nawet 9-10% mężczyzn [^Rao][^Paulson].
-</div>
+
+---
 
 W genezie depresji obserwuje się następujące czynniki:
-- Biologiczne
-- Okołoporodowe
-- Psychologiczne
-- Kulturowe
+- [Biologiczne](#biologiczne)
+- [Okołoporodowe](#okoloporodowe)
+- [Psychologiczne](#psychologiczne)
+- [Kulturowe](#kulturowe)
 
 
-## Przyczyny biologiczne
+<header class="major"><h2><a name="biologiczne"></a>Przyczyny biologiczne</h2></header>
+
 ### Predyspozycje genetyczne
 W genezie wielu chorób duże znaczenie odgrywają geny. Nie inaczej jest w przypadku depresji poporodowej (PPD), co potwierdzają badania na bliźniętach i innych członkach rodziny [^Couto]. Dziedziczność depresji poporodowej wynosi ok. 50%. Jest to wartość wyższa niż w przypadku dziedziczności zwykłej depresji (31- 42%) [^Viktorin]. Warto jednak pamiętać, że gdy mówimy o predyspozycjach genetycznych, nie mamy na myśli tego, że ktoś mógłby mieć “gen depresji”. Ogromną rolę odgrywa bowiem interakcja ze środowiskiem, którego czynniki wpływają na aktywację i dezaktywację genów. Wiadomo na przykład, że na ekspresję (uaktywnienie) genów wpływa stres, leki oraz hormony płciowe [^Guintivano].
 
@@ -40,10 +42,8 @@ Warto mieć na uwadze, że:
 
 ### Deprywacja snu
 
-Każdy z nas po nieprzespanej nocy jest w gorszym nastroju, gorzej zapamiętuje nowe rzeczy i ma trudności z koncentracją [^Orzel]. Możemy więc łatwo wyobrazić sobie co dzieje się w naszych mózgach, gdy nasz sen jest zaburzony przez wiele tygodni a nawet miesięcy. Wiadomo jest również, że zmęczenie rodziców związane z częstym wybudzaniem się dziecka i niewystarczająca ilość snu, mogą prowadzić nie tylko do psychicznego wyczerpania, ale również do fizycznych zmian w organizmie: upośledzenia metabolizmu glukozy i układu odpornościowego [^Ghaedrahmati].
 
 
-### Wahania poziomu cukru we krwi
 
 Wiemy, że insulina, która reguluje poziom cukru we krwi, wpływa również na poziom serotoniny (hormonu szczęścia) w mózgu. Podczas ciąży poziom insuliny stopniowo wzrasta, jednak po porodzie gwałtownie następuje spadek jej poziomu do wartości oryginalnych [^Ruohomaki]. Dodatkowo w połogu poziom cukru we krwi spada po około 3 godzinach po posiłku (poza tym okresem po ok. 4-5 godzinach). Jeśli kobieta nie zje czegoś co zawiera węglowodany, uwalniana jest adrenalina, która może zaostrzyć objawy PPD[^link_postpartale]. Szczególnie narażone są na to kobiety cierpiące na cukrzycę, w przypadku których ryzyko depresji poporodowej jest wyższe [^Silverman].
 
@@ -54,7 +54,8 @@ Niedobór witamin i minerałów również może pogłębiać objawy depresji. Sz
 
 
 
-## Przyczyny okołoporodowe
+<header class="major"><h2><a name="okoloporodowe"></a>Przyczyny okołoporodowe</h2></header>
+
 ### Powikłania w ciąży
 Każda komplikacja w czasie ciąży jest sytuacją potencjalnie stresującą. Dotyczy to zarówno problemów zdrowotnych kobiety (takich jak cukrzyca ciążowa, wysokie ciśnienie tętnicze, stan przedrzucawkowy, niepowściągliwe wymioty, anemia, czy po prostu odczuwany ból),  jak i wykrytych wad u nienarodzonego dziecka [^Kettunen].
 
@@ -86,7 +87,8 @@ Problemy z karmieniem piersią w pierwszych dniach życia dziecka są bardzo pow
 
 
 
-## Przyczyny psychologiczne
+<header class="major"><h2><a name="psychologiczne"></a>Przyczyny psychologiczne</h2></header>
+
 ### Stres
 Trudne doświadczenia rzutują na nas zarówno od strony biologicznej (m.in. wytwarza się kortyzol) jak i psychologicznej (odczuwamy lęk jako skutek reakcji “walcz lub uciekaj”). Już samo pojawienie się nowego członka rodziny jest wydarzeniem stresującym, ponieważ diametralnie zmienia nasze życie. Jeśli rodzice doświadczają w czasie ciąży lub po niej dodatkowego stresu (np. śmierci bliskiej osoby, przeprowadzki, problemów zdrowotnych) to ich układ nerwowy jest przeciążony i stają się przez to bardziej podatni na depresję [^Boyce]. Dlatego nie zaleca się w czasie oczekiwania na dziecko oraz pierwszego roku jego życia dokonywać dużych zmian w życiu (zmieniać pracy czy przeprowadzać się do innego środowiska).Również jeśli w dzieciństwie doświadczyliśmy silnego stresu, a szczególnie przemocy fizycznej. psychicznej lub seksualnej, to istnieje zwiększona szansa, że zachorujemy na depresję poporodową (to tak jakby nasz układ nerwowy pamiętał doświadczony stres z dzieciństwa. [^Silverman].
 
@@ -107,7 +109,8 @@ Dobrze wszyscy wiemy, że pojawienie się dziecka niesie ze sobą często niema�
 
 
 
-## Przyczyny kulturowe
+<header class="major"><h2><a name="kulturowe"></a>Przyczyny kulturowe</h2></header>
+
 ### Mit Matki Polki
 W naszej kulturze istnieje ideał matki, która jest opiekuńcza, ciepła, zapominająca o sobie, a zarazem silna i zaradna, radząca sobie w każdej sytuacji. Mit ten ma długą historię, sięgającą rozbiorów Polski, umocniony dodatkowo w czasach wojny i komunizmu, kiedy od kobiet oczekiwano heroicznego poświęcania się rodzinie i Ojczyźnie. Takiej postawy uczone były nasze babcie i mamy. Która z kobiet nie słyszała kiedyś: “Musisz być silna. Dzieci są najważniejsze. Musisz się poświęcić rodzinie”? Niestety ideał Matki Polki nie uwzględnia najważniejszego - kobieta może dać szczęście rodzinie tylko wtedy, gdy zadba najpierw o samą siebie.   
 

@@ -23,19 +23,13 @@ Pełną skuteczność leku można niestety zazwyczaj ocenić dopiero po ok. 2-6 
 
 Leki stosowane w depresji to:
 
-**1)  Antydepresanty - NIE SĄ UZALEŻNIAJĄCE!** 
-
-- **SSRI** - jest to najnowsza generacja leków antydepresyjnych. Są one najczęściej stosowane, ponieważ u większości osób następuje po nich oczekiwana poprawa, a skutki uboczne są niewielkie i rzadkie. 
-
-- **Trójcykliczne leki przeciwdepresyjne** - najczęściej są przepisywane u osób, u których leki SSRI nie zadziałały. Część psychiatrów preferuje przepisywanie tych leków kobietom w ciąży i matkom karmiącym piersią, ponieważ leki te są na rynku dłużej i ich działanie oraz skutki uboczne są lepiej zbadane.
-
-**2) Leki uspokajające** - jeśli już leki te są stosowane, to zazwyczaj tylko tymczasowo, zanim leki antydepresyjne zaczną działać. Przeciwdziałają one lękowi, napadom paniki, bezsenności. Rzadko kiedy obserwuje się po nich skutki uboczne. Przy dłuższym stosowaniu istnieje jednak ryzyko uzależnienia i do osiągnięcia tego samego działania możemy potrzebować większej dawki.
-
-**3) Leki nasenne** - większość z tych leków to równocześnie leki uspokajające tzn. że przy ich dłuższym stosowaniu istnieje ryzyko uzależnienia. Używa się ich więc zazwyczaj tylko na początku, zanim antydepresanty (które dobrze przeciwdziałają bezsenności) zaczną działać. Ich stosowanie jest pomocne, ponieważ depresja często powoduje bezsenność, a sen jest bardzo istotny w procesie zdrowienia. 
-
-**4) Stabilizatory nastroju** - mogą być stosowane aby wzmocnić działanie antydepresantów, a także w przypadku choroby afektywnej dwubiegunowej. Często stosowane są również w bezsenności (brane są wtedy wieczorem), ponieważ mają działanie uspokajające.
-
-**5) Leki przeciwpsychotyczne** - głównie są używane w leczeniu psychozy poporodowej, jednak zdarza się (bardzo rzadko), że stosowane są również w przypadku ciężkiej bezsenności, która nie odpowiada na inne leki
+1. **Antydepresanty - NIE SĄ UZALEŻNIAJĄCE!** 
+ - **SSRI** - jest to najnowsza generacja leków antydepresyjnych. Są one najczęściej stosowane, ponieważ u większości osób następuje po nich oczekiwana poprawa, a skutki uboczne są niewielkie i rzadkie. 
+ - **Trójcykliczne leki przeciwdepresyjne** - najczęściej są przepisywane u osób, u których leki SSRI nie zadziałały. Część psychiatrów preferuje przepisywanie tych leków kobietom w ciąży i matkom karmiącym piersią, ponieważ leki te są na rynku dłużej i ich działanie oraz skutki uboczne są lepiej zbadane.
+1. **Leki uspokajające** - jeśli już leki te są stosowane, to zazwyczaj tylko tymczasowo, zanim leki antydepresyjne zaczną działać. Przeciwdziałają one lękowi, napadom paniki, bezsenności. Rzadko kiedy obserwuje się po nich skutki uboczne. Przy dłuższym stosowaniu istnieje jednak ryzyko uzależnienia i do osiągnięcia tego samego działania możemy potrzebować większej dawki.
+1. **Leki nasenne** - większość z tych leków to równocześnie leki uspokajające tzn. że przy ich dłuższym stosowaniu istnieje ryzyko uzależnienia. Używa się ich więc zazwyczaj tylko na początku, zanim antydepresanty (które dobrze przeciwdziałają bezsenności) zaczną działać. Ich stosowanie jest pomocne, ponieważ depresja często powoduje bezsenność, a sen jest bardzo istotny w procesie zdrowienia. 
+1. **Stabilizatory nastroju** - mogą być stosowane aby wzmocnić działanie antydepresantów, a także w przypadku choroby afektywnej dwubiegunowej. Często stosowane są również w bezsenności (brane są wtedy wieczorem), ponieważ mają działanie uspokajające.
+1. **Leki przeciwpsychotyczne** - głównie są używane w leczeniu psychozy poporodowej, jednak zdarza się (bardzo rzadko), że stosowane są również w przypadku ciężkiej bezsenności, która nie odpowiada na inne leki
 
 
 ## Skutki uboczne leków

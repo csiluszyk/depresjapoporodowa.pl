@@ -33,16 +33,6 @@ Kobieta nie jest winna, że ma depresję. Ty również nie jesteś winny! Nie mo
 
 ## Jak możesz jej pomóc?
 
-<div class="box">
-**Najważniejsze:**
-- Bądź z nią
-- Słuchaj
-- Nie oceniaj
-- Nie dawaj rad
-- Nie mów co ma robić i jak ma się czuć
-- Nie pouczaj jak ma pielęgnować dziecko
-</div>
-
 - Przede wszystkim słuchaj. Bądź. Nie dawaj gotowych rozwiązań na wszystkie problemy. Zazwyczaj źle reagujemy, gdy ktoś nam daje rady. Pamiętaj też, że to co działa Tobie, nie musi pomóc jej. Mężczyźni bowiem reagują odmiennie na stres. Dodatkowo to, co kiedyś ją uspokajało oraz cieszyło, obecnie może być jej obojętne lub wręcz ją męczyć 
 - Nie staraj się również być zbyt optymistyczny, bo może ją to irytować - może pomyśleć, że nie rozumiesz jej cierpienia
 - Pomagaj w opiece nad dzieckiem i domem (ale nie wyręczaj we wszystkim). Pytaj jak możesz jej pomóc, ale również staraj się sam dostrzec co powinno być zrobione

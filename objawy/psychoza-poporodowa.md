@@ -25,13 +25,7 @@ Psychoza poporodowa to poważna choroba, którą należy traktować jako stan na
 
 Gdy zauważysz u siebie lub osoby bliskiej powyższe objawy natychmiast zadzwoń na pogotowie, które poinformuje Cię o dalszych krokach: 
 
-<br/>
-<div class="row">
-    <div class="col-4 align-right"><span class="button primary-red large">Tel. 112</span></div>
-    <div class="col-4 align-center"><span>lub</span></div>
-    <div class="col-4 align-left"><span class="button primary-red large">Tel. 999</span></div>
-</div>
-<br/>
+<div class="align-center"><span class="button primary-red large">Tel. 112</span></div><br/>
 
 Jeśli nie zostanie natychmiastowo podjęte leczenie, może nastąpić pogorszenie się stanu matki, która może stanowić zagrożenie dla siebie i dziecka. Zazwyczaj matka nie zdaje sobie sprawy z tego, że jest chora. W tym wypadku działanie partnera, rodziny lub przyjaciół jest niezwykle istotne. W momencie zauważenia zmiany w zachowaniu matki nie należy zwlekać, lecz jak najszybciej skontaktować się ze szpitalem.
 
@@ -67,16 +61,15 @@ Gdy kobieta otrzyma odpowiednią i szybką pomoc tzn. otrzyma leczenie farmakolo
 ## Wsparcie dla bliskich i partnera
 Fakt zachorowania osoby bliskiej na psychozę poporodową jest ogromnie stresującym wydarzeniem dla najbliższych osób. Pamiętaj, żeby zadbać też o siebie. Staraj się znajdywać czas na własny odpoczynek, rozmawiaj z zaufanymi osobami o tym co Cię spotyka, a kiedy widzisz potrzebę, nie bój się poprosić o pomoc i udaj się do specjalisty.
 
-
-
+---
 
 ## Więcej informacji znajdziesz:
 
-- [https://www.nhs.uk/conditions/post-partum-psychosis/](https://www.nhs.uk/conditions/post-partum-psychosis/)
-- [https://womensmentalhealth.org/?s=postpartum+psychosis](https://womensmentalhealth.org/?s=postpartum+psychosis)
-- [https://www.rcpsych.ac.uk/mental-health/problems-disorders/postpartum-psychosis](https://www.rcpsych.ac.uk/mental-health/problems-disorders/postpartum-psychosis)
-- [https://www.mind.org.uk/information-support/types-of-mental-health-problems/postnatal-depression-and-perinatal-mental-health/postpartum-psychosis/](https://www.mind.org.uk/information-support/types-of-mental-health-problems/postnatal-depression-and-perinatal-mental-health/postpartum-psychosis/)
-- [https://www.postpartum.net/postpartum-psychosis-i-didnt-know-motherhood-could-have-a-dark-side-until-i-saw-demons-threatening-to-kill-my-baby/](https://www.postpartum.net/postpartum-psychosis-i-didnt-know-motherhood-could-have-a-dark-side-until-i-saw-demons-threatening-to-kill-my-baby/)
+- <https://www.nhs.uk/conditions/post-partum-psychosis/>
+- <https://womensmentalhealth.org/?s=postpartum+psychosis>
+- <https://www.rcpsych.ac.uk/mental-health/problems-disorders/postpartum-psychosis>
+- <https://www.mind.org.uk/information-support/types-of-mental-health-problems/postnatal-depression-and-perinatal-mental-health/postpartum-psychosis/>
+- <https://www.postpartum.net/postpartum-psychosis-i-didnt-know-motherhood-could-have-a-dark-side-until-i-saw-demons-threatening-to-kill-my-baby/>
 - Perry, A., Gordon-Smith, K., Jones, L. i Jones, I. (2021). Phenomenology, Epidemiology and Aetiology of Postpartum Psychosis: A Review. Brain Sciences, 11(1), 47.
 - VanderKruik, R., Barreix, M., Chou, D., Allen, T., Say, L. i Cohen, L. S. (2017). The global prevalence of postpartum psychosis: a systematic review. BMC psychiatry, 17(1), 272.
 

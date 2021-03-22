@@ -7,18 +7,16 @@ img: samopomoc.jpg
 
 Poniższe porady - choć nie zastąpią profesjonalnej pomocy - z pewnością pomogą Ci szybciej stanąć na nogi. Wybierz te, które aktualnie są dla Ciebie najważniejsze i postaraj się choć częściowo wprowadzić je w życie.  
 
-<div class="box">
-1. Rozpoznaj chorobę
-2. Bądź dla siebie wyrozumiała 
-3. Myśl o sobie dobrze
-4. Przestań myśleć co złego może się wydarzyć
-5. Komunikuj wprost co czujesz
-6. Proś o pomoc
-7. Zrelaksuj ciało
-8. Zaplanuj dzień
-9. Zadbaj o sen
-10. Uzbrój się w cierpliwość
-</div>
+1. [Rozpoznaj chorobę](#rozpoznaj-chorobę)
+1. [Bądź dla siebie wyrozumiała](#bądź-dla-siebie-wyrozumiała)
+1. [Myśl o sobie dobrze](#myśl-o-sobie-dobrze)
+1. [Przestań myśleć co złego może się wydarzyć](#przestań-myśleć-co-złego-może-się-wydarzyć)
+1. [Komunikuj wprost co czujesz](#komunikuj-wprost-co-czujesz)
+1. [Proś o pomoc](#proś-o-pomoc)
+1. [Zrelaksuj ciało](#zrelaksuj-ciało)
+1. [Zaplanuj dzień](#zaplanuj-dzień)
+1. [Zadbaj o sen](#zadbaj-o-sen)
+1. [Uzbrój się w cierpliwość](#uzbrój-się-w-cierpliwość)
 
 
 
@@ -32,9 +30,7 @@ Jeśli uważasz, że sama sobie z tym poradzisz, to niestety możesz być w bł�
 
 Gdy już masz diagnozę, po pierwsze odetchnij głęboko. Dobra wiadomość jest taka, że choć z pewnością czujesz obecnie ogromne cierpienie, to nie będzie ono trwało wiecznie. Ono minie! Zapewne temu do końca nie wierzysz, ale takie są medyczne fakty. Depresja poporodowa bardzo dobrze odpowiada na leczenie. Diagnoza nie oznacza, że “zwariowałaś”, że odniosłaś porażkę, że jesteś złą matką czy że ponosisz winę za to, że zachorowałaś. Diagnoza oznacza, że za Twoje złe samopoczucie odpowiada nierównowaga pewnych substancji w mózgu. W pierwszym roku po porodzie spotyka to aż 15% kobiet. Niestety większość z nich milczy, dlatego mogłaś nie słyszeć o żadnym przypadku wśród swoich koleżanek lub rodziny.
 
-<blockquote>
-“Gdziekolwiek na świecie są kobiety, tam rodzą się dzieci. Gdzie rodzą się dzieci, tam jest depresja poporodowa”[^Shoshana].
-</blockquote>
+> “Gdziekolwiek na świecie są kobiety, tam rodzą się dzieci. Gdzie rodzą się dzieci, tam jest depresja poporodowa”[^Shoshana].
 
 
 ## Bądź dla siebie wyrozumiała
@@ -97,6 +93,8 @@ Zapewne wiesz, że mała ilość snu jest poniekąd wpisana w rodzicielstwo. Ocz
 Depresja nie skończy się z dnia na dzień. Jest to proces, który zazwyczaj trwa od kilku tygodni do kilku miesięcy (nieleczona depresja może z kolei trwać latami!). Czas jest jednym z najważniejszych czynników w procesie zdrowienia. Pozwól sobie na niego! Gdy złamiemy nogę, nasz organizm potrzebuje czasu by kość się odpowiednio zrosła. W przypadku depresji, Twój organizm potrzebuje czasu by wrócić do równowagi. Normalne jest również, że będą spotykać Cię lepsze i gorsze chwile. Ostatecznie jednak, tych dobrych chwil będzie coraz więcej i będą one coraz dłuższe.  
 
 Osoby z depresją poporodową czują emocjonalny chaos lub w ogóle niczego nie czują. Jest to efekt choroby. Nic dziwnego, że część rodziców nie czuje przypływu miłości, szczęścia, zachwytu nad dzieckiem. Nie jest to ich wina, lecz symptom choroby! W tym przypadku również najważniejszy jest czas - miłość przyjdzie powoli, z czasem, wraz ze zdrowieniem i odzyskaniem równowagi.
+
+---
  
 [^Shoshana]: Bennett, S. S. (2011). Postpartum depression for dummies. John Wiley & Sons.
 [^rewire]: Pittman, C. M. i Karle, E. M. (2015). Rewire your anxious brain: How to use the neuroscience of fear to end anxiety, panic, and worry. New Harbinger Publications.
