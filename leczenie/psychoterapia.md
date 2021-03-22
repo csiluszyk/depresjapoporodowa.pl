@@ -11,10 +11,12 @@ Najlepiej byłoby aby każda osoba z depresją przeszła terapię, ponieważ zap
 Terapia ma na celu pomóc osobie w zaktywizowaniu jej zasobów tzn. jej mocnych stron. Zazwyczaj psychoterapia błędnie kojarzy nam się z analizowaniem przeszłości (zwłaszcza dzieciństwa). Oczywiście znalezienie źródeł naszych trudności może być przydatne, ale nie zawsze jest to konieczne i w dużej mierze zależy od podejścia terapeutycznego. 
 Warto wiedzieć, że skuteczność niektórych rodzajów terapii jest potwierdzona naukowo. Bezpieczna relacja terapeuta-pacjent, rozpoznanie destruktywnych/pesymistycznych myśli oraz wypracowanie zdrowych zachowań redukujących stres, znacznie polepsza jakość życia osoby. 
  
-<div class="box">
- <h3>Ważne</h3>
+---
+
+### Ważne
 Nie zawsze możemy sprawić, że nasz problem zniknie, ale możemy zmienić sposób myślenia o nim, a dzięki temu odczuwane emocje. Udowodnione jest również, że dzięki terapii wytwarzają się nowe połączenia w mózgu oraz zmniejsza się aktywizacja przysadki mózgowej (narządu odpowiedzialnego za reakcje stresowe)[^rewire].
-</div>
+
+---
  
 ## Rodzaje terapii
 Istnieją różne formy oraz podejścia (szkoły) terapeutyczne. To jaka metoda byłaby dla Ciebie najlepsza zależy od Twojej osobowości i przyczyn depresji. Obecne dowody naukowe pokazują, że w leczeniu depresji i lęku dużą skuteczność ma podejście poznawczo-behawioralne [^Tolin]. Nie oznacza to jednak, że jest ono rekomendowane w każdym przypadku. Czasami skuteczniejsza może okazać się np. terapia systemowa lub psychodynamiczna.
