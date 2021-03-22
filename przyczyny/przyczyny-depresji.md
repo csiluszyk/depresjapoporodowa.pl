@@ -59,22 +59,18 @@ Każda mama ma pewne wyobrażenie i oczekiwanie, jak powinien przebiegać poród
 
 
 ### Problemy zdrowotne dziecka
-
 Informacja o chorobie dziecka - zarówno w trakcie ciąży jak i po porodzie - jest jedną z najbardziej stresujących sytuacji jaka może nas spotkać. Niekiedy dowiadujemy się o chorobie genetycznej lub innych trudnościach, które do końca życia będą towarzyszyć dziecku lub o istnieniu innej choroby, która niekiedy stanowi bezpośrednie zagrożenie życia. Nie dziwi więc fakt, że na depresję poporodową częściej narażone są matki, których dzieci trafiły na Oddział Intensywnej Terapii Noworodka [^Tahirkheli] a w szczególności matki wcześniaków (ok. 40% z nich rozwinie symptomy depresji) [^Vigod].
 
 
 ### Ból podczas porodu
-
 Zarówno ból przewlekły (trwający wiele dni) jak i ostry (krótki ale silny) zwiększają szanse zapadnięcia na depresję [^Wisner]. Badania pokazują też, że kobiety które zdecydowały się na zastosowanie znieczulenia podczas porodu rzadziej zapadały na depresję poporodową w pierwszych tygodniach po porodzie niż kobiety rodzące siłami natury [^Ding]. Dlatego zastosowanie znieczulenia jest zalecane szczególnie u tych mam, u których istnieją czynniki ryzyka rozwoju depresji [^link_netdoktor].
  
  
 ### Problemy zdrowotne w połogu
-
-W 6 tygodniu po porodzie zaplanowana jest wizyta kontrolna u ginekologa. Wydaje nam się, że do tego czasu ciało kobiety powinno się zregenerować i zagoić wszystkie poporodowe rany. U kobiety mogą jednak wystąpić dłużej trwające trudności i wcale nie jest to rzadka sytuacja. Hemoroidy, nietrzymanie moczu czy ból krocza (szczególnie przy stosunku) zdarza się dużo częściej niż się o tym słyszy, ponieważ wiele kobiet wstydzi się swoich dolegliwości. Kobiety, u których obserwuje się te trudności są również grupą bardziej narażoną na depresję poporodową [^Evensen][^Fritel][^Chang].
+W 6 tygodniu po porodzie zaplanowana jest wizyta kontrolna u ginekologa. Wydaje nam się, że do tego czasu ciało kobiety powinno się zregenerować i zagoić wszystkie poporodowe rany. U kobiety mogą jednak wystąpić dłużej trwające trudności i wcale nie jest to rzadka sytuacja. Hemoroidy, nietrzymanie moczu czy ból krocza (szczególnie przy stosunku) zdarza się dużo częściej niż się o tym słyszy, ponieważ wiele kobiet wstydzi się swoich dolegliwości. Kobiety, u których obserwuje się te trudności są również grupą bardziej narażoną na depresję poporodową [^Evensen] [^Fritel] [^Chang].
 
 
 ### Problemy z karmieniem piersią 
-
 Problemy z karmieniem piersią w pierwszych dniach życia dziecka są bardzo powszechne i dotyczą aż 60-80% kobiet [^Chaput]. Gdy przeprowadzono w Polsce badania na ten temat, to okazało się, że aż 43% kobiet kończy karmić piersią w przeciągu pierwszych 6 miesięcy [^link_multi]. Zazwyczaj mamy chcą karmić dłużej, lecz borykają się z trudnościami. Niektóre dzieci odmawiają piersi, w wielu sytuacjach mamy stwierdzają, że dziecko nie najada się wystarczająco pokarmem, kobiety mogą cierpieć na ostry ból sutków lub na brak pokarmu. Trudności z karmieniem są stresujące. Kobieta może odczuwać, że odniosła porażkę, często czuje się winna. Nierzadko też spotyka się z napiętnowaniem ze strony innych osób.
  
 
