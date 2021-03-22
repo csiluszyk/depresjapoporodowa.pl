@@ -24,7 +24,7 @@ Jeśli objawy baby blues utrzymują się u Ciebie powyżej 2 tygodni, może ozna
 
 ## Jak radzić sobie z baby blues
 
-Baby blues nie wymaga leczenia, ponieważ jego objawy powinny ustąpić samoistnie w ciągu kilku dni, maksymalnie 2 tygodni. Daj więc sobie czas na zaadaptowanie się do nowej roli. Ważne jest również, abyś w swoim otoczeniu miała wspierającego partnera lub zaufaną osobę, którym będziesz mogła otwarcie opowiedzieć o doświadczanych emocjach i wątpliwościach. Bądź dla siebie wyrozumiała i cierpliwa. Proś również najbliższych o pomoc w opiece nad dzieckiem oraz w utrzymaniu domu, abyś mogła w tym czasie możliwie jak najwięcej odpoczywać. Nie czuj się jednak winna, jeśli odczuwasz w pierwszy dniach silną potrzebę bycia sam na sam z dzieckiem. Możliwe, że właśnie tego potrzebujesz, aby zbudować z nim silną więź. 
+Baby blues nie wymaga leczenia, ponieważ jego objawy powinny ustąpić samoistnie w ciągu kilku dni, maksymalnie 2 tygodni. Daj więc sobie czas na zaadaptowanie się do nowej roli. Ważne jest również, abyś w swoim otoczeniu miała wspierającego partnera lub zaufaną osobę, którym będziesz mogła otwarcie opowiedzieć o doświadczanych emocjach i wątpliwościach. Bądź dla siebie wyrozumiała i cierpliwa. Proś najbliższych o pomoc w opiece nad dzieckiem oraz w utrzymaniu domu, abyś mogła w tym czasie możliwie jak najwięcej odpoczywać. Nie czuj się jednak winna, jeśli odczuwasz w pierwszy dniach silną potrzebę bycia sam na sam z maluchem. Możliwe, że właśnie tego potrzebujesz, aby zbudować z nim silną więź. 
 
 ## Rady dla najbliższych
 
