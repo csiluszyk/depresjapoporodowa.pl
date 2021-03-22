@@ -30,38 +30,31 @@ W genezie wielu chorób duże znaczenie odgrywają geny. Nie inaczej jest w przy
 
 
 ### Hormony
-
 Badacze nie są ze sobą zgodni, jaką rolę odgrywają wahania hormonów w genezie depresji. Z jednej strony nie znaleziono dotąd by kobiety z depresją miały inne stężenia hormonów niż zdrowe matki. Z drugiej zaś warto pamiętać, że po porodzie przez ciało kobiety przechodzi istne “hormonalne tornado”. Nie ma też drugiego takiego okresu w życiu kobiety, kiedy ryzyko wystąpienia u niej zaburzeń psychicznych (nie tylko PPD) byłoby tak wysokie. Część badaczy przypuszcza, że pewna grupa mam jest bardziej podatna na duże wahania hormonalne i że to one są najbardziej narażone na rozwój depresji poporodowej.
 
 Warto mieć na uwadze, że:
 - Poziom estrogenu w czasie ciąży jest 200 razy wyższy niż normalnie, progesteronu zaś od 50 do 100 razy wyższy. Po porodzie poziom stężenia tych hormonów spada w ciągu kilku dni do wartości oryginalnych. Wiadomo też, że estrogen i progesteron wpływają na neurotransmitery (m.in. serotoninę, dopaminę, noradrenalinę), które odpowiedzialne są za regulację nastroju [^link_postpartale]
 - W czasie ciąży poziom prolaktyny rośnie 20-50 razy i na takim poziomie utrzymuje się jeśli kobieta karmi piersią. Jeśli kobieta nie przystawia dziecka do piersi, poziom ten normalizuje się w ciągu 3 tygodni [^Szpunar]
 - U części mam może wystąpić poporodowe zapalenie tarczycy. Dotyczy to nawet  8% kobiet [^Keely]. Zaburzenia tarczycy wpływają na nastrój, a objawy mogą być mylone z depresją. Typowymi symptomami są drażliwość, nerwowość, lęk i ataki paniki, kołatanie serca, spadek energii, zaburzenia koncentracji, problemy ze snem. Dlatego w przypadku podejrzenia depresji powinno się wykonać badanie poziomu TSH, T4 i anty-TPO, aby wykluczyć ewentualne zapalenie tarczycy
-- W genezie depresji poporodowej ważną rolę mogą pełnić hormony stresu (kortyzol, ACTH, CRH), które stymulują oś podwzgórze-przysadka-nadnercza i wpływają na autonomiczny układ nerwowy. Trudne wydarzenia życiowe, zarówno po porodzie jak i w czasie ciąży, mogą mieć więc bezpośredni wpływ na rozwój nierównowagi chemicznej w mózgu [^Payne].
+- W genezie depresji poporodowej ważną rolę mogą pełnić hormony stresu (kortyzol, ACTH, CRH), które stymulują oś podwzgórze-przysadka-nadnercza i wpływają na autonomiczny układ nerwowy. Trudne wydarzenia życiowe, zarówno po porodzie jak i w czasie ciąży, mogą więc mieć bezpośredni wpływ na rozwój nierównowagi chemicznej w mózgu [^Payne].
 
 
 ### Deprywacja snu
-
-
-
-
-Wiemy, że insulina, która reguluje poziom cukru we krwi, wpływa również na poziom serotoniny (hormonu szczęścia) w mózgu. Podczas ciąży poziom insuliny stopniowo wzrasta, jednak po porodzie gwałtownie następuje spadek jej poziomu do wartości oryginalnych [^Ruohomaki]. Dodatkowo w połogu poziom cukru we krwi spada po około 3 godzinach po posiłku (poza tym okresem po ok. 4-5 godzinach). Jeśli kobieta nie zje czegoś co zawiera węglowodany, uwalniana jest adrenalina, która może zaostrzyć objawy PPD[^link_postpartale]. Szczególnie narażone są na to kobiety cierpiące na cukrzycę, w przypadku których ryzyko depresji poporodowej jest wyższe [^Silverman].
+Wiemy, że insulina, która reguluje poziom cukru we krwi, wpływa również na poziom serotoniny (hormonu szczęścia) w mózgu. Podczas ciąży poziom insuliny stopniowo wzrasta, jednak po porodzie następuje gwałtowny spadek jej poziomu do wartości oryginalnych [^Ruohomaki]. Dodatkowo w połogu poziom cukru we krwi spada po około 3 godzinach po posiłku (poza tym okresem po ok. 4-5 godzinach). Jeśli kobieta nie zje czegoś co zawiera węglowodany, uwalniana jest adrenalina, która może zaostrzyć objawy PPD[^link_postpartale]. Szczególnie narażone są na to kobiety cierpiące na cukrzycę, w przypadku których ryzyko depresji poporodowej jest wyższe [^Silverman].
 
 
 ### Niedobory witamin i minerałów
-
-Niedobór witamin i minerałów również może pogłębiać objawy depresji. Szczególnie narażone są kobiety z anemią, które straciły dużo krwi podczas porodu lub na skutek cesarskiego cięcia [^Wassef]. Również niedobór witaminy D może wpływać na większą podatność na zachorowanie na depresję poporodową [^Amini][^AminiS]. Dlatego zazwyczaj psychiatra przed rozpoznaniem depresji zleca wykonanie badania krwi, celem wykluczenia anemii oraz niedoboru witaminy D.
+Niedobór witamin i minerałów również może pogłębiać objawy depresji. Szczególnie narażone są kobiety z anemią, które straciły dużo krwi podczas porodu lub na skutek cesarskiego cięcia [^Wassef]. Również niedobór witaminy D może wpływać na większą zacorowalność na depresję poporodową [^Amini] [^AminiS]. Dlatego zazwyczaj psychiatra przed rozpoznaniem depresji zleca wykonanie badania krwi, celem wykluczenia anemii oraz niedoboru witaminy D.
 
 
 
 <header class="major"><h2><a name="okoloporodowe"></a>Przyczyny okołoporodowe</h2></header>
 
 ### Powikłania w ciąży
-Każda komplikacja w czasie ciąży jest sytuacją potencjalnie stresującą. Dotyczy to zarówno problemów zdrowotnych kobiety (takich jak cukrzyca ciążowa, wysokie ciśnienie tętnicze, stan przedrzucawkowy, niepowściągliwe wymioty, anemia, czy po prostu odczuwany ból),  jak i wykrytych wad u nienarodzonego dziecka [^Kettunen].
+Każda komplikacja w czasie ciąży jest sytuacją potencjalnie stresującą. Dotyczy to zarówno problemów zdrowotnych kobiety (takich jak cukrzyca ciążowa, wysokie ciśnienie tętnicze, stan przedrzucawkowy, niepowściągliwe wymioty, anemia, czy po prostu odczuwany ból), jak i wykrytych wad u nienarodzonego dziecka [^Kettunen].
 
 
 ### Komplikacje przy porodzie
- 
 Każda mama ma pewne wyobrażenie i oczekiwanie, jak powinien przebiegać poród (marzą zazwyczaj o porodzie naturalnym i bez komplikacji). Gdy jednak coś pójdzie inaczej niż się spodziewały, może zrodzić się w nich poczucie winy i porażki. Zwiększone ryzyko depresji obserwuje się szczególnie u mam, u których wystąpiły takie komplikacje jak: przedwczesny poród, nieoczekiwane cesarskie cięcie, poród próżniowy lub kleszczowy, nadmierne krwawienie [^Xu]. 
 
 
