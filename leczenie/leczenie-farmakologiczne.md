@@ -54,7 +54,7 @@ Powszechnym mitem jest, że w ciąży i podczas karmienia bezwzględnie nie nale
 
 Trzeba więc uważnie rozważyć ryzyko (choć mało prawdopodobne) wpływu leków na dziecko oraz ryzyko rozwoju choroby u matki jeśli leczenia nie przyjmie. W przypadku kobiet ciężarnych musimy pamiętać, że zdrowie matki jest gwarantem zdrowia nienarodzonego dziecka, a ryzyko powikłań z nieleczonej depresji często przewyższa prawdopodobieństwo uszkodzenia płodu. Przy karmieniu piersią warto z kolei rozważyć, czy nagłe odstawienie nie wywoła u matki pogłębienia problemu oraz czy jak odstawienie przebiegnie u dziecka (są niemowlęta, które odrzucają butelkę).
 
-Jeśli chcecie dowiedzieć się czegoś więcej o stosowaniu leków w ciąży i podczas karmienia, zajrzyjcie na stronę niemieckiego stowarzyszenia badającego matki i dzieci: [www.embryotox.de](www.embryotox.de) 
+Jeśli chcecie dowiedzieć się czegoś więcej o stosowaniu leków w ciąży i podczas karmienia, zajrzyjcie na stronę niemieckiego stowarzyszenia badającego matki i dzieci: <www.embryotox.de>.
 
 
 

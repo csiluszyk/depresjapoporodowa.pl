@@ -12,5 +12,5 @@ Mamy nadzieję, że znajdziecie na tej stronie potrzebne informacje i rozwiejeci
 <h3>“Depresja poporodowa jest uleczalna! Najważniejszy krok jaki musisz zrobić, to poprosić o pomoc!”</h3>
 </div>
 
-Zachęcamy do kontaktu z nami poprzez naszego maila: <info@depresjapoporodowa.pl> \
+Zachęcamy do kontaktu z nami poprzez naszego maila: <info@depresjapoporodowa.pl>. \
 Z przyjemnością odpowiemy na Wasze wiadomości. 
