@@ -6,7 +6,9 @@ img: objawy-depresji.jpg
 ## Depresja ma wiele twarzy - to nie tylko smutek i brak energii.
 Symptomy depresji poporodowej zazwyczaj rozwijają się powoli i mogą być trudne do zauważenia przez otoczenie, a nierzadko również samą mamę. Dzieje się tak dlatego, że choroba zaburza postrzeganie siebie i jasną ocenę sytuacji. Dodatkowo kobiety zazwyczaj wypierają lub zatajają swoje objawy z powodu ogromnego wstydu. Depresja może pojawić się nie tylko bezpośrednio po porodzie, ale nawet kilka tygodni / miesięcy (do 1 roku) po urodzeniu dziecka. 
 
+<div class="box">
 Nie wszystkie poniżej wymienione symptomy muszą opisywać Twoją sytuację. Warto wiedzieć, że gdy u części kobiet dominują objawy związane z obniżonym nastrojem, u drugich dominują objawy związane z lękiem. 
+</div>
 
 - **Zaburzenia snu** -  możemy odczuwać zwiększoną potrzebę snu lub doświadczać bezsenności np. trudno nam zasnąć lub budzimy się przedwcześnie, nawet gdy nasze dziecko śpi
 - **Utrata zainteresowań** - czynności, które wcześniej sprawiały nam radość, przestają nas cieszyć np. ulubiony serial przestaje nas interesować, nie cieszymy się ze spaceru na łonie natury
