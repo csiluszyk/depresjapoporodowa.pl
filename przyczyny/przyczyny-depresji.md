@@ -12,7 +12,7 @@ Przyczyny depresji poporodowej nie są do końca znane. Badania sugerują, że a
 
 ---
 ### Ważne
-Warto zauważyć, że część czynników (np. deprywacja snu, przedefiniowanie relacji, lęk o zdrowie dziecka) dotyka nie tylko matek, ale również ojców. Dlatego u ojców również może wystąpić depresja poporodowa! Przypuszcza się, że dotyczy to nawet 9-10% mężczyzn [^Rao][^Paulson].
+Warto zauważyć, że część czynników (np. deprywacja snu, przedefiniowanie relacji, lęk o zdrowie dziecka) dotyka nie tylko matek, ale również ojców. Dlatego u ojców również może wystąpić depresja poporodowa! Przypuszcza się, że dotyczy to nawet 9-10% mężczyzn [^Rao] [^Paulson].
 
 ---
 
@@ -31,7 +31,7 @@ W genezie wielu chorób duże znaczenie odgrywają geny. Nie inaczej jest w przy
 
 ### Hormony
 
-Badacze nie są ze sobą zgodni, jaką rolę odgrywają wahania hormonów w genezie depresji. Z jednej strony nie znaleziono dotąd by kobiety z depresją miały inne stężenia hormonów niż zdrowe matki. Z drugiej zaś warto pamiętać, że po porodzie przez ciało kobiety przechodzi istne “hormonalne tornado”. Nie ma też drugiego takiego okresu w życiu kobiety, kiedy ryzyko wystąpienia u niej zaburzeń psychicznych (nie tylko depresji poporodowej - PPD) byłoby tak wysokie. Część badaczy przypuszcza, że pewna grupa mam jest bardziej podatna na duże wahania hormonalne i że to one są najbardziej narażone na rozwój PPD.
+Badacze nie są ze sobą zgodni, jaką rolę odgrywają wahania hormonów w genezie depresji. Z jednej strony nie znaleziono dotąd by kobiety z depresją miały inne stężenia hormonów niż zdrowe matki. Z drugiej zaś warto pamiętać, że po porodzie przez ciało kobiety przechodzi istne “hormonalne tornado”. Nie ma też drugiego takiego okresu w życiu kobiety, kiedy ryzyko wystąpienia u niej zaburzeń psychicznych (nie tylko PPD) byłoby tak wysokie. Część badaczy przypuszcza, że pewna grupa mam jest bardziej podatna na duże wahania hormonalne i że to one są najbardziej narażone na rozwój depresji poporodowej.
 
 Warto mieć na uwadze, że:
 - Poziom estrogenu w czasie ciąży jest 200 razy wyższy niż normalnie, progesteronu zaś od 50 do 100 razy wyższy. Po porodzie poziom stężenia tych hormonów spada w ciągu kilku dni do wartości oryginalnych. Wiadomo też, że estrogen i progesteron wpływają na neurotransmitery (m.in. serotoninę, dopaminę, noradrenalinę), które odpowiedzialne są za regulację nastroju [^link_postpartale]
@@ -130,7 +130,7 @@ Dużo mówi się o tym, jak ukazywanie w mediach perfekcyjnie wyglądających ko
 [^Couto]: e Couto, T. C., Brancaglion, M. Y. M., Alvim-Soares, A., Moreira, L., Garcia, F. D., Nicolato, R., ... & Corrêa, H. (2015). Postpartum depression: A systematic review of the genetics involved. World journal of psychiatry, 5(1), 103.
 [^Viktorin]: Viktorin, A., Meltzer-Brody, S., Kuja-Halkola, R., Sullivan, P. F., Landén, M., Lichtenstein, P., & Magnusson, P. K. (2016). Heritability of perinatal depression and genetic overlap with nonperinatal depression. American Journal of Psychiatry, 173(2), 158-165.
 [^Szpunar]: Szpunar, M. J. i Parry, B. L. (2018). A systematic review of cortisol, thyroid-stimulating hormone, and prolactin in peripartum women with major depression. Archives of women's mental health, 21(2), 
-[^Keely, 2011]: Keely, E. J. (2011). Postpartum thyroiditis: an autoimmune thyroid disorder which predicts future thyroid health. Obstetric medicine, 4(1), 7-11.
+[^Keely]: Keely, E. J. (2011). Postpartum thyroiditis: an autoimmune thyroid disorder which predicts future thyroid health. Obstetric medicine, 4(1), 7-11.
 [^Payne]: Payne, J. L. i Maguire, J. (2019). Pathophysiological mechanisms implicated in postpartum depression. Frontiers in neuroendocrinology, 52, 165-180.
 [^Orzel]: Orzeł-Gryglewska, J. (2010). Consequences of sleep deprivation. International journal of occupational medicine and environmental health.
 [^Ghaedrahmati]: Ghaedrahmati, M., Kazemi, A., Kheirabadi, G., Ebrahimi, A., & Bahrami, M. (2017). Postpartum depression risk factors: A narrative review. Journal of education and health promotion, 6.
