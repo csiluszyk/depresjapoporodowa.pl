@@ -35,7 +35,7 @@ L.p. | Nazwa placówki | Koszt | Opis
 2.   | **Ośrodki Interwencji Kryzysowej** | bezpłatne | Prowadzą porady psychologiczne oraz interwencje kryzysowe (zazwyczaj cykl kilku spotkań). 
 3.   | **Miejskie Ośrodki Pomocy Społecznej** | bezpłatne | Prowadzą konsultacje psychologiczne dla osób z zaburzeniami psychicznymi a także ich członków rodziny.
 4.   | **Powiatowe Centra Pomocy Rodzinie** | bezpłatne | Prowadzą konsultacje psychologiczne dla osób z trudnościami emocjonalnymi
-5.   | **Poradnie Pedagogiczno- Psychologiczne** | bezpłatne | W niektórych miejscach dostępna jest psychoterapia dla rodziców (głównie rodziców dzieci szkolnych). W innych jedynie konsultacje psychologiczne. 
+5.   | **Poradnie Pedagogiczno-Psychologiczne** | bezpłatne | W niektórych miejscach dostępna jest psychoterapia dla rodziców (głównie rodziców dzieci szkolnych). W innych jedynie konsultacje psychologiczne. 
 6.   | **Fundacje i stowarzyszenia** | zazwyczaj bezpłatne | O ile w dużych miastach istnieje dużo organizacji pozarządowych, to w mniejszych miejscowościach jest ich zdecydowanie mniej. Często organizacje te oferują pomoc osobom z konkretnym problemem.
 7.   | **Organizacje przykościelne** | zazwyczaj bezpłatne lub niskopłatne | Często przy diecezjach prowadzone są poradnie rodzinne. Zazwyczaj nie trzeba być osobą wierzącą aby otrzymać tam wsparcie.
 8.   | **Prywatny gabinet** | płatne | Zazwyczaj koszt jednej sesji to ok. 80 - 140 zł. Dużą zaletą jest to, że w tych miejscach raczej nie ma kolejek.
@@ -44,7 +44,7 @@ Dokładne adresy i numery telefonu bezpłatnych instytucji, które są dostępne
 
 Jeśli przez chorobę ciężko jest Ci telefonować i dowiadywać się, gdzie możesz otrzymać pomoc, poproś partnera lub inną osobę, aby zrobiła to w Twoim imieniu. 
 
-Jeśli w bezpłatnych placówkach są długie kolejki, a wiesz, że cykliczna psychoterapia w prywatnym gabinecie nie jest dla Ciebie osiągalna finansowo, rozważ pójście na jedno spotkanie za które zapłacisz. Na zdrowiu nie warto oszczędzać. Nie myśl o dalszych wydatkach, tylko o kosztach jednej wizyty. Na pierwszym spotkaniu możesz stworzyć z terapeutą plan działania oraz przedyskutować inne możliwości leczenia. Terapeuta może wiedzieć, czy gdzieś w okolicy prowadzone są grupy wsparcia lub działają miejsca, w których oferowana jest bezpłatna pomoc osobom w kryzysie. 
+Jeśli w bezpłatnych placówkach są długie kolejki, a wiesz, że cykliczna psychoterapia w prywatnym gabinecie nie jest dla Ciebie osiągalna finansowo, rozważ pójście na jedno spotkanie, za które zapłacisz. Na zdrowiu nie warto oszczędzać. Nie myśl o dalszych wydatkach, tylko o kosztach jednej wizyty. Na pierwszym spotkaniu możesz stworzyć z terapeutą plan działania oraz przedyskutować inne możliwości leczenia. Terapeuta może wiedzieć, czy gdzieś w okolicy prowadzone są grupy wsparcia lub działają miejsca, w których oferowana jest bezpłatna pomoc osobom w kryzysie. 
 
 <div class="box">
  <h3>Ważne</h3>

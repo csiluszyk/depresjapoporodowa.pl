@@ -14,9 +14,9 @@ Psychoza poporodowa to poważna choroba, którą należy traktować jako stan na
 
 - **Halucynacje** - widzi się, słyszy bądź czuje rzeczy/osoby, które nie istnieją w rzeczywistości; żyje się w świecie fantazji, mogą wystąpić fantazje o zabiciu siebie, innych lub dziecka
 - **Urojenia** - to nieprawdziwe myśli, przekonania, podtrzymywane mimo dowodów na ich nieprawdziwość np. matka może być przekonana o nadnaturalnej sile, może uważać że zagraża jej dziecku niebezpieczeństwo lub że w jej dziecko wstąpił demon
-- **Zmiana charakteru** -  matka znacząco zmienia swoją osobowość, zachowuje się inaczej niż zwykle, czuje się wyobcowana (depersonalizacja) lub postrzega środowisko jako bardzo zmienione (derealizacja)
-- **Utrata zahamowań** - osoba nie przestrzega reguł społecznych np. obraża innych, zachowuje się prowokacyjnie 
-- **Obniżony nastrój lub nastrój maniakalny** - w przypadku obniżonego nastroju matka ma objawy depresyjne tzn. często płacze, wycofuje się, nie ma energii, zaś w przypadku nastroju maniakalnego matka dużo i szybko mówi, jest pobudzona, robi dużo rzeczy na raz, jest przesadnie szczęśliwa i żywiołowa
+- **Zmiana charakteru** - matka znacząco zmienia swoją osobowość, zachowuje się inaczej niż zwykle, czuje się wyobcowana (depersonalizacja) lub postrzega środowisko jako bardzo zmienione (derealizacja)
+- **Utrata zahamowań** - osoba nie przestrzega reguł społecznych, np. obraża innych, zachowuje się prowokacyjnie 
+- **Obniżony nastrój lub nastrój maniakalny** - w przypadku obniżonego nastroju matka ma objawy depresyjne tzn. często płacze, wycofuje się, nie ma energii, natomiast w przypadku nastroju maniakalnego matka dużo i szybko mówi, jest pobudzona, robi dużo rzeczy na raz, jest przesadnie szczęśliwa i żywiołowa
 - **Dezorientacja** - osoba może nie wiedzieć gdzie się znajduje i co robi w danym miejscu
 
 
@@ -38,19 +38,19 @@ Nie wiadomo, co powoduje psychozę poporodową, ale ryzyko jest większe, jeśli
 - Istnieje w rodzinie historia chorób psychicznych, zwłaszcza psychozy poporodowej
 
 
-Jeśli wiesz, że jesteś w grupie wysokiego ryzyka rozwoju psychozy poporodowej, podczas ciąży powinnaś skorzystać ze specjalistycznej opieki i zgłosić się do psychiatry. To jedyny sposób aby przeciwdziałać rozwojowi choroby.
+Jeśli wiesz, że jesteś w grupie wysokiego ryzyka rozwoju psychozy poporodowej, podczas ciąży powinnaś skorzystać ze specjalistycznej opieki i zgłosić się do psychiatry. To jedyny sposób, aby przeciwdziałać rozwojowi choroby.
 
 
 ## Rokowanie
-Gdy kobieta otrzyma odpowiednią i szybką pomoc tzn. otrzyma leczenie farmakologiczne i wsparcie terapeutyczne, to zazwyczaj jej stan polepsza się po 2 do 12 tygodni. Całkowity proces rekonwalescencji trwa od 6 miesięcy do roku lub więcej. Większość matek po otrzymaniu leczenia wraca do pełni zdrowia.
+Gdy kobieta otrzyma odpowiednią i szybką pomoc, tzn. otrzyma leczenie farmakologiczne i wsparcie terapeutyczne, to zazwyczaj jej stan polepsza się po 2 do 12 tygodni. Całkowity proces rekonwalescencji trwa od 6 miesięcy do roku lub więcej. Większość matek po otrzymaniu leczenia wraca do pełni zdrowia.
 
 
 ## W jaki sposób wspierać matkę
 - Bądź cierpliwy i wyrozumiały
-- Mów tak często jak to konieczne, że kobieta nie jest winna tego, że jest chora
+- Mów tak często, jak to konieczne, że kobieta nie jest winna tego, że jest chora
 - Zapewniaj kobietę, że ją kochasz i że zawsze może ona na Ciebie liczyć
 - Słuchaj i miej czas dla niej czas
-- Zachowuj spokój podczas jej wybuchów złości/ płaczu
+- Zachowuj spokój podczas jej wybuchów złości czy płaczu
 - Ogranicz wizyty gości
 - Przejmij obowiązek kontaktowania się z waszymi bliskimi i przyjaciółmi
 - Otwarcie pytaj jakiej pomocy potrzebuje kobieta
@@ -59,7 +59,7 @@ Gdy kobieta otrzyma odpowiednią i szybką pomoc tzn. otrzyma leczenie farmakolo
 
 
 ## Wsparcie dla bliskich i partnera
-Fakt zachorowania osoby bliskiej na psychozę poporodową jest ogromnie stresującym wydarzeniem dla najbliższych osób. Pamiętaj, żeby zadbać też o siebie. Staraj się znajdywać czas na własny odpoczynek, rozmawiaj z zaufanymi osobami o tym co Cię spotyka, a kiedy widzisz potrzebę, nie bój się poprosić o pomoc i udaj się do specjalisty.
+Fakt zachorowania osoby bliskiej na psychozę poporodową jest ogromnie stresującym wydarzeniem dla najbliższych osób. Pamiętaj, żeby zadbać też o siebie. Staraj się znajdywać czas na własny odpoczynek, rozmawiaj z zaufanymi osobami o tym, co Cię spotyka, a kiedy widzisz potrzebę, nie bój się poprosić o pomoc i udaj się do specjalisty.
 
 ---
 

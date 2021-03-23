@@ -6,9 +6,9 @@ img: przyczyny.jpg
 
 
 
-Przyczyny depresji poporodowej nie są do końca znane. Badania sugerują, że aby kobieta zapadła na depresję musi wystąpić jednocześnie kilka czynników. W przypadku każdej z matek jest to indywidualna “kombinacja” okoliczności. Dlatego też, choroba musi być leczona na różnych poziomach, dostosowanych do konkretnej osoby (pomoc specjalisty, krewnych, własne działania) [^link_postpartale]. 
+Przyczyny depresji poporodowej nie są do końca znane. Badania sugerują, że aby kobieta zapadła na depresję musi wystąpić jednocześnie kilka czynników. W przypadku każdej z matek jest to indywidualna „kombinacja” okoliczności. Dlatego też, choroba musi być leczona na różnych poziomach, dostosowanych do konkretnej osoby (pomoc specjalisty, krewnych, własne działania) [^link_postpartale]. 
 
-**Nie do końca wiemy co wywołuje depresję. Wiemy za to, że gdy wystąpi, jest związana z nierównowagą biochemiczną w mózgu. To nie jest więc wymyślona choroba!** 
+**Nie do końca wiemy, co wywołuje depresję. Wiemy za to, że gdy wystąpi, jest związana z nierównowagą biochemiczną w mózgu. To nie jest więc wymyślona choroba!** 
 
 ---
 ### Ważne
@@ -23,54 +23,54 @@ W genezie depresji obserwuje się następujące czynniki:
 - [Kulturowe](#kulturowe)
 
 
-<header class="major"><h2><a name="biologiczne"></a>Przyczyny biologiczne</h2></header>
+<header class="major"><h2><a id="biologiczne"></a>Przyczyny biologiczne</h2></header>
 
 ### Predyspozycje genetyczne
-W genezie wielu chorób duże znaczenie odgrywają geny. Nie inaczej jest w przypadku depresji poporodowej (PPD), co potwierdzają badania na bliźniętach i innych członkach rodziny [^Couto]. Dziedziczność depresji poporodowej wynosi ok. 50%. Jest to wartość wyższa niż w przypadku dziedziczności zwykłej depresji (31- 42%) [^Viktorin]. Warto jednak pamiętać, że gdy mówimy o predyspozycjach genetycznych, nie mamy na myśli tego, że ktoś mógłby mieć “gen depresji”. Ogromną rolę odgrywa bowiem interakcja ze środowiskiem, którego czynniki wpływają na aktywację i dezaktywację genów. Wiadomo na przykład, że na ekspresję (uaktywnienie) genów wpływa stres, leki oraz hormony płciowe [^Guintivano].
+W genezie wielu chorób duże znaczenie odgrywają geny. Nie inaczej jest w przypadku depresji poporodowej (PPD), co potwierdzają badania na bliźniętach i innych członkach rodziny [^Couto]. Dziedziczność depresji poporodowej wynosi ok. 50%. Jest to wartość wyższa niż w przypadku dziedziczności zwykłej depresji (31- 42%) [^Viktorin]. Warto jednak pamiętać, że gdy mówimy o predyspozycjach genetycznych, nie mamy na myśli tego, że ktoś mógłby mieć „gen depresji”. Ogromną rolę odgrywa bowiem interakcja ze środowiskiem, którego czynniki wpływają na aktywację i dezaktywację genów. Wiadomo na przykład, że na ekspresję (uaktywnienie) genów wpływa stres, leki oraz hormony płciowe [^Guintivano].
 
 
 ### Hormony
-Badacze nie są ze sobą zgodni, jaką rolę odgrywają wahania hormonów w genezie depresji. Z jednej strony nie znaleziono dotąd by kobiety z depresją miały inne stężenia hormonów niż zdrowe matki. Z drugiej zaś warto pamiętać, że po porodzie przez ciało kobiety przechodzi istne “hormonalne tornado”. Nie ma też drugiego takiego okresu w życiu kobiety, kiedy ryzyko wystąpienia u niej zaburzeń psychicznych (nie tylko PPD) byłoby tak wysokie. Część badaczy przypuszcza, że pewna grupa mam jest bardziej podatna na duże wahania hormonalne i że to one są najbardziej narażone na rozwój depresji poporodowej.
+Badacze nie są ze sobą zgodni, jaką rolę odgrywają wahania hormonów w genezie depresji. Z jednej strony nie znaleziono dotąd by kobiety z depresją miały inne stężenia hormonów niż zdrowe matki. Z drugiej zaś warto pamiętać, że po porodzie przez ciało kobiety przechodzi istne „hormonalne tornado”. Nie ma też drugiego takiego okresu w życiu kobiety, kiedy ryzyko wystąpienia u niej zaburzeń psychicznych (nie tylko PPD) byłoby tak wysokie. Część badaczy przypuszcza, że pewna grupa mam jest bardziej podatna na duże wahania hormonalne i że to one są najbardziej narażone na rozwój depresji poporodowej.
 
 Warto mieć na uwadze, że:
 - Poziom estrogenu w czasie ciąży jest 200 razy wyższy niż normalnie, progesteronu zaś od 50 do 100 razy wyższy. Po porodzie poziom stężenia tych hormonów spada w ciągu kilku dni do wartości oryginalnych. Wiadomo też, że estrogen i progesteron wpływają na neurotransmitery (m.in. serotoninę, dopaminę, noradrenalinę), które odpowiedzialne są za regulację nastroju [^link_postpartale]
-- W czasie ciąży poziom prolaktyny rośnie 20-50 razy i na takim poziomie utrzymuje się jeśli kobieta karmi piersią. Jeśli kobieta nie przystawia dziecka do piersi, poziom ten normalizuje się w ciągu 3 tygodni [^Szpunar]
-- U części mam może wystąpić poporodowe zapalenie tarczycy. Dotyczy to nawet  8% kobiet [^Keely]. Zaburzenia tarczycy wpływają na nastrój, a objawy mogą być mylone z depresją. Typowymi symptomami są drażliwość, nerwowość, lęk i ataki paniki, kołatanie serca, spadek energii, zaburzenia koncentracji, problemy ze snem. Dlatego w przypadku podejrzenia depresji powinno się wykonać badanie poziomu TSH, T4 i anty-TPO, aby wykluczyć ewentualne zapalenie tarczycy
-- W genezie depresji poporodowej ważną rolę mogą pełnić hormony stresu (kortyzol, ACTH, CRH), które stymulują oś podwzgórze-przysadka-nadnercza i wpływają na autonomiczny układ nerwowy. Trudne wydarzenia życiowe, zarówno po porodzie jak i w czasie ciąży, mogą więc mieć bezpośredni wpływ na rozwój nierównowagi chemicznej w mózgu [^Payne].
+- W czasie ciąży poziom prolaktyny rośnie 20-50 razy i na takim poziomie utrzymuje się, jeśli kobieta karmi piersią. Jeśli kobieta nie przystawia dziecka do piersi, poziom ten normalizuje się w ciągu 3 tygodni [^Szpunar]
+- U części mam może wystąpić poporodowe zapalenie tarczycy. Dotyczy to nawet 8% kobiet [^Keely]. Zaburzenia tarczycy wpływają na nastrój, a objawy mogą być mylone z depresją. Typowymi symptomami są drażliwość, nerwowość, lęk i ataki paniki, kołatanie serca, spadek energii, zaburzenia koncentracji, problemy ze snem. Dlatego w przypadku podejrzenia depresji powinno się wykonać badanie poziomu TSH, T4 i anty-TPO, aby wykluczyć ewentualne zapalenie tarczycy
+- W genezie depresji poporodowej ważną rolę mogą pełnić hormony stresu (kortyzol, ACTH, CRH), które stymulują oś podwzgórze-przysadka-nadnercza i wpływają na autonomiczny układ nerwowy. Trudne wydarzenia życiowe, zarówno po porodzie, jak i w czasie ciąży, mogą więc mieć bezpośredni wpływ na rozwój nierównowagi chemicznej w mózgu [^Payne].
 
 
 ### Deprywacja snu
-Wiemy, że insulina, która reguluje poziom cukru we krwi, wpływa również na poziom serotoniny (hormonu szczęścia) w mózgu. Podczas ciąży poziom insuliny stopniowo wzrasta, jednak po porodzie następuje gwałtowny spadek jej poziomu do wartości oryginalnych [^Ruohomaki]. Dodatkowo w połogu poziom cukru we krwi spada po około 3 godzinach po posiłku (poza tym okresem po ok. 4-5 godzinach). Jeśli kobieta nie zje czegoś co zawiera węglowodany, uwalniana jest adrenalina, która może zaostrzyć objawy PPD[^link_postpartale]. Szczególnie narażone są na to kobiety cierpiące na cukrzycę, w przypadku których ryzyko depresji poporodowej jest wyższe [^Silverman].
+Wiemy, że insulina, która reguluje poziom cukru we krwi, wpływa również na poziom serotoniny (hormonu szczęścia) w mózgu. Podczas ciąży poziom insuliny stopniowo wzrasta, jednak po porodzie następuje gwałtowny spadek jej poziomu do wartości oryginalnych [^Ruohomaki]. Dodatkowo w połogu poziom cukru we krwi spada po około 3 godzinach po posiłku (poza tym okresem po ok. 4-5 godzinach). Jeśli kobieta nie zje czegoś, co zawiera węglowodany, uwalniana jest adrenalina, która może zaostrzyć objawy PPD[^link_postpartale]. Szczególnie narażone są na to kobiety cierpiące na cukrzycę, w przypadku których ryzyko depresji poporodowej jest wyższe [^Silverman].
 
 
 ### Niedobory witamin i minerałów
-Niedobór witamin i minerałów również może pogłębiać objawy depresji. Szczególnie narażone są kobiety z anemią, które straciły dużo krwi podczas porodu lub na skutek cesarskiego cięcia [^Wassef]. Również niedobór witaminy D może wpływać na większą zacorowalność na depresję poporodową [^Amini] [^AminiS]. Dlatego zazwyczaj psychiatra przed rozpoznaniem depresji zleca wykonanie badania krwi, celem wykluczenia anemii oraz niedoboru witaminy D.
+Niedobór witamin i minerałów również może pogłębiać objawy depresji. Szczególnie narażone są kobiety z anemią, które straciły dużo krwi podczas porodu lub na skutek cesarskiego cięcia [^Wassef]. Również niedobór witaminy D może wpływać na większą zachorowalność na depresję poporodową [^Amini] [^AminiS]. Dlatego zazwyczaj psychiatra przed rozpoznaniem depresji zleca wykonanie badania krwi, celem wykluczenia anemii oraz niedoboru witaminy D.
 
 
 
-<header class="major"><h2><a name="okoloporodowe"></a>Przyczyny okołoporodowe</h2></header>
+<header class="major"><h2><a id="okoloporodowe"></a>Przyczyny okołoporodowe</h2></header>
 
 ### Powikłania w ciąży
 Każda komplikacja w czasie ciąży jest sytuacją potencjalnie stresującą. Dotyczy to zarówno problemów zdrowotnych kobiety (takich jak cukrzyca ciążowa, wysokie ciśnienie tętnicze, stan przedrzucawkowy, niepowściągliwe wymioty, anemia, czy po prostu odczuwany ból), jak i wykrytych wad u nienarodzonego dziecka [^Kettunen].
 
 
 ### Komplikacje przy porodzie
-Każda mama ma pewne wyobrażenie i oczekiwanie, jak powinien przebiegać poród (marzą zazwyczaj o porodzie naturalnym i bez komplikacji). Gdy jednak coś pójdzie inaczej niż się spodziewały, może zrodzić się w nich poczucie winy i porażki. Zwiększone ryzyko depresji obserwuje się szczególnie u mam, u których wystąpiły takie komplikacje jak: przedwczesny poród, nieoczekiwane cesarskie cięcie, poród próżniowy lub kleszczowy, nadmierne krwawienie [^Xu]. 
+Każda mama ma pewne wyobrażenie i oczekiwanie, jak powinien przebiegać poród (marzą zazwyczaj o porodzie naturalnym i bez komplikacji). Gdy jednak coś pójdzie inaczej, niż się spodziewały, może zrodzić się w nich poczucie winy i porażki. Zwiększone ryzyko depresji obserwuje się szczególnie u mam, u których wystąpiły takie komplikacje jak: przedwczesny poród, nieoczekiwane cesarskie cięcie, poród próżniowy lub kleszczowy, nadmierne krwawienie [^Xu]. 
 
 
 ### Problemy zdrowotne dziecka
 
-Informacja o chorobie dziecka - zarówno w trakcie ciąży jak i po porodzie - jest jedną z najbardziej stresujących sytuacji jaka może nas spotkać. Niekiedy dowiadujemy się o chorobie genetycznej lub innych trudnościach, które do końca życia będą towarzyszyć dziecku lub o istnieniu innej choroby, która niekiedy stanowi bezpośrednie zagrożenie życia. Nie dziwi więc fakt, że na depresję poporodową częściej narażone są matki, których dzieci trafiły na Oddział Intensywnej Terapii Noworodka [^Tahirkheli] a w szczególności matki wcześniaków (ok. 40% z nich rozwinie symptomy depresji) [^Vigod].
+Informacja o chorobie dziecka — zarówno w trakcie ciąży, jak i po porodzie — jest jedną z najbardziej stresujących sytuacji, jaka może nas spotkać. Niekiedy dowiadujemy się o chorobie genetycznej lub innych trudnościach, które do końca życia będą towarzyszyć dziecku lub o istnieniu innej choroby, która niekiedy stanowi bezpośrednie zagrożenie życia. Nie dziwi więc fakt, że na depresję poporodową częściej narażone są matki, których dzieci trafiły na Oddział Intensywnej Terapii Noworodka [^Tahirkheli] a w szczególności matki wcześniaków (ok. 40% z nich rozwinie symptomy depresji) [^Vigod].
 
 
 ### Ból podczas porodu
 
-Zarówno ból przewlekły (trwający wiele dni) jak i ostry (krótki ale silny) zwiększają szanse zapadnięcia na depresję [^Wisner]. Badania pokazują też, że kobiety które zdecydowały się na zastosowanie znieczulenia podczas porodu rzadziej zapadały na depresję poporodową w pierwszych tygodniach po porodzie niż kobiety rodzące siłami natury [^Ding]. Dlatego zastosowanie znieczulenia jest zalecane szczególnie u tych mam, u których istnieją czynniki ryzyka rozwoju depresji [^link_netdoktor].
+Zarówno ból przewlekły (trwający wiele dni), jak i ostry (krótki, ale silny) zwiększają szanse zapadnięcia na depresję [^Wisner]. Badania pokazują też, że kobiety które zdecydowały się na zastosowanie znieczulenia podczas porodu rzadziej zapadały na depresję poporodową w pierwszych tygodniach po porodzie niż kobiety rodzące siłami natury [^Ding]. Dlatego zastosowanie znieczulenia jest zalecane szczególnie u tych mam, u których istnieją czynniki ryzyka rozwoju depresji [^link_netdoktor].
  
  
 ### Problemy zdrowotne w połogu
 
-W 6 tygodniu po porodzie zaplanowana jest wizyta kontrolna u ginekologa. Wydaje nam się, że do tego czasu ciało kobiety powinno się zregenerować i zagoić wszystkie poporodowe rany. U kobiety mogą jednak wystąpić dłużej trwające trudności i wcale nie jest to rzadka sytuacja. Hemoroidy, nietrzymanie moczu czy ból krocza (szczególnie przy stosunku) zdarza się dużo częściej niż się o tym słyszy, ponieważ wiele kobiet wstydzi się swoich dolegliwości. Kobiety, u których obserwuje się te trudności są również grupą bardziej narażoną na depresję poporodową [^Evensen][^Fritel][^Chang].
+W 6 tygodniu po porodzie zaplanowana jest wizyta kontrolna u ginekologa. Wydaje nam się, że do tego czasu ciało kobiety powinno się zregenerować i zagoić wszystkie poporodowe rany. U kobiety mogą jednak wystąpić dłużej trwające trudności i wcale nie jest to rzadka sytuacja. Hemoroidy, nietrzymanie moczu czy ból krocza (szczególnie przy stosunku) zdarzają się dużo częściej, niż się o tym słyszy, ponieważ wiele kobiet wstydzi się swoich dolegliwości. Kobiety, u których obserwuje się te trudności są również grupą bardziej narażoną na depresję poporodową [^Evensen][^Fritel][^Chang].
 
 
 ### Problemy z karmieniem piersią 
@@ -80,37 +80,37 @@ Problemy z karmieniem piersią w pierwszych dniach życia dziecka są bardzo pow
 
 
 
-<header class="major"><h2><a name="psychologiczne"></a>Przyczyny psychologiczne</h2></header>
+<header class="major"><h2><a id="psychologiczne"></a>Przyczyny psychologiczne</h2></header>
 
 ### Stres
-Trudne doświadczenia rzutują na nas zarówno od strony biologicznej (m.in. wytwarza się kortyzol) jak i psychologicznej (odczuwamy lęk jako skutek reakcji “walcz lub uciekaj”). Już samo pojawienie się nowego członka rodziny jest wydarzeniem stresującym, ponieważ diametralnie zmienia nasze życie. Jeśli rodzice doświadczają w czasie ciąży lub po niej dodatkowego stresu (np. śmierci bliskiej osoby, przeprowadzki, problemów zdrowotnych) to ich układ nerwowy jest przeciążony i stają się przez to bardziej podatni na depresję [^Boyce]. Dlatego nie zaleca się w czasie oczekiwania na dziecko oraz pierwszego roku jego życia dokonywać dużych zmian w życiu (zmieniać pracy czy przeprowadzać się do innego środowiska).Również jeśli w dzieciństwie doświadczyliśmy silnego stresu, a szczególnie przemocy fizycznej. psychicznej lub seksualnej, to istnieje zwiększona szansa, że zachorujemy na depresję poporodową (to tak jakby nasz układ nerwowy pamiętał doświadczony stres z dzieciństwa. [^Silverman].
+Trudne doświadczenia rzutują na nas zarówno od strony biologicznej (m.in. wytwarza się kortyzol), jak i psychologicznej (odczuwamy lęk jako skutek reakcji „walcz lub uciekaj”). Już samo pojawienie się nowego członka rodziny jest wydarzeniem stresującym, ponieważ diametralnie zmienia nasze życie. Jeśli rodzice doświadczają w czasie ciąży lub po niej dodatkowego stresu (np. śmierci bliskiej osoby, przeprowadzki, problemów zdrowotnych) to ich układ nerwowy jest przeciążony i stają się przez to bardziej podatni na depresję [^Boyce]. Dlatego nie zaleca się w czasie oczekiwania na dziecko oraz pierwszego roku jego życia dokonywać dużych zmian w życiu (zmieniać pracy czy przeprowadzać się do innego środowiska). Również jeśli w dzieciństwie doświadczyliśmy silnego stresu, a szczególnie przemocy fizycznej, psychicznej lub seksualnej, to istnieje zwiększona szansa, że zachorujemy na depresję poporodową (to tak jakby nasz układ nerwowy pamiętał doświadczony stres z dzieciństwa) [^Silverman].
 
 
 ### Brak wsparcia
 
-Znamy powiedzenie: “Potrzeba całej wioski, by wychować jedno dziecko”. Nic dziwnego, że osoby, które nie mogą liczyć na wsparcie społeczne, borykają się częściej z depresją [^OHara]. Ważną rolę odgrywa partner, dlatego samotne matki są najbardziej narażoną grupą [^Beck]. Drugim najważniejszym źródłem pomocy jest najbliższa rodzina i nie chodzi wcale tylko o to, jak dużo i często się nam pomaga, lecz o samą świadomość, że gdy będziemy w potrzebie, zawsze znajdzie się ktoś, na kogo możemy liczyć [^Yim]. Kolejną grupą ryzyka są więc osoby mieszkające za granicą, które często są oddzielone od najbliższych [^Guintivano].
+Znamy powiedzenie: „Potrzeba całej wioski, by wychować jedno dziecko”. Nic dziwnego, że osoby, które nie mogą liczyć na wsparcie społeczne, borykają się częściej z depresją [^OHara]. Ważną rolę odgrywa partner, dlatego samotne matki są najbardziej narażoną grupą [^Beck]. Drugim najważniejszym źródłem pomocy jest najbliższa rodzina i nie chodzi wcale tylko o to, jak dużo i często się nam pomaga, lecz o samą świadomość, że gdy będziemy w potrzebie, zawsze znajdzie się ktoś, na kogo możemy liczyć [^Yim]. Kolejną grupą ryzyka są więc osoby mieszkające za granicą, które często są oddzielone od najbliższych [^Guintivano].
 
 
 ### Problemy w związku
-Pojawienie się nowego członka rodziny prowadzi do przedefiniowania ról i już na zawsze zmienia relację między rodzicami. Dziecko wymaga stałej opieki, dlatego partnerzy muszą podzielić się między sobą obowiązkami. Mają więc mniej czasu na odpoczynek i rozwijanie swoich zainteresowań oraz mniej czasu, który spędzają wyłącznie we dwoje. Nierzadko obowiązki i zmęczenie tak przytłaczają, że bliskość i seks schodzą na plan dalszy, co może u niektórych rodzić frustrację i poczucie wykluczenia. Gdy po roku od narodzin dziecka zapytano pary (co prawda w Stanach Zjednoczonych) jak oceniają swój związek, to aż 67% osób wskazało, że relacja z partnerem odkąd są rodzicami uległa pogorszeniu [^link_washington].
-Jeśli między partnerami już wcześniej istniały silne konflikty i podziały, to po narodzeniu dziecka zazwyczaj się nasilają. Kryzys w związku może prowadzić do depresji (i odwrotnie - depresja może prowadzić do kryzysu), a większe nasilenie objawów PPD występuje u kobiet, które oceniają swój związek jako mniej satysfakcjonujący [^Malus].
+Pojawienie się nowego członka rodziny prowadzi do przedefiniowania ról i już na zawsze zmienia relację między rodzicami. Dziecko wymaga stałej opieki, dlatego partnerzy muszą podzielić się między sobą obowiązkami. Mają więc mniej czasu na odpoczynek i rozwijanie swoich zainteresowań oraz mniej czasu, który spędzają wyłącznie we dwoje. Nierzadko obowiązki i zmęczenie tak przytłaczają, że bliskość i seks schodzą na plan dalszy, co może u niektórych rodzić frustrację i poczucie wykluczenia. Gdy po roku od narodzin dziecka zapytano pary (co prawda w Stanach Zjednoczonych), jak oceniają swój związek, to aż 67% osób wskazało, że relacja z partnerem odkąd są rodzicami uległa pogorszeniu [^link_washington].
+Jeśli między partnerami już wcześniej istniały silne konflikty i podziały, to po narodzeniu dziecka zazwyczaj się nasilają. Kryzys w związku może prowadzić do depresji (i odwrotnie — depresja może prowadzić do kryzysu), a większe nasilenie objawów PPD występuje u kobiet, które oceniają swój związek jako mniej satysfakcjonujący [^Malus].
  
 
 ### Trudności finansowe i mieszkaniowe
 
-Dobrze wszyscy wiemy, że pojawienie się dziecka niesie ze sobą często niemałe koszty finansowe. Jeśli już wcześniej byliśmy w finansowych tarapatach, to możemy się spodziewać większego stresu związanego z poczuciem odpowiedzialności - chcemy przecież zapewnić dziecku jak najlepszy start.. Martwienie się o finanse powoduje stres, który z kolei może mieć wpływ na pojawienie się symptomów depresji poporodowej [^Rich]. Jeszcze większe napięcie towarzyszy rodzicom borykającym się z brakiem własnych czterech kątów (tak potrzebnych, gdy pojawia się nowy członek rodziny).
+Dobrze wszyscy wiemy, że pojawienie się dziecka niesie ze sobą często niemałe koszty finansowe. Jeśli już wcześniej byliśmy w finansowych tarapatach, to możemy się spodziewać większego stresu związanego z poczuciem odpowiedzialności — chcemy przecież zapewnić dziecku jak najlepszy start… Martwienie się o finanse powoduje stres, który z kolei może mieć wpływ na pojawienie się symptomów depresji poporodowej [^Rich]. Jeszcze większe napięcie towarzyszy rodzicom borykającym się z brakiem własnych czterech kątów (tak potrzebnych, gdy pojawia się nowy członek rodziny).
 
 
 
-<header class="major"><h2><a name="kulturowe"></a>Przyczyny kulturowe</h2></header>
+<header class="major"><h2><a id="kulturowe"></a>Przyczyny kulturowe</h2></header>
 
 ### Mit Matki Polki
-W naszej kulturze istnieje ideał matki, która jest opiekuńcza, ciepła, zapominająca o sobie, a zarazem silna i zaradna, radząca sobie w każdej sytuacji. Mit ten ma długą historię, sięgającą rozbiorów Polski, umocniony dodatkowo w czasach wojny i komunizmu, kiedy od kobiet oczekiwano heroicznego poświęcania się rodzinie i Ojczyźnie. Takiej postawy uczone były nasze babcie i mamy. Która z kobiet nie słyszała kiedyś: “Musisz być silna. Dzieci są najważniejsze. Musisz się poświęcić rodzinie”? Niestety ideał Matki Polki nie uwzględnia najważniejszego - kobieta może dać szczęście rodzinie tylko wtedy, gdy zadba najpierw o samą siebie.   
+W naszej kulturze istnieje ideał matki, która jest opiekuńcza, ciepła, zapominająca o sobie, a zarazem silna i zaradna, radząca sobie w każdej sytuacji. Mit ten ma długą historię, sięgającą rozbiorów Polski, umocniony dodatkowo w czasach wojny i komunizmu, kiedy od kobiet oczekiwano heroicznego poświęcania się rodzinie i Ojczyźnie. Takiej postawy uczone były nasze babcie i mamy. Która z kobiet nie słyszała kiedyś: „Musisz być silna. Dzieci są najważniejsze. Musisz się poświęcić rodzinie”? Niestety ideał Matki Polki nie uwzględnia najważniejszego — kobieta może dać szczęście rodzinie tylko wtedy, gdy zadba najpierw o samą siebie.   
 
 
 ### Obraz matki w mediach
 
-Dużo mówi się o tym, jak ukazywanie w mediach perfekcyjnie wyglądających kobiet obniża ich poczucie własnej wartości. Czy zwróciliście jednak kiedyś uwagę, jak w reklamach lub filmach przedstawiane są świeżo upieczone mamy? Czy nie są to zazwyczaj młode i szczupłe dziewczyny, pełne sił i wigoru, po których nie widać ani cienia zmęczenia? Rzeczywistość bardzo odbiega od tego obrazu. Po porodzie zazwyczaj zostają kobiecie zbędne kilogramy, jej oczy są podkrążone z niewyspania, a czasu nie starcza jej nawet na zwykły odpoczynek, nie mówiąc już o rozwijaniu własnych zainteresowań. To samo tyczy się mediów społecznościowych, w których pokazujemy jedynie pozytywne chwile z naszego życia, rzadko przedstawiając jak wygląda codzienna ciężka praca. Dlatego porównywanie się z innymi, a już 
+Dużo mówi się o tym, jak ukazywanie w mediach perfekcyjnie wyglądających kobiet obniża ich poczucie własnej wartości. Czy zwróciliście jednak kiedyś uwagę, jak w reklamach lub filmach przedstawiane są świeżo upieczone mamy? Czy nie są to zazwyczaj młode i szczupłe dziewczyny, pełne sił i wigoru, po których nie widać ani cienia zmęczenia? Rzeczywistość bardzo odbiega od tego obrazu. Po porodzie zazwyczaj zostają kobiecie zbędne kilogramy, jej oczy są podkrążone z niewyspania się, a czasu nie starcza jej nawet na zwykły odpoczynek, nie mówiąc już o rozwijaniu własnych zainteresowań. To samo tyczy się mediów społecznościowych, w których pokazujemy jedynie pozytywne chwile z naszego życia, rzadko przedstawiając, jak wygląda codzienna ciężka praca. Dlatego porównywanie się z innymi, a już 
 
 ---
 
