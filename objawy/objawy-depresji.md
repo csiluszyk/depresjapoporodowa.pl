@@ -10,7 +10,7 @@ Symptomy depresji poporodowej zazwyczaj rozwijają się powoli i mogą być trud
 Nie wszystkie poniżej wymienione symptomy muszą opisywać Twoją sytuację. Warto wiedzieć, że gdy u części kobiet dominują objawy związane z obniżonym nastrojem, u drugich dominują objawy związane z lękiem. 
 </div>
 
-- **Zaburzenia snu** - możemy odczuwać zwiększoną potrzebę snu lub doświadczać bezsenności np. trudno nam zasnąć, lub budzimy się przedwcześnie, nawet gdy nasze dziecko śpi
+- **Zaburzenia snu** - możemy odczuwać zwiększoną potrzebę snu lub doświadczać bezsenności, np. trudno nam zasnąć lub budzimy się przedwcześnie, nawet gdy nasze dziecko śpi
 - **Utrata zainteresowań** - czynności, które wcześniej sprawiały nam radość, przestają nas cieszyć, np. ulubiony serial przestaje nas interesować, nie cieszymy się ze spaceru na łonie natury
 - **Poczucie winy** - czujemy, że jesteśmy złymi matkami, że krzywdzimy swoje dziecko, że nasze koleżanki czy siostry radzą sobie lepiej w opiece nad dziećmi niż my
 - **Brak energii** - czujemy się ciągle zmęczone, obolałe
