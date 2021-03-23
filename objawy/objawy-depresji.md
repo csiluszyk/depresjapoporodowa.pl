@@ -4,7 +4,7 @@ title: Objawy depresji
 img: objawy-depresji.jpg
 ---
 ## Depresja ma wiele twarzy — to nie tylko smutek i brak energii.
-Symptomy depresji poporodowej zazwyczaj rozwijają się powoli i mogą być trudne do zauważenia przez otoczenie, a nierzadko również samą mamę. Dzieje się tak dlatego, że choroba zaburza postrzeganie siebie i jasną ocenę sytuacji. Dodatkowo kobiety zazwyczaj wypierają lub zatajają swoje objawy z powodu ogromnego wstydu. 
+Symptomy depresji poporodowej zazwyczaj rozwijają się powoli i mogą być trudne do zauważenia przez otoczenie, a nierzadko również samą mamę. Dzieje się tak dlatego, że choroba zaburza postrzeganie siebie i jasną ocenę sytuacji. Dodatkowo kobiety zazwyczaj wypierają lub zatajają swoje objawy z powodu odczuwanego wstydu. 
 
 <div class="box">
 Nie wszystkie poniżej wymienione symptomy muszą opisywać Twoją sytuację. Warto wiedzieć, że gdy u części kobiet dominują objawy związane z obniżonym nastrojem, u drugich dominują objawy związane z lękiem. 
