@@ -31,7 +31,7 @@ Baby blues nie wymaga leczenia, ponieważ jego objawy powinny ustąpić samoistn
 Pierwsze tygodnie po porodzie są niezwykle trudne nie tylko dla mamy, ale również dla ojców i innych członków rodziny. Kobieta wymaga jednak dużo uwagi i wsparcia, ponieważ jej ciało i hormony muszą dojść do siebie po ogromnej zmianie, jaka zaszła w jej organizmie. 
 
 <div class="box">
-Nie można sprawić, aby baby blues zniknęło, ale można ułatwić kobiecie jago "przetrwanie". 
+Nie można sprawić, aby baby blues zniknęło, ale można ułatwić kobiecie jago „przetrwanie". 
 </div>
 
 Zadbajcie o to, aby w tych pierwszych tygodniach nowa mama:

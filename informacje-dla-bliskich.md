@@ -49,7 +49,7 @@ Kobieta nie jest winna, że ma depresję. Ty również nie jesteś winny! Nie mo
 
 
 
-## Co mówić?
+<header class="major"><h2>Co mówić?</h2></header>
 
 - „Kocham Cię”
 - „Nasze dziecko Cię kocha”
@@ -71,7 +71,7 @@ Kobieta nie jest winna, że ma depresję. Ty również nie jesteś winny! Nie mo
 **Powtarzaj kobiecie te zdania milion razy! Ona tego potrzebuje.**
 
 
-## Czego nie mówić?
+<header class="major-red"><h2>Czego nie mówić?</h2></header>
 
 - „To powinien być dla Ciebie najwspanialszy okres w życiu”
 - „Nie zachowuj się jak egoistka — powinnaś się cieszyć, że mamy dziecko”
