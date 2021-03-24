@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leczenie farmakologiczne
-img: leczenie-farmakologiczne.jpg
+image: leczenie-farmakologiczne.jpg
 ---
 
 ## Kiedy leczenie farmakologiczne jest potrzebne? 

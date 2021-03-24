@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Samopomoc
-img: samopomoc.jpg
+image: samopomoc.jpg
 ---
 
 
