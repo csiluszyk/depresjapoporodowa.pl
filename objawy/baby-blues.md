@@ -51,6 +51,6 @@ Zadbajcie o to, aby w tych pierwszych tygodniach nowa mama:
 ## Więcej informacji znajdziesz:
 
 
-- <https://www.netdoktor.de/krankheiten/wochenbettdepression/baby-blues/>
-- <https://womensmentalhealth.org/specialty-clinics/postpartum-psychiatric-disorders/>
+- <https://www.netdoktor.de/krankheiten/wochenbettdepression/baby-blues/>{:target="_blank"}
+- <https://womensmentalhealth.org/specialty-clinics/postpartum-psychiatric-disorders/>{:target="_blank"}
 - Mason, M. A. i Goulden, M. (2004). Marriage and baby blues: Redefining gender equity in the academy. The Annals of the American Academy of Political and Social Science, 596(1), 86-103.
