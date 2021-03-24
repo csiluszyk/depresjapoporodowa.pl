@@ -55,7 +55,7 @@ Niedobór witamin i minerałów również może pogłębiać objawy depresji. Sz
 <header class="major"><h2><a id="okoloporodowe"></a>Przyczyny okołoporodowe</h2></header>
 
 ### Powikłania w ciąży
-Każda komplikacja w czasie ciąży jest sytuacją potencjalnie stresującą. Dotyczy to zarówno problemów zdrowotnych kobiety (takich jak cukrzyca ciążowa, wysokie ciśnienie tętnicze, stan przedrzucawkowy, niepowściągliwe wymioty, anemia, czy po prostu odczuwany ból), jak i wykrytych wad u nienarodzonego dziecka [^Kettunen].
+Każda komplikacja w czasie ciąży jest sytuacją stresującą. Dotyczy to zarówno problemów zdrowotnych kobiety (takich jak cukrzyca ciążowa, wysokie ciśnienie tętnicze, stan przedrzucawkowy, niepowściągliwe wymioty, anemia, czy po prostu odczuwany ból), jak i wykrytych wad u nienarodzonego dziecka [^Kettunen].
 
 
 ### Komplikacje przy porodzie
