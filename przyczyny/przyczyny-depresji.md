@@ -110,7 +110,7 @@ W naszej kulturze istnieje ideał matki, która jest opiekuńcza, ciepła, zapom
 
 ### Obraz matki w mediach
 
-Dużo mówi się o tym, jak ukazywanie w mediach perfekcyjnie wyglądających kobiet obniża ich poczucie własnej wartości. Czy zwróciliście jednak kiedyś uwagę, jak w reklamach lub filmach przedstawiane są świeżo upieczone mamy? Czy nie są to zazwyczaj młode i szczupłe dziewczyny, pełne sił i wigoru, po których nie widać ani cienia zmęczenia? Rzeczywistość bardzo odbiega od tego obrazu. Po porodzie zazwyczaj zostają kobiecie zbędne kilogramy, jej oczy są podkrążone z niewyspania się, a czasu nie starcza jej nawet na zwykły odpoczynek, nie mówiąc już o rozwijaniu własnych zainteresowań. To samo tyczy się mediów społecznościowych, w których pokazujemy jedynie pozytywne chwile z naszego życia, rzadko przedstawiając, jak wygląda codzienna ciężka praca. Dlatego porównywanie się z innymi, a już 
+Dużo mówi się o tym, jak ukazywanie w mediach perfekcyjnie wyglądających kobiet obniża ich poczucie własnej wartości. Czy zwróciliście jednak kiedyś uwagę, jak w reklamach lub filmach przedstawiane są świeżo upieczone mamy? Czy nie są to zazwyczaj młode i szczupłe dziewczyny, pełne sił i wigoru, po których nie widać ani cienia zmęczenia? Rzeczywistość bardzo odbiega od tego obrazu. Po porodzie zazwyczaj zostają kobiecie zbędne kilogramy, jej oczy są podkrążone z niewyspania, a czasu nie starcza jej nawet na zwykły odpoczynek, nie mówiąc już o rozwijaniu własnych zainteresowań. To samo tyczy się mediów społecznościowych, w których pokazujemy jedynie pozytywne chwile z naszego życia, rzadko przedstawiając, jak wygląda codzienna ciężka praca. 
 
 ---
 
