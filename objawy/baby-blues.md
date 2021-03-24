@@ -38,7 +38,7 @@ Zadbajcie o to, aby w tych pierwszych tygodniach nowa mama:
 - Jak najwięcej odpoczywała
 - Dobrze się odżywiała i piła dużo wody
 - Musiała jak najmniej zajmować się obowiązkami domowymi 
-- Otrzymała pomoc w opiece nad starszym rodzeństwem
+- Otrzymała pomoc w opiece nad starszymi dziećmi
 - Wychodziła na zewnątrz nawet na krótkie spacery
 - Wiedziała, że może z Tobą porozmawiać o swoich emocjach i wątpliwościach, i nie będzie wtedy oceniana 
 - Słyszała jak najczęściej, że jest dobrą mamą i świetnie radzi sobie w nowej roli 
