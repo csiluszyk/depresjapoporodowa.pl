@@ -118,7 +118,7 @@ Ataki paniki dobrze odpowiadają na terapię (zwłaszcza poznawczo-behawioralną
 ## Co z intymnością?
 Bliskość dla Twojej partnerki może być obecnie bardzo trudna. Szczególnie seks może być poza jej horyzontem. Twoja żona jest zmęczona, może goić się po porodzie, przez jej ciało przechodzi burza hormonów, odczuwa stres związany z nową rolą oraz z chorobą. Jeśli przyjmuje leki, może (ale nie musi) mieć zmniejszone libido i trudności w odczuwaniu seksualnej przyjemności. Staraj się więc nie wywierać na niej presji.
 
-Seks jest jednak ważnym tematem i warto, abyście o nim otwarcie porozmawiali. Zapytaj, jakie formy bliskości akceptuje. Jak czuje się, gdy ją przytulasz lub całujesz. Zachęć ją, aby wprost mówiła CI, jakiej intymności od Ciebie potrzebuje. 
+Seks jest jednak ważnym tematem i warto, abyście o nim otwarcie porozmawiali. Zapytaj, jakie formy bliskości akceptuje. Jak czuje się, gdy ją przytulasz lub całujesz. Zachęć ją, aby wprost mówiła Ci, jakiej intymności od Ciebie potrzebuje. 
 
 
 ## Komu powiedzieć o chorobie?
