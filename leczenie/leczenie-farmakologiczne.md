@@ -72,4 +72,4 @@ Jeśli chcecie dowiedzieć się czegoś więcej o stosowaniu leków w ciąży i 
 - Bennett, S. S. (2011). Counteracting a Chemical Cause: Medical Treatments. W: *Postpartum depression for dummies*.
 - Frieder, A., Fersh, M., Hainline, R. i Deligiannidis, K. M. (2019). Pharmacotherapy of postpartum depression: current approaches and novel drug development. CNS drugs, 33(3), 265-282. 
 - Sharma, V., Doobay, M. i Baczynski, C. (2017). Bipolar postpartum depression: An update and recommendations. Journal of affective disorders, 219, 105-111.
-- 
+
