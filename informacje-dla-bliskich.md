@@ -56,7 +56,7 @@ Kobieta nie jest winna, że ma depresję. Ty również nie jesteś winny! Nie mo
 - „Wyzdrowiejesz”
 - „Depresja jest straszną chorobą, ale jest uleczalna. Znajdziemy Ci pomóc”
 - „Potrzeba czasu byś poczuła się lepiej”
-- „Robimy wszystko jak należy byś jak najkrócej musiała cierpieć”
+- „Robimy wszystko jak należy, byś jak najkrócej musiała cierpieć”
 - „Jesteś dzielna i silna”
 - „Jesteś dobrą mamą” - staraj się jej wskazywać, co robi każdego dnia dla Waszego dziecka. Może się uśmiechnęła, może zmieniła pieluchę, może do niego wstała, by go uspokoić… Doceniaj ją za najmniejsze rzeczy
 - „Wiem, że dajesz z siebie wszystko, dajesz SWOJE 100%” - inaczej wygląda 100% zdrowej matki, inaczej 100% osoby chorej 
@@ -84,7 +84,7 @@ Kobieta nie jest winna, że ma depresję. Ty również nie jesteś winny! Nie mo
 - „Nie przesadzaj i nie histeryzuj”
 - „Weź się w garść”
 - „Po prostu się uspokój” (zazwyczaj sprawi to, że jeszcze bardziej się przestraszy i zdenerwuje)
-- „Jesteś wystarczająco silna, by poradzić sobie bez psychologa/ lekarza/ leków”
+- „Jesteś wystarczająco silna, by poradzić sobie bez psychologa / lekarza / leków”
 - „Leki antydepresyjne szkodzą i nie powinnaś ich brać”
 - „Nie płacz tylko pomyśl o czymś przyjemnym”
 - „Nic się nie bój” (pomyśli, że nie wiesz jak źle z nią jest)
@@ -118,7 +118,7 @@ Ataki paniki dobrze odpowiadają na terapię (zwłaszcza poznawczo-behawioralną
 ## Co z intymnością?
 Bliskość dla Twojej partnerki może być obecnie bardzo trudna. Szczególnie seks może być poza jej horyzontem. Twoja żona jest zmęczona, może goić się po porodzie, przez jej ciało przechodzi burza hormonów, odczuwa stres związany z nową rolą oraz z chorobą. Jeśli przyjmuje leki, może (ale nie musi) mieć zmniejszone libido i trudności w odczuwaniu seksualnej przyjemności. Staraj się więc nie wywierać na niej presji.
 
-Seks jest jednak ważnym tematem i warto, abyście o nim otwarcie porozmawiali. Zapytaj, jakie formy bliskości akceptuje. Jak czuje się, gdy ją przytulasz lub całujesz. Zachęć ją, aby wprost mówiła CI, jakiej intymności od Ciebie potrzebuje. 
+Seks jest jednak ważnym tematem i warto, abyście o nim otwarcie porozmawiali. Zapytaj, jakie formy bliskości akceptuje. Jak czuje się, gdy ją przytulasz lub całujesz. Zachęć ją, aby wprost mówiła Ci, jakiej intymności od Ciebie potrzebuje. 
 
 
 ## Komu powiedzieć o chorobie?
