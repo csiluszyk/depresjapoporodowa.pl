@@ -95,7 +95,7 @@ Kobieta nie jest winna, że ma depresję. Ty również nie jesteś winny! Nie mo
 Jeśli dostrzeżesz, któryś z poniższych objawów NATYCHMIAST skontaktuj się z lekarzem prowadzącym lub zadzwoń na pogotowie (tel. 112). Nie powinieneś też wtedy zostawiać swojej żony samej ANI NA CHWILĘ (nie pozwól by zamykała się w łazience, jeśli mieszkacie na wyższym piętrze, pilnuj by nie otwierała okna). Nie zostawiaj jej też wtedy samą z dzieckiem.
 </div>
 
-- Mówi nieracjonalnie i dziwacznie — nawet jeśli to trwa tylko chwilę (sprawdź: symptomy psychozy)
+- Mówi nieracjonalnie i dziwacznie — nawet jeśli to trwa tylko chwilę (sprawdź: [Objawy psychozy](/objawy/psychoza-poporodowa#objawy))
 - Ma nienaturalnie dużo energii i uważa, że jest w stanie wszystko zrobić
 - Mówi o skrzywdzeniu siebie lub dziecka
 - Jest zainteresowana tematami związanymi ze śmiercią, pogrzebem, opieką nad dzieckiem, gdy jej zabraknie
