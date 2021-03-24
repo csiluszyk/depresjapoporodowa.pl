@@ -9,7 +9,7 @@ Najlepiej byłoby aby każda osoba z depresją przeszła terapię, ponieważ zap
  
 ## Skuteczność terapii
 Terapia ma na celu pomóc osobie w zaktywizowaniu jej zasobów tzn. jej mocnych stron. Zazwyczaj psychoterapia błędnie kojarzy nam się z analizowaniem przeszłości (zwłaszcza dzieciństwa). Oczywiście znalezienie źródeł naszych trudności może być przydatne, ale nie zawsze jest to konieczne i w dużej mierze zależy od podejścia terapeutycznego. 
-Warto wiedzieć, że skuteczność niektórych rodzajów terapii jest potwierdzona naukowo. Bezpieczna relacja terapeuta-pacjent, rozpoznanie destruktywnych/pesymistycznych myśli oraz wypracowanie zdrowych zachowań redukujących stres, znacznie polepsza jakość życia osoby. 
+Warto wiedzieć, że skuteczność niektórych rodzajów terapii jest potwierdzona naukowo. Bezpieczna relacja terapeuta-pacjent, rozpoznanie destruktywnych / pesymistycznych myśli oraz wypracowanie zdrowych zachowań redukujących stres, znacznie polepsza jakość życia osoby. 
  
 ---
 
