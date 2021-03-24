@@ -34,9 +34,7 @@
       link: /materialy/wywiady
     - name: Książki
       link: /materialy/ksiazki
-    - name: Materiały wideo
-      link: /materialy/materialy-wideo
-    - name: Podcasty
-      link: /materialy/podcasty
+    - name: Podcasty i wideo
+      link: /materialy/podcasty-i-wideo
 - name: O nas
   link: /o-nas
