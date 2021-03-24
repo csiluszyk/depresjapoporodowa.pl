@@ -40,22 +40,26 @@ Warto mieć na uwadze, że:
 
 
 ### Deprywacja snu
+Każdy z nas po nieprzespanej nocy jest w gorszym nastroju, gorzej zapamiętuje nowe rzeczy i ma trudności z koncentracją [^Orzel]. Możemy więc łatwo wyobrazić sobie co dzieje się w naszych mózgach, gdy nasz sen jest zaburzony przez wiele tygodni a nawet miesięcy. Wiadomo jest również, że zmęczenie rodziców związane z częstym wybudzaniem się dziecka i niewystarczająca ilość snu, mogą prowadzić nie tylko do psychicznego wyczerpania, ale również do fizycznych zmian w organizmie: upośledzenia metabolizmu glukozy i układu odpornościowego [^Ghaedrahmati].
+
+
+### Wahania poziomu cukru we krwi
 Wiemy, że insulina, która reguluje poziom cukru we krwi, wpływa również na poziom serotoniny (hormonu szczęścia) w mózgu. Podczas ciąży poziom insuliny stopniowo wzrasta, jednak po porodzie następuje gwałtowny spadek jej poziomu do wartości oryginalnych [^Ruohomaki]. Dodatkowo w połogu poziom cukru we krwi spada po około 3 godzinach po posiłku (poza tym okresem po ok. 4-5 godzinach). Jeśli kobieta nie zje czegoś, co zawiera węglowodany, uwalniana jest adrenalina, która może zaostrzyć objawy PPD[^link_postpartale]. Szczególnie narażone są na to kobiety cierpiące na cukrzycę, w przypadku których ryzyko depresji poporodowej jest wyższe [^Silverman].
 
 
 ### Niedobory witamin i minerałów
-Niedobór witamin i minerałów również może pogłębiać objawy depresji. Szczególnie narażone są kobiety z anemią, które straciły dużo krwi podczas porodu lub na skutek cesarskiego cięcia [^Wassef]. Również niedobór witaminy D może wpływać na większą zachorowalność na depresję poporodową [^Amini] [^AminiS]. Dlatego zazwyczaj psychiatra przed rozpoznaniem depresji zleca wykonanie badania krwi, celem wykluczenia anemii oraz niedoboru witaminy D.
+Niedobór witamin i minerałów również może pogłębiać objawy depresji. Szczególnie narażone są kobiety z anemią, które straciły dużo krwi podczas porodu lub na skutek cesarskiego cięcia [^Wassef]. Również niedobór witaminy D może wpływać na większą zachorowalność na depresję poporodową [^Amini] [^AminiS]. Dlatego zazwyczaj psychiatra przed rozpoznaniem depresji, zleca wykonanie badania krwi, celem wykluczenia anemii oraz niedoboru witaminy D.
 
 
 
 <header class="major"><h2><a id="okoloporodowe"></a>Przyczyny okołoporodowe</h2></header>
 
 ### Powikłania w ciąży
-Każda komplikacja w czasie ciąży jest sytuacją potencjalnie stresującą. Dotyczy to zarówno problemów zdrowotnych kobiety (takich jak cukrzyca ciążowa, wysokie ciśnienie tętnicze, stan przedrzucawkowy, niepowściągliwe wymioty, anemia, czy po prostu odczuwany ból), jak i wykrytych wad u nienarodzonego dziecka [^Kettunen].
+Każda komplikacja w czasie ciąży jest sytuacją stresującą. Dotyczy to zarówno problemów zdrowotnych kobiety (takich jak cukrzyca ciążowa, wysokie ciśnienie tętnicze, stan przedrzucawkowy, niepowściągliwe wymioty, anemia, czy po prostu odczuwany ból), jak i wykrytych wad u nienarodzonego dziecka [^Kettunen].
 
 
 ### Komplikacje przy porodzie
-Każda mama ma pewne wyobrażenie i oczekiwanie, jak powinien przebiegać poród (marzą zazwyczaj o porodzie naturalnym i bez komplikacji). Gdy jednak coś pójdzie inaczej, niż się spodziewały, może zrodzić się w nich poczucie winy i porażki. Zwiększone ryzyko depresji obserwuje się szczególnie u mam, u których wystąpiły takie komplikacje jak: przedwczesny poród, nieoczekiwane cesarskie cięcie, poród próżniowy lub kleszczowy, nadmierne krwawienie [^Xu]. 
+Każda mama ma pewne wyobrażenie i oczekiwanie, jak powinien przebiegać poród (marzą raczej o porodzie naturalnym i bez komplikacji). Gdy jednak coś pójdzie inaczej, niż się spodziewały, może zrodzić się w nich poczucie winy i porażki. Zwiększone ryzyko depresji obserwuje się szczególnie u mam, u których wystąpiły takie komplikacje jak: przedwczesny poród, nieoczekiwane cesarskie cięcie, poród próżniowy lub kleszczowy, nadmierne krwawienie [^Xu]. 
 
 
 ### Problemy zdrowotne dziecka
@@ -106,7 +110,7 @@ W naszej kulturze istnieje ideał matki, która jest opiekuńcza, ciepła, zapom
 
 ### Obraz matki w mediach
 
-Dużo mówi się o tym, jak ukazywanie w mediach perfekcyjnie wyglądających kobiet obniża ich poczucie własnej wartości. Czy zwróciliście jednak kiedyś uwagę, jak w reklamach lub filmach przedstawiane są świeżo upieczone mamy? Czy nie są to zazwyczaj młode i szczupłe dziewczyny, pełne sił i wigoru, po których nie widać ani cienia zmęczenia? Rzeczywistość bardzo odbiega od tego obrazu. Po porodzie zazwyczaj zostają kobiecie zbędne kilogramy, jej oczy są podkrążone z niewyspania się, a czasu nie starcza jej nawet na zwykły odpoczynek, nie mówiąc już o rozwijaniu własnych zainteresowań. To samo tyczy się mediów społecznościowych, w których pokazujemy jedynie pozytywne chwile z naszego życia, rzadko przedstawiając, jak wygląda codzienna ciężka praca. Dlatego porównywanie się z innymi, a już 
+Dużo mówi się o tym, jak ukazywanie w mediach perfekcyjnie wyglądających kobiet obniża ich poczucie własnej wartości. Czy zwróciliście jednak kiedyś uwagę, jak w reklamach lub filmach przedstawiane są świeżo upieczone mamy? Czy nie są to zazwyczaj młode i szczupłe dziewczyny, pełne sił i wigoru, po których nie widać ani cienia zmęczenia? Rzeczywistość bardzo odbiega od tego obrazu. Po porodzie zazwyczaj zostają kobiecie zbędne kilogramy, jej oczy są podkrążone z niewyspania, a czasu nie starcza jej nawet na zwykły odpoczynek, nie mówiąc już o rozwijaniu własnych zainteresowań. To samo tyczy się mediów społecznościowych, w których pokazujemy jedynie pozytywne chwile z naszego życia, rzadko przedstawiając, jak wygląda codzienna ciężka praca. 
 
 ---
 

@@ -14,7 +14,7 @@ Nie wszystkie poniżej wymienione symptomy muszą opisywać Twoją sytuację. Wa
 - **Utrata zainteresowań** - czynności, które wcześniej sprawiały nam radość, przestają nas cieszyć, np. ulubiony serial przestaje nas interesować, nie cieszymy się ze spaceru na łonie natury
 - **Poczucie winy** - czujemy, że jesteśmy złymi matkami, że krzywdzimy swoje dziecko, że nasze koleżanki czy siostry radzą sobie lepiej w opiece nad dziećmi niż my
 - **Brak energii** - czujemy się ciągle zmęczone, obolałe
-- **Spadek koncentracji** - ciężko skupić się nam na najprostszych czynnościach np. ciężko jest nam czytać książkę
+- **Spadek koncentracji** - ciężko skupić się nam na najprostszych czynnościach, np. ciężko jest nam czytać książkę
 - **Zmniejszony apetyt (rzadziej zwiększony)**
 - **Pobudzenie lub ociężałość** - np. czujemy ciągłą potrzebę zmiany miejsca i mówienia lub odczuwamy obojętność, trudność w podniesieniu się z kanapy
 - **Myśli samobójcze** 
@@ -29,7 +29,7 @@ Nie wszystkie poniżej wymienione symptomy muszą opisywać Twoją sytuację. Wa
 - **Napady paniki** - są to napady wzmożonego lęku, któremu towarzyszą objawy fizyczne, takie jak duszności, ból w klatce piersiowej, zawroty głowy, kołatanie serca, biegunki, drżenie ciała, pocenie się lub omdlenia.
 - **Obsesyjne myśli** - to powtarzające się, dręczące i destrukcyjne myśli lub nagłe impulsy, np. boimy się, że możemy świadomie lub przez przypadek skrzywdzić dziecko („scary thoughts”). Zdrowe kobiety również mają takie spontaniczne myśli, jednak w przypadku depresji ich częstotliwość i intensywność jest większa. W przeciwieństwie do urojeń związanych z psychozą (wtedy matka nie postrzega tych myśli jako zagrażających), obsesje nie są wprowadzane w życie. Mogą one prowadzić do rozwijania rytuałów (kompulsji) odstraszających obsesyjne myśli.
 - **Kompulsje** - to powtarzalne rytuały np. gdy wielokrotnie sprawdzamy, czy dziecko oddycha podczas snu, często myjemy ręce w obawie przed zarazkami, kilkakrotnie sprawdzamy, czy zamknęłyśmy drzwi.
-- **Objawy psychosomatyczne** - częściej skarżymy się na dolegliwości bólowe np. bóle głowy, pleców, brzucha, mięśni, nudności, zaparcia, biegunki itp. 
+- **Objawy psychosomatyczne** - częściej skarżymy się na dolegliwości bólowe, np. bóle głowy, pleców, brzucha, mięśni, nudności, zaparcia, biegunki itp. 
 
 <div class="box">
   <h3>Pamiętaj!</h3>
