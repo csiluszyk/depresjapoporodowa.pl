@@ -29,7 +29,7 @@ Pełną skuteczność leku można niestety zazwyczaj ocenić dopiero po ok. 2-6 
 
 1. **Leki uspokajające** - jeśli już leki te są stosowane, to zazwyczaj tylko tymczasowo, zanim leki antydepresyjne zaczną działać. Przeciwdziałają one lękowi, napadom paniki, bezsenności. Rzadko kiedy obserwuje się po nich skutki uboczne. Przy dłuższym stosowaniu istnieje jednak ryzyko uzależnienia i do osiągnięcia tego samego działania możemy potrzebować większej dawki.
 
-1. **Leki nasenne** - większość z tych leków to równocześnie leki uspokajające tzn. że przy ich dłuższym stosowaniu istnieje ryzyko uzależnienia. Używa się ich więc zazwyczaj tylko na początku, zanim antydepresanty (które dobrze przeciwdziałają bezsenności) zaczną działać. Ich stosowanie jest pomocne, ponieważ depresja często powoduje bezsenność, a sen jest bardzo istotny w procesie zdrowienia. 
+1. **Leki nasenne** - większość z tych leków to równocześnie leki uspokajające, tzn. że przy ich dłuższym stosowaniu istnieje ryzyko uzależnienia. Używa się ich więc zazwyczaj tylko na początku, zanim antydepresanty (które dobrze przeciwdziałają bezsenności) zaczną działać. Ich stosowanie jest pomocne, ponieważ depresja często powoduje bezsenność, a sen jest bardzo istotny w procesie zdrowienia. 
 
 1. **Stabilizatory nastroju** - mogą być stosowane, aby wzmocnić działanie antydepresantów, a także w przypadku choroby afektywnej dwubiegunowej. Często stosowane są również w bezsenności (brane są wtedy wieczorem), ponieważ mają działanie uspokajające.
 
@@ -38,26 +38,26 @@ Pełną skuteczność leku można niestety zazwyczaj ocenić dopiero po ok. 2-6 
 ---
 
 ## Skutki uboczne leków
-Błędnym mniemaniem jest, że leki antydepresyjne sprawią, że będziemy otępiali/ powolni/ nie będziemy czuli emocji. Pamiętaj, że leki nie zmienią Twojej osobowości — one pomogą Ci poczuć się znowu sobą!
+Błędnym mniemaniem jest, że leki antydepresyjne sprawią, że będziemy otępiali / powolni / nie będziemy czuli emocji. Pamiętaj, że leki nie zmienią Twojej osobowości — one pomogą Ci poczuć się znowu sobą!
 
-Oczywiście leki stosowane w leczeniu depresji mogą powodować skutki uboczne. Jest to fakt. Jest to też prawdą dla wszystkich leków (czytaliście kiedyś ulotkę zwykłego Paracetamolu?). Trzeba jednak dodać, że dzisiejsze leki są dużo lepsze od tych stosowanych jeszcze kilkanaście lat temu. Szczególnie antydepresanty z grupy SSRI mają niewiele skutków ubocznych (czasami też mogą one wystąpić tylko na początku i po kilku tygodniach zaniknąć).
+Oczywiście leki stosowane w leczeniu depresji mogą powodować skutki uboczne. Jest to fakt. Jest to też prawdą dla wszystkich leków (czytaliście kiedyś ulotkę zwykłego Paracetamolu?). Trzeba jednak dodać, że dzisiejsze leki są dużo lepsze od tych stosowanych jeszcze kilkanaście lat temu. Szczególnie antydepresanty z grupy SSRI mają niewiele skutków ubocznych.
 
 Lista skutków ubocznych jest dla każdego leku inna. Jeśli odczuwasz lęk związany z tym, czego możesz doświadczyć, to stanowczo odradza się czytanie ulotek oraz postów w internecie. Pamiętajcie, że firmy farmaceutyczne muszą wypisać wszystkie możliwe zagrożenia, nawet jeśli ich prawdopodobieństwo jest bardzo niewielkie. Część osób zaczyna czuć rzekome skutki uboczne po samym przeczytaniu ulotki.
 
-Najczęściej obserwowanymi niedogodnościami związanymi z lekami są problemy z libido. Część leków może również zwiększać łaknienie i spowalniać metabolizmu. 
+Najczęściej obserwowanymi niedogodnościami związanymi z lekami są problemy z libido. Część leków może również zwiększać łaknienie i spowalniać metabolizm. 
 
 
 
 ## Jak długo należy brać leki?
-Każdy przypadek powinien być traktowany indywidualnie. Dużo zależy od stosowanego leku oraz historii choroby (ciężkości zaburzenia, tego, czy już wcześniej chorowaliśmy na depresję itp.). Zazwyczaj leki antydepresyjne stosuje się od pół roku do roku/ dwóch lat. 
+Każdy przypadek powinien być traktowany indywidualnie. Dużo zależy od stosowanego leku oraz historii choroby (ciężkości zaburzenia, tego, czy już wcześniej chorowaliśmy na depresję itp.). Zazwyczaj leki antydepresyjne stosuje się od pół roku do roku / dwóch lat. 
 
 Gdy poczujemy się lepiej, nie należy przerywać samemu przyjmowania leków. Czujemy się lepiej dzięki tym lekom, a gdy przerwiemy nagle ich przyjmowanie, to istnieje wysokie ryzyko nawrotu choroby, najczęściej w cięższej postaci. Dlatego każdą zmianę w przyjmowaniu i dawkowaniu leków należy skonsultować ze specjalistą.
 
 
 ## Leki podczas karmienia piersią oraz w ciąży
-Powszechnym mitem jest, że w ciąży i podczas karmienia bezwzględnie nie należy stosować leków. Faktem jest jednak, że leki przechodzą do mleka matki oraz przez łożysko. Istnieje więc ryzyko, że mogą one wywołać niepożądane działania u dziecka. Przyjmuje się, że leki antydepresyjne są relatywnie bezpieczne, lecz nikt nie może dać nam 100% pewności. Największą niepewnością jest bowiem brak długotrwałych badań nad dziećmi (tzn. czy w odległej przyszłości są bardziej na coś narażone). 
+Powszechnym mitem jest, że w ciąży i podczas karmienia bezwzględnie nie należy stosować leków. Faktem jest jednak, że leki przechodzą do mleka matki oraz przez łożysko. Istnieje więc ryzyko, że mogą one wywołać niepożądane działania u dziecka. Przyjmuje się, że leki antydepresyjne są relatywnie bezpieczne. Oczywiście nikt nie może dać nam 100% pewności. Największą niepewnością jest bowiem brak długofalowych badań nad dziećmi (tzn. czy w odległej przyszłości są bardziej na coś narażone). 
 
-Trzeba więc uważnie rozważyć ryzyko (choć mało prawdopodobne) wpływu leków na dziecko oraz ryzyko rozwoju choroby u matki, jeśli leczenia nie przyjmie. W przypadku kobiet ciężarnych musimy pamiętać, że zdrowie matki jest gwarantem zdrowia nienarodzonego dziecka, a ryzyko powikłań z nieleczonej depresji często przewyższa prawdopodobieństwo uszkodzenia płodu. Przy karmieniu piersią warto z kolei rozważyć, czy nagłe odstawienie nie wywoła u matki pogłębienia problemu oraz jak odstawienie przebiegnie u dziecka (są niemowlęta, które odrzucają butelkę).
+Trzeba więc uważnie rozważyć ryzyko (choć mało prawdopodobne) wpływu leków na dziecko oraz ryzyko rozwoju choroby u matki, jeśli leczenia nie przyjmie. W przypadku kobiet ciężarnych musimy pamiętać, że zdrowie matki jest gwarantem zdrowia nienarodzonego dziecka, a ryzyko powikłań z nieleczonej depresji często przewyższa prawdopodobieństwo uszkodzenia płodu. Przy karmieniu piersią warto z kolei rozważyć, czy nagłe odstawienie nie wywoła u matki pogłębienia problemu (szczególnie, gdy przykłada dużą rolę do naturalnego karmienia)  oraz jak odstawienie przebiegnie u dziecka (są niemowlęta, które odrzucają butelkę).
 
 Jeśli chcecie dowiedzieć się czegoś więcej o stosowaniu leków w ciąży i podczas karmienia, zajrzyjcie na stronę niemieckiego stowarzyszenia badającego matki i dzieci: <https://www.embryotox.de>.
 
