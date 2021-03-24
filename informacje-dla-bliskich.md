@@ -56,7 +56,7 @@ Kobieta nie jest winna, że ma depresję. Ty również nie jesteś winny! Nie mo
 - „Wyzdrowiejesz”
 - „Depresja jest straszną chorobą, ale jest uleczalna. Znajdziemy Ci pomóc”
 - „Potrzeba czasu byś poczuła się lepiej”
-- „Robimy wszystko jak należy byś jak najkrócej musiała cierpieć”
+- „Robimy wszystko jak należy, byś jak najkrócej musiała cierpieć”
 - „Jesteś dzielna i silna”
 - „Jesteś dobrą mamą” - staraj się jej wskazywać, co robi każdego dnia dla Waszego dziecka. Może się uśmiechnęła, może zmieniła pieluchę, może do niego wstała, by go uspokoić… Doceniaj ją za najmniejsze rzeczy
 - „Wiem, że dajesz z siebie wszystko, dajesz SWOJE 100%” - inaczej wygląda 100% zdrowej matki, inaczej 100% osoby chorej 
