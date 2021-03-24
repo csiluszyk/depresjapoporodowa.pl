@@ -13,11 +13,11 @@ Psychoza poporodowa to poważna choroba, którą należy traktować jako stan na
 ## Objawy
 
 - **Halucynacje** - widzi się, słyszy bądź czuje rzeczy/osoby, które nie istnieją w rzeczywistości; żyje się w świecie fantazji, mogą wystąpić fantazje o zabiciu siebie, innych lub dziecka
-- **Urojenia** - to nieprawdziwe myśli, przekonania, podtrzymywane mimo dowodów na ich nieprawdziwość np. matka może być przekonana o nadnaturalnej sile, może uważać że zagraża jej dziecku niebezpieczeństwo lub że w jej dziecko wstąpił demon
+- **Urojenia** - to nieprawdziwe myśli, przekonania, podtrzymywane mimo dowodów na ich nieprawdziwość, np. matka może być przekonana o nadnaturalnej sile, może uważać że zagraża jej dziecku niebezpieczeństwo lub że w jej dziecko wstąpił demon
 - **Zmiana charakteru** - matka znacząco zmienia swoją osobowość, zachowuje się inaczej niż zwykle, czuje się wyobcowana (depersonalizacja) lub postrzega środowisko jako bardzo zmienione (derealizacja)
 - **Utrata zahamowań** - osoba nie przestrzega reguł społecznych, np. obraża innych, zachowuje się prowokacyjnie 
-- **Obniżony nastrój lub nastrój maniakalny** - w przypadku obniżonego nastroju matka ma objawy depresyjne tzn. często płacze, wycofuje się, nie ma energii, natomiast w przypadku nastroju maniakalnego matka dużo i szybko mówi, jest pobudzona, robi dużo rzeczy na raz, jest przesadnie szczęśliwa i żywiołowa
-- **Dezorientacja** - osoba może nie wiedzieć gdzie się znajduje i co robi w danym miejscu
+- **Obniżony nastrój lub nastrój maniakalny** - w przypadku obniżonego nastroju matka ma objawy depresyjne, tzn. często płacze, wycofuje się, nie ma energii, natomiast w przypadku nastroju maniakalnego matka dużo i szybko mówi, jest pobudzona, robi dużo rzeczy na raz, jest przesadnie szczęśliwa i żywiołowa
+- **Dezorientacja** - osoba może nie wiedzieć, gdzie się znajduje i co robi w danym miejscu
 
 
 
