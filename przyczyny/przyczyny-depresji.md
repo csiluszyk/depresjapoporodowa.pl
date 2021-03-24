@@ -59,7 +59,7 @@ Każda komplikacja w czasie ciąży jest sytuacją stresującą. Dotyczy to zar�
 
 
 ### Komplikacje przy porodzie
-Każda mama ma pewne wyobrażenie i oczekiwanie, jak powinien przebiegać poród (marzą zazwyczaj o porodzie naturalnym i bez komplikacji). Gdy jednak coś pójdzie inaczej, niż się spodziewały, może zrodzić się w nich poczucie winy i porażki. Zwiększone ryzyko depresji obserwuje się szczególnie u mam, u których wystąpiły takie komplikacje jak: przedwczesny poród, nieoczekiwane cesarskie cięcie, poród próżniowy lub kleszczowy, nadmierne krwawienie [^Xu]. 
+Każda mama ma pewne wyobrażenie i oczekiwanie, jak powinien przebiegać poród (marzą raczej o porodzie naturalnym i bez komplikacji). Gdy jednak coś pójdzie inaczej, niż się spodziewały, może zrodzić się w nich poczucie winy i porażki. Zwiększone ryzyko depresji obserwuje się szczególnie u mam, u których wystąpiły takie komplikacje jak: przedwczesny poród, nieoczekiwane cesarskie cięcie, poród próżniowy lub kleszczowy, nadmierne krwawienie [^Xu]. 
 
 
 ### Problemy zdrowotne dziecka
