@@ -84,7 +84,7 @@ Kobieta nie jest winna, że ma depresję. Ty również nie jesteś winny! Nie mo
 - „Nie przesadzaj i nie histeryzuj”
 - „Weź się w garść”
 - „Po prostu się uspokój” (zazwyczaj sprawi to, że jeszcze bardziej się przestraszy i zdenerwuje)
-- „Jesteś wystarczająco silna, by poradzić sobie bez psychologa/ lekarza/ leków”
+- „Jesteś wystarczająco silna, by poradzić sobie bez psychologa / lekarza / leków”
 - „Leki antydepresyjne szkodzą i nie powinnaś ich brać”
 - „Nie płacz tylko pomyśl o czymś przyjemnym”
 - „Nic się nie bój” (pomyśli, że nie wiesz jak źle z nią jest)
