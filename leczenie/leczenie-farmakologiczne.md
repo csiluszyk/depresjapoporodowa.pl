@@ -24,8 +24,9 @@ Pełną skuteczność leku można niestety zazwyczaj ocenić dopiero po ok. 2-6 
 ---
 
 1. **Antydepresanty** 
- - **SSRI** - jest to najnowsza generacja leków antydepresyjnych. Są one najczęściej stosowane, ponieważ u większości osób następuje po nich oczekiwana poprawa, a skutki uboczne są niewielkie i rzadkie. 
- - **Trójcykliczne leki przeciwdepresyjne** - najczęściej są przepisywane u osób, u których leki SSRI nie zadziałały. Część psychiatrów preferuje przepisywanie tych leków kobietom w ciąży i matkom karmiącym piersią, ponieważ leki te są na rynku dłużej i ich działanie oraz skutki uboczne są lepiej zbadane.
+ - **SSRIs** - jest to najnowsza generacja leków antydepresyjnych. Są one najczęściej stosowane, ponieważ u większości osób następuje po nich oczekiwana poprawa, a skutki uboczne są niewielkie i rzadkie. Nie są uzależniające.
+ - **SNRIs** - ich działanie jest zbliżone do działania SSRIs. 
+ - **Trójcykliczne leki przeciwdepresyjne** - najczęściej są przepisywane u osób, u których leki SSRI nie zadziałały. Część psychiatrów preferuje przepisywanie tych leków kobietom w ciąży i matkom karmiącym piersią, ponieważ leki te są na rynku dłużej i ich działanie oraz skutki uboczne są lepiej zbadane. Tak jak pozostałe rodzaje antydepresantów, nie są one uzależniające. 
 
 1. **Leki uspokajające** - jeśli już leki te są stosowane, to zazwyczaj tylko tymczasowo, zanim leki antydepresyjne zaczną działać. Przeciwdziałają one lękowi, napadom paniki, bezsenności. Rzadko kiedy obserwuje się po nich skutki uboczne. Przy dłuższym stosowaniu istnieje jednak ryzyko uzależnienia i do osiągnięcia tego samego działania możemy potrzebować większej dawki.
 
@@ -61,6 +62,14 @@ Trzeba więc uważnie rozważyć ryzyko (choć mało prawdopodobne) wpływu lek�
 
 Jeśli chcecie dowiedzieć się czegoś więcej o stosowaniu leków w ciąży i podczas karmienia, zajrzyjcie na stronę niemieckiego stowarzyszenia badającego matki i dzieci: <https://www.embryotox.de>{:target="_blank"}.
 
+---
 
+## Więcej informacji znajdziesz:
 
-
+- <https://postpartale-depression.ch/de/hilfe/fachhilfe/medikamente.html>
+- <https://www.embryotox.de/erkrankungen/details/depressive-krankheitsbilder/>
+- <https://adaa.org/find-help/treatment-help/medication-options>
+- Bennett, S. S. (2011). Counteracting a Chemical Cause: Medical Treatments. W: *Postpartum depression for dummies*.
+- Frieder, A., Fersh, M., Hainline, R. i Deligiannidis, K. M. (2019). Pharmacotherapy of postpartum depression: current approaches and novel drug development. CNS drugs, 33(3), 265-282. 
+- Sharma, V., Doobay, M. i Baczynski, C. (2017). Bipolar postpartum depression: An update and recommendations. Journal of affective disorders, 219, 105-111.
+- 
