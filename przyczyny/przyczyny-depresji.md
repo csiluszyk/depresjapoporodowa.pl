@@ -48,7 +48,7 @@ Wiemy, że insulina, która reguluje poziom cukru we krwi, wpływa również na 
 
 
 ### Niedobory witamin i minerałów
-Niedobór witamin i minerałów również może pogłębiać objawy depresji. Szczególnie narażone są kobiety z anemią, które straciły dużo krwi podczas porodu lub na skutek cesarskiego cięcia [^Wassef]. Również niedobór witaminy D może wpływać na większą zachorowalność na depresję poporodową [^Amini] [^AminiS]. Dlatego zazwyczaj psychiatra przed rozpoznaniem depresji zleca wykonanie badania krwi, celem wykluczenia anemii oraz niedoboru witaminy D.
+Niedobór witamin i minerałów również może pogłębiać objawy depresji. Szczególnie narażone są kobiety z anemią, które straciły dużo krwi podczas porodu lub na skutek cesarskiego cięcia [^Wassef]. Również niedobór witaminy D może wpływać na większą zachorowalność na depresję poporodową [^Amini] [^AminiS]. Dlatego zazwyczaj psychiatra przed rozpoznaniem depresji, zleca wykonanie badania krwi, celem wykluczenia anemii oraz niedoboru witaminy D.
 
 
 
