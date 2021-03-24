@@ -31,7 +31,7 @@ Jeśli nie zostanie natychmiastowo podjęte leczenie, może nastąpić pogorszen
 
 
 ## Przyczyny
-Nie wiadomo, co powoduje psychozę poporodową, ale ryzyko jest większe jeśli:
+Nie wiadomo, co powoduje psychozę poporodową, ale ryzyko jest większe, jeśli:
 
 - Matka cierpiała na psychozę poporodową po poprzedniej ciąży
 - Matka cierpiała wcześniej na chorobę afektywną dwubiegunową lub schizofrenię
