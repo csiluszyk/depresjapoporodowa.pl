@@ -2,10 +2,10 @@
 title: DepresjaPoporodowa.pl
 tagline: Może dotknąć każdej mamy!
 description: > # this means to ignore newlines until "baseurl:"
-  Szacuje się, że depresja poporodowa dotyka nawet 15% kobiet, a także część
-  mężczyzn. Skala problemu jest więc ogromna. Niestety tabu społeczne nadal
-  skłania wiele osób do milczenia i niepodejmowania leczenia. Pora, abyśmy to
-  zmienili i zaczęli o tym rozmawiać!
+  Depresja poporodowa dotyka 15% kobiet, a także część mężczyzn. Skala problemu
+  jest więc ogromna. Niestety tabu społeczne nadal skłania wiele osób do
+  milczenia i niepodejmowania leczenia. Pora, abyśmy to zmienili i zaczęli o tym
+  rozmawiać!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://depresjapoporodowa.pl" # the base hostname & protocol for your site
 permalink: /:path/:basename
