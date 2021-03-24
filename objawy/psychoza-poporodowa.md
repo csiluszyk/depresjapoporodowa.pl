@@ -49,7 +49,7 @@ Gdy kobieta otrzyma odpowiednią i szybką pomoc, tzn. otrzyma leczenie farmakol
 - Bądź cierpliwy i wyrozumiały
 - Mów tak często jak to konieczne, że kobieta nie jest winna tego, że jest chora
 - Zapewniaj kobietę, że ją kochasz i że zawsze może ona na Ciebie liczyć
-- Słuchaj i miej czas dla niej czas
+- Słuchaj i miej dla niej czas
 - Zachowuj spokój podczas jej wybuchów złości czy płaczu
 - Ogranicz wizyty gości
 - Przejmij obowiązek kontaktowania się z waszymi bliskimi i przyjaciółmi
