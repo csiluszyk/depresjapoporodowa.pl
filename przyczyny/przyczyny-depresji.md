@@ -40,6 +40,10 @@ Warto mieć na uwadze, że:
 
 
 ### Deprywacja snu
+Każdy z nas po nieprzespanej nocy jest w gorszym nastroju, gorzej zapamiętuje nowe rzeczy i ma trudności z koncentracją [^Orzel]. Możemy więc łatwo wyobrazić sobie co dzieje się w naszych mózgach, gdy nasz sen jest zaburzony przez wiele tygodni a nawet miesięcy. Wiadomo jest również, że zmęczenie rodziców związane z częstym wybudzaniem się dziecka i niewystarczająca ilość snu, mogą prowadzić nie tylko do psychicznego wyczerpania, ale również do fizycznych zmian w organizmie: upośledzenia metabolizmu glukozy i układu odpornościowego [^Ghaedrahmati].
+
+
+### Wahania poziomu cukru we krwi
 Wiemy, że insulina, która reguluje poziom cukru we krwi, wpływa również na poziom serotoniny (hormonu szczęścia) w mózgu. Podczas ciąży poziom insuliny stopniowo wzrasta, jednak po porodzie następuje gwałtowny spadek jej poziomu do wartości oryginalnych [^Ruohomaki]. Dodatkowo w połogu poziom cukru we krwi spada po około 3 godzinach po posiłku (poza tym okresem po ok. 4-5 godzinach). Jeśli kobieta nie zje czegoś, co zawiera węglowodany, uwalniana jest adrenalina, która może zaostrzyć objawy PPD[^link_postpartale]. Szczególnie narażone są na to kobiety cierpiące na cukrzycę, w przypadku których ryzyko depresji poporodowej jest wyższe [^Silverman].
 
 
