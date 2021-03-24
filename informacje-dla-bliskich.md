@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Informacje dla bliskich
-image: informacje-dla-bliskich.jpg
+image: /images/informacje-dla-bliskich.jpg
 ---
 
 

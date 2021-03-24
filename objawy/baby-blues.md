@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Depresja a "baby blues"
-image: baby-blues.jpg
+image: /images/baby-blues.jpg
 ---
 
 Baby blues to tymczasowe wahania nastroju, których największe nasilenie obserwuje się zazwyczaj po 3 do 5 dni po porodzie. Stan ten trwa kilka dni, nie dłużej jednak niż 2 tygodnie. Zjawisko to dotyka nawet 80% matek. Ze względu na tak częste występowanie nie uznaje się tego stanu za zaburzenie psychiczne. Przyjmuje się, że jest to naturalne, fizjologiczne zjawisko, wynikającym prawdopodobnie z nagłych zmian hormonalnych, jakie zachodzą w ciele kobiety, jak również zmęczenia, deprywacji snu i stresu związanego z nową sytuacją.

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Książki
-image: ksiazki.jpg
+image: /images/ksiazki.jpg
 ---
 

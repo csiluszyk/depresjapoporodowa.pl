@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Psychoterapia
-image: psychoterapia.jpg
+image: /images/psychoterapia.jpg
 ---
 
 ## Dla kogo jest psychoterapia?

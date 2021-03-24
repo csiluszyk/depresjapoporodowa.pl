@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fakty i mity
-image: fakty-i-mity.jpg
+image: /images/fakty-i-mity.jpg
 ---
 
 {% include components/myth.html heading="Depresja minie sama — wystarczy ją przeczekać" %}

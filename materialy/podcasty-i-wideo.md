@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Podcasty i wideo
-image: podcasty.jpg
+image: /images/podcasty.jpg
 ---
 
 - Wywiad z mamą Jolą, która doświadczyła depresji poporodowej. Szczere, odważne i bardzo dojrzałe zwierzenia o walce z negatywnym obrazem siebie jako mamy oraz roli psychoterapii w procesie zdrowienia:

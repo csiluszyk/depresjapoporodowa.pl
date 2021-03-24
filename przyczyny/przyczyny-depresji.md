@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Przyczyny depresji
-image: przyczyny.jpg
+image: /images/przyczyny.jpg
 ---
 
 
