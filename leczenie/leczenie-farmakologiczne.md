@@ -65,7 +65,7 @@ Trzeba więc uważnie rozważyć ryzyko (choć mało prawdopodobne) wpływu lek�
 ## Więcej informacji znajdziesz:
 
 - <https://postpartale-depression.ch/de/hilfe/fachhilfe/medikamente.html>
-- https://womensmentalhealth.org/specialty-clinics/breastfeeding-and-psychiatric-medication/
+- <https://womensmentalhealth.org/specialty-clinics/breastfeeding-and-psychiatric-medication/>
 - <https://www.embryotox.de/erkrankungen/details/depressive-krankheitsbilder/>
 - <https://adaa.org/find-help/treatment-help/medication-options>
 - Bennett, S. S. (2011). Counteracting a Chemical Cause: Medical Treatments. W: *Postpartum depression for dummies*.
