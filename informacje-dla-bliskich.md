@@ -7,6 +7,16 @@ image: /images/informacje-dla-bliskich.jpg
 
 W tym artykule znajdziesz informacje dotyczące tego, jak możesz towarzyszyć osobie z depresją. Dla uproszczenia będziemy używać form skierowanych do męża (partnera), dlatego że najczęściej to oni stanowią główne źródło wsparcia. Ten artykuł może być jednak przydatny dla każdego, komu osoba z depresją jest bliska — dla rodziców, rodzeństwa, przyjaciół. Pamiętajmy, że mężczyźni także chorują na depresję poporodową, a poniższe wskazówki będą również cenne dla kobiet, które im towarzyszą. 
 
+- [Co czuje osoba z PPD?](#co-czuje-osoba-z-ppd)
+- [Co Ty możesz czuć?](#co-ty-możesz-czuć)
+- [Jak możesz jej pomóc?](#jak-możesz-jej-pomóc)
+- [Co mówić?](#co-mówić)
+- [Czego nie mówić?](#czego-nie-mówić)
+- [Sygnały samobójstwa](#sygnały-samobójstwa)
+- [Co robić w przypadku ataku paniki?](#co-robić-w-przypadku-ataku-paniki)
+- [Co z intymnością?](#co-z-intymnością)
+- [Komu powiedzieć o chorobie?](#komu-powiedzieć-o-chorobie)
+- [Jak zadbać o siebie?](#jak-zadbać-o-siebie)
 
 ## Co czuje osoba z PPD?
 
@@ -49,7 +59,7 @@ Kobieta nie jest winna, że ma depresję. Ty również nie jesteś winny! Nie mo
 
 
 
-<header class="major"><h2>Co mówić?</h2></header>
+<header class="major"><h2><a id="co-mówić"></a>Co mówić?</h2></header>
 
 - „Kocham Cię”
 - „Nasze dziecko Cię kocha”
@@ -71,7 +81,7 @@ Kobieta nie jest winna, że ma depresję. Ty również nie jesteś winny! Nie mo
 **Powtarzaj kobiecie te zdania milion razy! Ona tego potrzebuje.**
 
 
-<header class="major-red"><h2>Czego nie mówić?</h2></header>
+<header class="major-red"><h2><a id="czego-nie-mówić"></a>Czego nie mówić?</h2></header>
 
 - „To powinien być dla Ciebie najwspanialszy okres w życiu”
 - „Nie zachowuj się jak egoistka — powinnaś się cieszyć, że mamy dziecko”
