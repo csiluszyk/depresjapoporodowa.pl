@@ -28,7 +28,7 @@ Do tego cierpienia dołącza wstyd i poczucie winy. Kobieta może uważać, że 
 
 Depresja dotyka całą rodzinę. Jej skutki odczuwa każdy członek, a zwłaszcza partner. Mogą pojawiać się w Tobie różne emocje. Każda z nich jest naturalna — w końcu znalazłeś się w bardzo trudnej sytuacji. 
 
-- **Strach** - martwisz się o swoją żonę, o dziecko oraz o ich relację. Może boisz się, że Twoja żona nigdy nie wyzdrowieje lub że „zwariowała”. Pamiętaj, że to nieprawda. Jej choroba jest chwilowa, a Twoja żona „nie zwariowała”. Jeśli otrzyma potrzebne leczenie, to znowu stanie się sobą.
+- **Strach** - martwisz się o swoją żonę, o dziecko oraz o ich relację. Może boisz się, że Twoja żona nigdy nie wyzdrowieje lub że „zwariowała”. Pamiętaj, że to nieprawda. Jej choroba jest tymczasowa, a Twoja żona „nie zwariowała”. Jeśli otrzyma potrzebne leczenie, to znowu stanie się sobą.
 - **Bezradność** - nie wiesz jak jej pomóc. Twoje starania by poczuła się lepiej, nie przynoszą polepszenia. Może zastanawiasz się, co mógłbyś jeszcze zrobić, by wyciągnąć ją z choroby. Pamiętaj jednak, że jakkolwiek byś się nie starał, nie jesteś w stanie sprawić by wyzdrowiała.
 - **Frustracja** - oczywiście, że odczuwasz frustrację. W końcu to nie jest to, czego się spodziewałeś, o czym marzyłeś, gdy myślałeś, że zostaniesz ojcem. Znajdź sposób na rozładowanie napięcia. Nie sięgaj jednak po używki — może i chwilowo rozładują napięcie, ale pogłębią problem.
 - **Złość** - długotrwały stres często wywołuje w nas złość. Pamiętaj, że jesteś zły na sytuację, nie na swoją żonę. 
