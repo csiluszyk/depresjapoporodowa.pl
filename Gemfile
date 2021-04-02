@@ -6,5 +6,6 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-seo-tag"
   gem "nokogiri", ">= 1.11.0"
+  gem "kramdown", ">= 2.3.1"
 end
 
