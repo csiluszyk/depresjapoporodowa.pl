@@ -17,7 +17,9 @@ Psychoza poporodowa to poważna choroba, którą należy traktować jako stan na
 - **Zmiana charakteru** - matka znacząco zmienia swoją osobowość, zachowuje się inaczej niż zwykle, czuje się wyobcowana (depersonalizacja) lub postrzega środowisko jako bardzo zmienione (derealizacja)
 - **Utrata zahamowań** - osoba nie przestrzega reguł społecznych, np. obraża innych, zachowuje się prowokacyjnie 
 - **Obniżony nastrój lub nastrój maniakalny** - w przypadku obniżonego nastroju matka ma objawy depresyjne, tzn. często płacze, wycofuje się, nie ma energii, natomiast w przypadku nastroju maniakalnego matka dużo i szybko mówi, jest pobudzona, robi dużo rzeczy na raz, jest przesadnie szczęśliwa i żywiołowa
-- **Dezorientacja** - osoba może nie wiedzieć, gdzie się znajduje i co robi w danym miejscu
+- **Dezorientacja** - osoba może nie wiedzieć, gdzie się znajduje i co robi w danym miejscu; może też nie wiedzieć, kim jest
+- **Pobudzenie** - mamę "rozpiera energia", nie może usiedzieć w miejscu, jest niespokojna
+- **Bezsenność** 
 
 
 
