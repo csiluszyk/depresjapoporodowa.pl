@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Depresja a "baby blues"
+title: Depresja a „baby blues”
 image: /images/baby-blues.jpg
 ---
 
