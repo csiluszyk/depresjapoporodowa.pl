@@ -24,6 +24,7 @@ Nie wszystkie poniżej wymienione symptomy muszą opisywać Twoją sytuację. Wa
 - **Smutek** - myślimy pesymistycznie, wydaje nam się, że nigdy nie będziemy już szczęśliwe, często płaczemy
 - **Rozdrażnienie** - łatwo wybuchamy złością w sytuacji, gdy coś idzie nie po naszej myśli; możemy być agresywne, niecierpliwe
 - **Wycofanie społeczne** - odczuwamy niechęć do spotykania się z innymi
+- **Trudność w sprostaniu codziennym obowiązkom** - to co dotychczas nie sprawiało nam problemu (np. zrobienie zakupów, wyjście do lekarza), nagle zaczyna nas przerastać. Objawia się to również w trudnościach z podejmowaniem decyzji (np. jak ubrać dziecko, co ugotować na obiad)
 - **Zmniejszona ochota na seks** - dotyk osoby najbliższej nie sprawia nam radości, mamy wyraźnie mniejszą ochotę na zbliżenie lub podczas seksu nie odczuwamy dotychczasowej przyjemności 
 - **Lęk** - boimy się, że „zwariowałyśmy” i że nie będziemy w stanie zaopiekować się dzieckiem. Często pojawia się również lęk o malucha, o to że może być chory lub może umrzeć. Nierzadko możemy odczuwać lęk, niebędąc nawet w stanie określić czego tak naprawdę się boimy. Warto pamiętać, że większość stanów depresyjnych występuje z lękiem.
 - **Napady paniki** - są to napady wzmożonego lęku, któremu towarzyszą objawy fizyczne, takie jak duszności, ból w klatce piersiowej, zawroty głowy, kołatanie serca, biegunki, drżenie ciała, pocenie się lub omdlenia.
