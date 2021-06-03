@@ -8,6 +8,7 @@ Poniższe czynniki mogą wskazywać, że jesteś bardziej narażona na depresję
 - Wcześniejsze trudności psychiczne, szczególnie dotyczy to przebytej wcześniej depresji (zwłaszcza depresji poporodowej) oraz zaburzeń afektywnych-dwubiegunowych 
 - Trudności psychiczne w czasie ciąży
 - Historia chorób psychicznych w rodzinie (zwłaszcza, jeśli ktoś w rodzinie cierpiał na depresję poporodową)
+- Traumatyczny poród
 - Małe wsparcie ze strony partnera lub bycie samotną matką
 - Brak wsparcia ze strony rodziny lub przyjaciół
 - Niedawne stresujące wydarzenia tj. utrata kogoś bliskiego, zmiana miejsca zamieszkania
