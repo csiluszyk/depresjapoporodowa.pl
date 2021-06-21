@@ -24,6 +24,8 @@
       link: /leczenie/psychoterapia
     - name: Samopomoc
       link: /leczenie/samopomoc
+- name: Gdzie po pomoc?
+  link: /gdzie-po-pomoc
 - name: Informacje dla bliskich
   link: /informacje-dla-bliskich
 - name: Fakty i mity
