@@ -21,13 +21,15 @@ Jest prowadzony przez fundację ITAKA - Centrum Poszukiwań Ludzi Zaginionych. N
 
 ---
 
-## Znajdź placówkę
-Na stronie <https://liniawsparcia.pl/placowki/>{:target="_blank"} znajdziesz wyszukiwarkę placówek pomocowych w Twojej okolicy. Wystarczy wpisać nazwę miejscowości lub województwo, a wyszukiwarka podpowie Ci, gdzie możesz umówić się na bezpłatną konsultację psychiatryczną lub wizytę u psychologa. 
+## Terminy leczenia NFZ
+Jeśli szukasz bezpłatnej konsultacji u psychiatry (w ramach NFZ) możesz wejść na rządową stronę <https://terminyleczenia.nfz.gov.pl/>{:target="_blank"}. W pole <<Jakiego świadczenia szukasz?>> wpisz "PORADNIA ZDROWIA PSYCHICZNEGO". Wpisz również nazwę miejscowości lub województwo, w jakich szukasz porady (pamiętaj, że do Poradni Zdrowia Psychicznego nie obowiązuje rejonizacja tzn. możesz pójść na konsultację również w innej miejscowości niż mieszkasz!). Strona podpowie Ci, jaki jest przewidywany czas oczekiwania na wizytę w danej placówce. Następne co musisz zrobić, to zadzwonić i umówić się na konkretny termin. 
 
 ---
 
-## Terminy leczenia NFZ
-Jeśli szukasz bezpłatnej konsultacji u psychiatry (w ramach NFZ) możesz wejść na rządową stronę <https://terminyleczenia.nfz.gov.pl/>{:target="_blank"}. W pole <<Jakiego świadczenia szukasz?>> wpisz "PORADNIA ZDROWIA PSYCHICZNEGO". Wpisz również nazwę miejscowości lub województwo, w jakich szukasz porady (pamiętaj, że do Poradni Zdrowia Psychicznego nie obowiązuje rejonizacja tzn. możesz pójść na konsultację również w innej miejscowości niż mieszkasz!). Strona podpowie Ci, jaki jest przewidywany czas oczekiwania na wizytę w danej placówce. Następne co musisz zrobić, to zadzwonić i umówić się na konkretny termin. 
+## Znajdź placówkę
+Na stronie <https://liniawsparcia.pl/placowki/>{:target="_blank"} znajdziesz wyszukiwarkę placówek pomocowych w Twojej okolicy (nie tylko Poradnie Zdrowia Psychicznego, ale również Ośrodki Interwencji Kryzysowej i inne). Wystarczy wpisać nazwę miejscowości lub województwo, a wyszukiwarka podpowie Ci, gdzie możesz umówić się na bezpłatną konsultację psychiatryczną lub wizytę u psychologa. 
+
+---
 
 ## Rządowy Program Profilaktyki Depresji Poporodowej
 Ministerstwo Zdrowia uruchomiło program profilaktyczny, którego zadaniem jest m.in. ułatwienie osobom z diagnozą/podejrzeniem depresji poporodowej dostępu do bezpłatnych konsultacji u specjalistów. Program przewidziany jest na lata 2018-2023 i działa w części województw. Listę ośrodków odpowiedzialnych za realizację programu w danym województwie można znaleźć na stronie: <https://pacjent.gov.pl/program-profilaktyczny/program-profilaktyki-depresji-poporodowej>{:target="_blank"}
