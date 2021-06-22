@@ -8,7 +8,7 @@ Poniżej znajdują się przydatne linki:
 
 ---
 ## DepresjaPoporodowa.pl
-Jeśli masz pytania na temat depresji poporodowej, potrzebujesz wsparcia, rozmowy, podzielenia się swoją historią, napisz na naszego maila info@depresjapoporodowa.pl lub w wiadomości na naszym fanpagu www.facebook.com/DepresjaPoporodowa
+Jeśli masz pytania na temat depresji poporodowej, potrzebujesz wsparcia, rozmowy, podzielenia się swoją historią, napisz na naszego maila info@depresjapoporodowa.pl lub w wiadomości na naszym fanpagu <https://www.facebook.com/DepresjaPoporodowa>{:target="_blank"}.
 Postaramy się odpowiedzieć najszybciej, jak to możliwe. Sami doświadczyliśmy kryzysu depresji i wiemy, jak bardzo obecność innych osób może pomóc w walce z chorobą.
 
 ---
