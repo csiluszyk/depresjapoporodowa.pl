@@ -34,3 +34,7 @@ Na stronie <https://liniawsparcia.pl/placowki/>{:target="_blank"} znajdziesz wys
 ## Rządowy Program Profilaktyki Depresji Poporodowej
 Ministerstwo Zdrowia uruchomiło program profilaktyczny, którego zadaniem jest m.in. ułatwienie osobom z diagnozą/podejrzeniem depresji poporodowej dostępu do bezpłatnych konsultacji u specjalistów. Program przewidziany jest na lata 2018-2023 i działa w części województw. Listę ośrodków odpowiedzialnych za realizację programu w danym województwie można znaleźć na stronie: <https://pacjent.gov.pl/program-profilaktyczny/program-profilaktyki-depresji-poporodowej>{:target="_blank"}
 
+---
+
+## Fundacja Matecznik 
+Na czas pandemii Fundacja Matecznik uruchomiła wsparcie psychologiczne w postaci 1-2 *darmowych* spotkań z psychologami - wolontariuszami. Jeśli więc jesteś mamą, której ciąża / poród przypadły na czas obecnej pandemii, możesz liczyć na doraźne wsparcie w postaci spotkania z psychologiem (online lub stacjonarnie w Poznaniu). Dodatkowo mieszkanki Poznania, które urodziły / oczekują pojawienia się ciężko chorego dziecka, mogą liczyć na darmową pomoc psychologiczną i prawną. Więcej informacji znajdziesz na stronie: <https://fundacjamatecznik.pl/>{:target="_blank"}
