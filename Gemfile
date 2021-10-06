@@ -5,7 +5,7 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-seo-tag"
-  gem "nokogiri", ">= 1.11.0"
+  gem "nokogiri", ">= 1.12.5"
   gem "kramdown", ">= 2.3.1"
 end
 
