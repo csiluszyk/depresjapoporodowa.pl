@@ -3,7 +3,7 @@ layout: page
 title: Objawy depresji
 image: /images/objawy-depresji.jpg
 ---
-## Depresja ma wiele twarzy — to nie tylko smutek i brak energii.
+## Depresja poporodowa ma wiele twarzy — to nie tylko smutek i brak energii.
 Stan obniżonego nastroju po porodzie (smutku, pustki, rozdrażnienia, wyczerpania) nazywamy "baby blues". Doświadcza go większość kobiet i przyjmuje się, że głównym powodem jego występowania są nagłe zmiany hormonalne jakie zachodzą w ciele kobiety. Obniżony nastrój powinien jednak minąć po 2 tygodniach (czytaj więcej: [Baby blues](https://depresjapoporodowa.pl/objawy/baby-blues)). Co jednak, gdy  smutek poporodowy utrzymuje się dłużej? Co jeśli objawy pojawiają się dopiero kilka tygodni / miesięcy po porodzie? Co jeśli towarzyszą nam one już w czasie ciąży, a po porodzie nie ustępują lub wręcz się nasilają? 
 
 Miejmy w pamięci, że depresja poporodowa dotyka ok. 15% kobiet. Oznacza to, że z tą chorobą mierzy się rocznie ok. 40 - 50 tysięcy kobiet w Polsce. Warto więc, aby każdy z nas wiedział, jakie są najczęstsze objawy depresji. 
