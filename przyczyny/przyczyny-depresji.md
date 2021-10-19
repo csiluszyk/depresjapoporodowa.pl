@@ -9,6 +9,7 @@ image: /images/przyczyny.jpg
 Przyczyny depresji poporodowej nie są do końca znane. Badania sugerują, że aby kobieta zapadła na depresję musi wystąpić jednocześnie kilka czynników. W przypadku każdej z matek jest to indywidualna „kombinacja” okoliczności. Dlatego też, leczenie depresji poporodowej powinno odbywać się na wielu poziomach (pomoc specjalisty, krewnych, własne działania) [^link_postpartale]. 
 
 **Nie do końca wiemy, co wywołuje depresję poporodową. Wiemy za to, że gdy wystąpi, jej objawy związane są z nierównowagą biochemiczną w mózgu. To nie jest więc wymyślona choroba!**
+
 ---
 ### Ważne
 Warto zauważyć, że część czynników (np. deprywacja snu, przedefiniowanie relacji, lęk o zdrowie dziecka) dotyka nie tylko matek, ale również ojców. Dlatego u ojców również może wystąpić depresja poporodowa! Przypuszcza się, że dotyczy to nawet 9-10% mężczyzn [^Rao] [^Paulson].
