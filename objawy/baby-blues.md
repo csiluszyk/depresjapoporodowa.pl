@@ -7,7 +7,7 @@ image: /images/baby-blues.jpg
 Baby blues to tymczasowe wahania nastroju, których największe nasilenie obserwuje się zazwyczaj po 3 do 5 dni po porodzie. Stan ten trwa kilka dni, nie dłużej jednak niż 2 tygodnie. Zjawisko to dotyka nawet 80% matek. Ze względu na tak częste występowanie nie uznaje się tego stanu za zaburzenie psychiczne. Przyjmuje się, że jest to naturalne, fizjologiczne zjawisko, wynikające prawdopodobnie z nagłych zmian hormonalnych, jakie zachodzą w ciele kobiety, jak również zmęczenia, deprywacji snu i stresu związanego z nową sytuacją.
 
 
-## Najczęstszymi symptomami są:
+## Najczęstszymi symptomami baby blues są:
 
 - Drażliwość i poirytowanie
 - Łatwe wybuchanie złością lub płaczem
@@ -22,7 +22,7 @@ Jeśli objawy baby blues utrzymują się u Ciebie powyżej 2 tygodni, może ozna
 </div>
 
 
-## Jak radzić sobie z baby blues
+## Jak radzić sobie z baby blues?
 
 Baby blues nie wymaga leczenia, ponieważ jego objawy powinny ustąpić samoistnie w ciągu kilku dni, maksymalnie 2 tygodni. Daj więc sobie czas na zaadaptowanie się do nowej roli. Ważne jest również, abyś w swoim otoczeniu miała wspierającego partnera lub zaufaną osobę, którym będziesz mogła otwarcie opowiedzieć o doświadczanych emocjach i wątpliwościach. Bądź dla siebie wyrozumiała i cierpliwa. Proś najbliższych o pomoc w opiece nad dzieckiem oraz w utrzymaniu domu, abyś mogła w tym czasie możliwie jak najwięcej odpoczywać. Nie czuj się jednak winna, jeśli odczuwasz w pierwszy dniach silną potrzebę bycia sam na sam z maluchem. Możliwe, że właśnie tego potrzebujesz, aby zbudować z nim silną więź. 
 
