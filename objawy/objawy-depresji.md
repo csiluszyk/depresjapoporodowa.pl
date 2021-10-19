@@ -48,7 +48,7 @@ Dodatkowo otoczeniu trudno jest zauważyć co się dzieje z kobietą, gdy na zew
 Kobiety zresztą często nie mówią otwarcie o swoim cierpieniu. Dlaczego? Czasami z powodu lęku, wstydu, strachu przed oceną, tym, że ktoś nazwie je "złą matką". Również dlatego, że kobiety (oraz całe otoczenie) koncentrują się po porodzie na dziecku, nie na sobie (powszechne jest przecież przekonanie, że "teraz dziecko jest najważniejsze").
 
 ## Depresja poporodowa - jak ją zdiagnozować? 
-W odpowiedzi na pytanie, czy cierpisz na depresję poporodową może pomóc Ci wykonanie testu - [Edynburska Skala Depresji Poporodowej](https://depresjapoporodowa.pl/objawy/esdp). 
+W odpowiedzi na pytanie, czy cierpisz na depresję poporodową może pomóc Ci wykonanie krótkiego testu ([Test na depresję poporodową](https://depresjapoporodowa.pl/objawy/esdp)). Edynburska Skala Depresji Poporodowej to proste i darmowe narzędzie, składające się jedynie z 10 krótkich pytań. 
 
 Jeśli Twoje wyniki wskazują na możliwość depresji poporodowej nie bój się umówić na konsultację z lekarzem psychiatrą. To on wie, jak leczyć depresję (warto wiedzieć, że leki przeciwdepresyjne nie zawsze są konieczne!). Może on też zlecić dodatkowe badania laboratoryjne, które pozwolą wykluczyć ewentualne niedobory witamin / żelaza lub zmiany harmonalne, które mogą dawać podobne objawy, jak depresja poporodowa (czytaj więcej w [Przyczyny depresji poporodowej](https://depresjapoporodowa.pl/przyczyny/przyczyny-depresji)). 
 
