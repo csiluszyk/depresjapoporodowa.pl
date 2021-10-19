@@ -4,10 +4,13 @@ title: Objawy depresji
 image: /images/objawy-depresji.jpg
 ---
 ## Depresja ma wiele twarzy — to nie tylko smutek i brak energii.
-Symptomy depresji poporodowej zazwyczaj rozwijają się powoli i mogą być trudne do zauważenia przez otoczenie, a nierzadko również samą mamę. Dzieje się tak dlatego, że choroba zaburza postrzeganie siebie i jasną ocenę sytuacji. Dodatkowo kobiety zazwyczaj wypierają lub zatajają swoje objawy z powodu odczuwanego wstydu. 
+Stan obniżonego nastroju po porodzie (smutku, pustki, rozdrażnienia, wyczerpania) nazywamy "baby blues". Doświadcza go większość kobiet i przyjmuje się, że głównym powodem jego występowania są nagłe zmiany hormonalne jakie zachodzą w ciele kobiety. Stan ten jednak powinien minąć po 2 tygodniach (czytaj więcej: [Baby blues](https://depresjapoporodowa.pl/objawy/baby-blues)). Co jednak, gdy  smutek poporodowy utrzymuje się dłużej? Co jeśli objawy pojawiają się dopiero kilka tygodni / miesięcy po porodzie? Co jeśli towarzyszą nam one już w czasie ciąży, a po porodzie nie ustępują lub wręcz się nasilają? 
 
+Miejmy w pamięci, że depresja poporodowa dotyka ok. 15% kobiet. Oznacza to, że z tą chorobą mierzy się rocznie ok. 40 - 50 tysięcy kobiet w Polsce. Warto więc, aby każdy z nas wiedział, jakie są najczęstsze objawy depresji. 
+
+## Objawy depresji poporodowej: 
 <div class="box">
-Nie wszystkie poniżej wymienione symptomy muszą opisywać Twoją sytuację. Warto wiedzieć, że gdy u części kobiet dominują objawy związane z obniżonym nastrojem, u drugich dominują objawy związane z lękiem. 
+Depresja poporodowa może objawiać się na wiele sposobów. Nie wszystkie poniżej wymienione symptomy muszą opisywać Twoją sytuację. Warto wiedzieć, że gdy u części kobiet dominują objawy związane z obniżonym nastrojem, u drugich dominują objawy związane z lękiem. 
 </div>
 
 - **Chwiejność emocjonalna** - łatwo zmienia nam się nastrój, np. śmiejemy się, by za chwilę się rozpłakać
@@ -35,3 +38,17 @@ Nie wszystkie poniżej wymienione symptomy muszą opisywać Twoją sytuację. Wa
   <h3>Pamiętaj!</h3>
 Objawy depresji mogą pojawić się nie tylko bezpośrednio po porodzie, ale nawet kilka tygodni czy miesięcy (do 1 roku) po urodzeniu dziecka. 
 </div>
+
+
+## Jak rozpoznać depresję? 
+Nie zawsze jest to proste. Czasami symptomy depresji rzeczywiście są na tyle nasilone, że łatwo je dostrzega zarówno cierpiąca mama, jak i jej otoczenie. Częściej jednak jej objawy rozwijają się powoli, stopniowo, a ich nasilenie nie musi być duże. To sprawia, że wiele kobiet bagatelizuje pierwsze pojawiające się objawy. 
+
+Dodatkowo otoczeniu trudno jest zauważyć co się dzieje z kobietą, gdy na zewnątrz zdaje się ona dobrze funkcjonować - zajmuje się dzieckiem, domem, obowiązkami. Mitem jest, że każda mama cierpiąca na depresję poporodową izoluje się od dziecka, nie chce się nim zajmować (czytaj więcej w [Fakty i mity](https://depresjapoporodowa.pl/fakty-i-mity)). Jeśli nie zainteresujemy się, co dzieje się w środku kobiety - w jej myślach, uczuciach, poczuciu własnej wartości - możemy nie dostrzec jej problemu.
+
+Kobiety zresztą często nie mówią otwarcie o swoim cierpieniu. Dlaczego? Czasami z powodu lęku, wstydu, strachu przed oceną, tym, że ktoś nazwie je "złą matką". Również dlatego, że kobiety (oraz całe otoczenie) koncentrują się po porodzie na dziecku, nie na sobie (powszechne jest przecież przekonanie, że "teraz dziecko jest najważniejsze").
+
+## Depresja poporodowa - jak ją zdiagnozować? 
+W odpowiedzi na pytanie, czy cierpisz na depresję poporodową może pomóc Ci wykonanie testu - [Edynburska Skala Depresji Poporodowej](https://depresjapoporodowa.pl/objawy/esdp). 
+
+Jeśli Twoje wyniki wskazują na możliwość depresji poporodowej nie bój się umówić na konsultację z lekarzem psychiatrą. To on wie, jak leczyć depresję (warto wiedzieć, że leki przeciwdepresyjne nie zawsze są konieczne!). Może on też zlecić dodatkowe badania laboratoryjne, które pozwolą wykluczyć ewentualne niedobory witamin / żelaza lub zmiany harmonalne, które mogą dawać podobne objawy, jak depresja (czytaj więcej w [Przyczyny depresji poporodowej](https://depresjapoporodowa.pl/przyczyny/przyczyny-depresji)). 
+
