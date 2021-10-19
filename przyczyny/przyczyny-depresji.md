@@ -6,17 +6,16 @@ image: /images/przyczyny.jpg
 
 
 
-Przyczyny depresji poporodowej nie są do końca znane. Badania sugerują, że aby kobieta zapadła na depresję musi wystąpić jednocześnie kilka czynników. W przypadku każdej z matek jest to indywidualna „kombinacja” okoliczności. Dlatego też, choroba musi być leczona na różnych poziomach, dostosowanych do konkretnej osoby (pomoc specjalisty, krewnych, własne działania) [^link_postpartale]. 
+Przyczyny depresji poporodowej nie są do końca znane. Badania sugerują, że aby kobieta zapadła na depresję musi wystąpić jednocześnie kilka czynników. W przypadku każdej z matek jest to indywidualna „kombinacja” okoliczności. Dlatego też, leczenie depresji poporodowej powinno odbywać się na wielu poziomach (pomoc specjalisty, krewnych, własne działania) [^link_postpartale]. 
 
-**Nie do końca wiemy, co wywołuje depresję. Wiemy za to, że gdy wystąpi, jest związana z nierównowagą biochemiczną w mózgu. To nie jest więc wymyślona choroba!** 
-
+**Nie do końca wiemy, co wywołuje depresję poporodową. Wiemy za to, że gdy wystąpi, jej objawy związane są z nierównowagą biochemiczną w mózgu. To nie jest więc wymyślona choroba!**
 ---
 ### Ważne
 Warto zauważyć, że część czynników (np. deprywacja snu, przedefiniowanie relacji, lęk o zdrowie dziecka) dotyka nie tylko matek, ale również ojców. Dlatego u ojców również może wystąpić depresja poporodowa! Przypuszcza się, że dotyczy to nawet 9-10% mężczyzn [^Rao] [^Paulson].
 
 ---
 
-W genezie depresji obserwuje się następujące czynniki:
+W genezie depresji poporodowej obserwuje się następujące czynniki:
 - [Biologiczne](#biologiczne)
 - [Okołoporodowe](#okoloporodowe)
 - [Psychologiczne](#psychologiczne)
@@ -28,19 +27,18 @@ W genezie depresji obserwuje się następujące czynniki:
 ### Predyspozycje genetyczne
 W genezie wielu chorób duże znaczenie odgrywają geny. Nie inaczej jest w przypadku depresji poporodowej (PPD), co potwierdzają badania na bliźniętach i innych członkach rodziny [^Couto]. Dziedziczność depresji poporodowej wynosi ok. 50%. Jest to wartość wyższa niż w przypadku dziedziczności zwykłej depresji (31- 42%) [^Viktorin]. Warto jednak pamiętać, że gdy mówimy o predyspozycjach genetycznych, nie mamy na myśli tego, że ktoś mógłby mieć „gen depresji”. Ogromną rolę odgrywa bowiem interakcja ze środowiskiem, którego czynniki wpływają na aktywację i dezaktywację genów. Wiadomo na przykład, że na ekspresję (uaktywnienie) genów wpływa stres, leki oraz hormony płciowe [^Guintivano].
 
-
 ### Hormony
-Badacze nie są ze sobą zgodni, jaką rolę odgrywają wahania hormonów w genezie depresji. Z jednej strony nie znaleziono dotąd by kobiety z depresją miały inne stężenia hormonów niż zdrowe matki. Z drugiej zaś warto pamiętać, że po porodzie przez ciało kobiety przechodzi istne „hormonalne tornado”. Nie ma też drugiego takiego okresu w życiu kobiety, kiedy ryzyko wystąpienia u niej zaburzeń psychicznych (nie tylko PPD) byłoby tak wysokie. Część badaczy przypuszcza, że pewna grupa mam jest bardziej podatna na duże wahania hormonalne i że to one są najbardziej narażone na rozwój depresji poporodowej.
+Badacze nie są ze sobą zgodni, jaką rolę odgrywają wahania hormonów w genezie depresji poporodowej. Z jednej strony nie znaleziono dotąd by kobiety z depresją miały inne stężenia hormonów niż zdrowe matki. Z drugiej zaś warto pamiętać, że po urodzeniu dziecka przez ciało kobiety przechodzi istne „hormonalne tornado”. Nie ma też drugiego takiego okresu w życiu kobiety, kiedy problemy zdrowia psychicznego byłyby tak częste (częściej występują nie tylko zaburzenia nastroju, jak depresja czy zaburzenia afektywne dwubiegunowe, ale i  psychoza poporodowa, nerwice itp.). Część badaczy przypuszcza, że pewna grupa mam jest bardziej podatna na duże wahania hormonalne i że to one są najbardziej narażone na rozwój depresji poporodowej.
 
 Warto mieć na uwadze, że:
 - Poziom estrogenu w czasie ciąży jest 200 razy wyższy niż normalnie, progesteronu zaś od 50 do 100 razy wyższy. Po porodzie poziom stężenia tych hormonów spada w ciągu kilku dni do wartości oryginalnych. Wiadomo też, że estrogen i progesteron wpływają na neurotransmitery (m.in. serotoninę, dopaminę, noradrenalinę), które odpowiedzialne są za regulację nastroju [^link_postpartale]
 - W czasie ciąży poziom prolaktyny rośnie 20-50 razy i na takim poziomie utrzymuje się, jeśli kobieta karmi piersią. Jeśli kobieta nie przystawia dziecka do piersi, poziom ten normalizuje się w ciągu 3 tygodni [^Szpunar]
-- U części mam może wystąpić poporodowe zapalenie tarczycy. Dotyczy to nawet 8% kobiet [^Keely]. Zaburzenia tarczycy wpływają na nastrój, a objawy mogą być mylone z depresją. Typowymi symptomami są drażliwość, nerwowość, lęk i ataki paniki, kołatanie serca, spadek energii, zaburzenia koncentracji, problemy ze snem. Dlatego w przypadku podejrzenia depresji powinno się wykonać badanie poziomu TSH, T4 i anty-TPO, aby wykluczyć ewentualne zapalenie tarczycy
+- U części mam może wystąpić poporodowe zapalenie tarczycy, którego objawy mogą być mylone z depresją poporodową. Zaburzenia tarczycy wpływają bowiem na nastrój, mogą powodować  drażliwość, nerwowość, lęk i ataki paniki, kołatanie serca, spadek energii, zaburzenia koncentracji, problemy ze snem, a nawet myśli samobójcze (Porównaj z [Objawy depresji poporodowej](https://depresjapoporodowa.pl/objawy/objawy-depresji) oraz [Edynburska Skala Depresji Poporodowej](https://depresjapoporodowa.pl/objawy/esdp). Zapalenie tarczycy po urodzeniu dziecka dotyka nawet 8% kobiet [^Keely]. Dlatego w przypadku podejrzenia depresji lekarz psychiatra najczęściej zleca badanie poziomu TSH, T4 i anty-TPO. 
 - W genezie depresji poporodowej ważną rolę mogą pełnić hormony stresu (kortyzol, ACTH, CRH), które stymulują oś podwzgórze-przysadka-nadnercza i wpływają na autonomiczny układ nerwowy. Trudne wydarzenia życiowe, zarówno po porodzie, jak i w czasie ciąży, mogą więc mieć bezpośredni wpływ na rozwój nierównowagi chemicznej w mózgu [^Payne].
 
 
 ### Deprywacja snu
-Każdy z nas po nieprzespanej nocy jest w gorszym nastroju, gorzej zapamiętuje nowe rzeczy i ma trudności z koncentracją [^Orzel]. Możemy więc łatwo wyobrazić sobie co dzieje się w naszych mózgach, gdy nasz sen jest zaburzony przez wiele tygodni a nawet miesięcy. Wiadomo jest również, że zmęczenie rodziców związane z częstym wybudzaniem się dziecka i niewystarczająca ilość snu, mogą prowadzić nie tylko do psychicznego wyczerpania, ale również do fizycznych zmian w organizmie: upośledzenia metabolizmu glukozy i układu odpornościowego [^Ghaedrahmati].
+Każdy z nas po nieprzespanej nocy jest w gorszym nastroju, gorzej zapamiętuje nowe rzeczy i ma trudności z koncentracją [^Orzel]. Możemy więc łatwo wyobrazić sobie co dzieje się w naszych mózgach, gdy nasz sen jest zaburzony przez wiele tygodni a nawet miesięcy. Wiadomo jest również, że zmęczenie rodziców związane z częstym wybudzaniem się dziecka i niewystarczająca ilość snu, mogą prowadzić nie tylko do psychicznego wyczerpania, ale również do fizycznych zmian w organizmie: upośledzenia metabolizmu glukozy i układu odpornościowego [^Ghaedrahmati]. Dlatego zaburzenia snu wymagają jak najszybszego zgłoszenia się do specjalisty. 
 
 
 ### Wahania poziomu cukru we krwi
