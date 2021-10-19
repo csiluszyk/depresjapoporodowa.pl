@@ -20,7 +20,7 @@ Depresja poporodowa może objawiać się na wiele sposobów. Nie wszystkie poni�
 - **Poczucie winy** - czujemy, że jesteśmy złymi matkami, że krzywdzimy swoje dziecko, że nasze koleżanki czy siostry radzą sobie lepiej w opiece nad dziećmi niż my
 - **Brak energii lub pobudzenie** - czujemy się ciągle zmęczone, obolałe, trudno nam podnieść się z kanapy lub czujemy ciągłą potrzebę zmiany miejsca, mówienia
 - **Zaburzenia koncentracji** - ciężko skupić się nam na najprostszych czynnościach, np. ciężko jest nam czytać książkę
-- **Myśli samobójcze** 
+- **Myśli samobójcze, czyny samobójcze** 
 - **Wycofanie społeczne** - odczuwamy niechęć do spotykania się z innymi
 - **Trudność w opiekowaniu się dzieckiem** - ciężko jest nam reagować na potrzeby dziecka, możemy również momentami czuć pustkę lub niechęć do malucha, co z kolei wprawia nas w poczucie winy i wstydu
 - **Trudność w sprostaniu codziennym obowiązkom** - to co dotychczas nie sprawiało nam problemu (np. zrobienie zakupów, wyjście do lekarza), nagle zaczyna nas przerastać. Objawia się to również w trudnościach z podejmowaniem decyzji (np. co ugotować na obiad, jak ubrać dziecko)
