@@ -36,7 +36,7 @@ Depresja poporodowa może objawiać się na wiele sposobów. Nie wszystkie poni�
 
 <div class="box">
   <h3>Pamiętaj!</h3>
-Objawy depresji mogą pojawić się nie tylko bezpośrednio po porodzie, ale nawet kilka tygodni czy miesięcy (do 1 roku) po urodzeniu dziecka. 
+Objawy depresji poporodowej mogą pojawić się nie tylko bezpośrednio po urodzeniu dziecka, ale nawet kilka tygodni czy miesięcy (do 1 roku) po porodzie.
 </div>
 
 
