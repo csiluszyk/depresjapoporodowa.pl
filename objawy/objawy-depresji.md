@@ -14,7 +14,7 @@ Depresja poporodowa może objawiać się na wiele sposobów. Nie wszystkie poni�
 </div>
 
 - **Chwiejność emocjonalna** - łatwo zmienia nam się nastrój, np. śmiejemy się, by za chwilę się rozpłakać
-- **Smutek** - myślimy pesymistycznie, wydaje nam się, że nigdy nie będziemy już szczęśliwe, często płaczemy
+- **Smutek, uczucie pustki** - myślimy pesymistycznie, wydaje nam się, że nigdy nie będziemy już szczęśliwe, często płaczemy, jesteśmy niezdolne do odczuwania radości 
 - **Rozdrażnienie** - łatwo wybuchamy złością w sytuacji, gdy coś idzie nie po naszej myśli; możemy być agresywne, niecierpliwe
 - **Utrata zainteresowań** - czynności, które wcześniej sprawiały nam radość, przestają nas cieszyć, np. ulubiony serial przestaje nas interesować, nie cieszymy się ze spaceru na łonie natury
 - **Poczucie winy** - czujemy, że jesteśmy złymi matkami, że krzywdzimy swoje dziecko, że nasze koleżanki czy siostry radzą sobie lepiej w opiece nad dziećmi niż my
