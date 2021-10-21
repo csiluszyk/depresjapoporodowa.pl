@@ -45,7 +45,7 @@ Nie zawsze jest to proste. Czasami symptomy depresji rzeczywiście są na tyle n
 
 Dodatkowo otoczeniu trudno jest zauważyć co się dzieje z kobietą, gdy na zewnątrz zdaje się ona dobrze funkcjonować - zajmuje się dzieckiem, domem, obowiązkami. Mitem jest, że każda mama cierpiąca na depresję poporodową izoluje się od dziecka, nie chce się nim zajmować. Jeśli nie zainteresujemy się, co dzieje się w środku kobiety - w jej myślach, uczuciach, poczuciu własnej wartości - możemy nie dostrzec jej problemu.
 
-Kobiety zresztą często nie mówią otwarcie o swoim cierpieniu. Dlaczego? Czasami z powodu lęku, wstydu, strachu przed oceną, tym, że ktoś nazwie je "złą matką". Również dlatego, że kobiety (oraz całe otoczenie) koncentrują się po porodzie na dziecku, nie na sobie (powszechne jest przecież przekonanie, że "teraz dziecko jest najważniejsze").
+Kobiety po porodzie zresztą często nie mówią otwarcie o swoim cierpieniu. Dlaczego? Czasami z powodu lęku, wstydu, strachu przed oceną, tym, że ktoś nazwie je "złą matką". Również dlatego, że kobiety (oraz całe otoczenie) koncentrują się po porodzie na dziecku, nie na sobie (powszechne jest przecież przekonanie, że "teraz dziecko jest najważniejsze").
 
 ## Depresja poporodowa - jak ją zdiagnozować? 
 W odpowiedzi na pytanie, czy cierpisz na depresję poporodową może pomóc Ci wykonanie krótkiego testu ([Test na depresję poporodową](https://depresjapoporodowa.pl/objawy/esdp)). Edynburska Skala Depresji Poporodowej to proste i darmowe narzędzie, składające się jedynie z 10 krótkich pytań. 
