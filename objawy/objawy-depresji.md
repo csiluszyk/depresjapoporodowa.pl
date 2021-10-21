@@ -41,14 +41,14 @@ Objawy depresji poporodowej mogą pojawić się nie tylko bezpośrednio po urodz
 
 
 ## Jak rozpoznać depresję poporodową? 
-Nie zawsze jest to proste. Czasami symptomy depresji rzeczywiście są na tyle nasilone, że łatwo je dostrzega zarówno cierpiąca mama, jak i jej otoczenie. Częściej jednak jej objawy rozwijają się powoli, stopniowo, a ich nasilenie nie musi być duże. To sprawia, że wiele kobiet bagatelizuje pierwsze pojawiające się objawy. 
+Nie zawsze jest to proste. Czasami symptomy depresji rzeczywiście są na tyle nasilone, że łatwo je dostrzega zarówno cierpiąca mama, jak i jej otoczenie. Częściej jednak jej objawy rozwijają się powoli, stopniowo, a ich nasilenie nie musi być duże. To sprawia, że wiele kobiet bagatelizuje pierwsze pojawiające się symptomy. 
 
-Dodatkowo otoczeniu trudno jest zauważyć co się dzieje z kobietą, gdy na zewnątrz zdaje się ona dobrze funkcjonować - zajmuje się dzieckiem, domem, obowiązkami. Mitem jest, że każda mama cierpiąca na depresję poporodową izoluje się od dziecka, nie chce się nim zajmować. Jeśli nie zainteresujemy się, co dzieje się w środku kobiety - w jej myślach, uczuciach, poczuciu własnej wartości - możemy nie dostrzec jej problemu.
+Dodatkowo osoby najbliższe mogą nie zauważać co dzieje się z młodą mamą, zwłaszcza,  gdy ta na zewnątrz dobrze funkcjonuje - zajmuje się dzieckiem, domem, obowiązkami. Mitem jest, że każda mama cierpiąca na depresję poporodową izoluje się od dziecka, nie chce się nim zajmować. Jeśli nie zainteresujemy się, co dzieje się w środku kobiety - w jej myślach, uczuciach, poczuciu własnej wartości - możemy nie dostrzec jej problemu.
 
 Kobiety po porodzie zresztą często nie mówią otwarcie o swoim cierpieniu. Dlaczego? Czasami z powodu lęku, wstydu, strachu przed oceną, tym, że ktoś nazwie je "złą matką". Również dlatego, że kobiety (oraz całe otoczenie) koncentrują się po porodzie na dziecku, nie na sobie (powszechne jest przecież przekonanie, że "teraz dziecko jest najważniejsze").
 
 ## Depresja poporodowa - jak ją zdiagnozować? 
 W odpowiedzi na pytanie, czy cierpisz na depresję poporodową może pomóc Ci wykonanie krótkiego testu ([Test na depresję poporodową](https://depresjapoporodowa.pl/objawy/esdp)). Edynburska Skala Depresji Poporodowej to proste i darmowe narzędzie, składające się jedynie z 10 krótkich pytań. 
 
-Jeśli Twoje wyniki wskazują na możliwość depresji poporodowej nie bój się umówić na konsultację z lekarzem psychiatrą. To on wie, jak leczyć depresję (warto wiedzieć, że leki przeciwdepresyjne nie zawsze są konieczne!). Może on też zlecić dodatkowe badania laboratoryjne, które pozwolą wykluczyć ewentualne niedobory witamin / żelaza lub zmiany harmonalne, które mogą dawać podobne objawy, jak depresja poporodowa (czytaj więcej w [Przyczyny depresji poporodowej](https://depresjapoporodowa.pl/przyczyny/przyczyny-depresji)). 
+Jeśli Twoje wyniki wskazują, że możesz mierzyć się z depresją poporodową, nie bój się umówić na konsultację z lekarzem psychiatrą. To on wie, jak leczyć depresję (warto wiedzieć, że leki przeciwdepresyjne nie zawsze są konieczne!), zna również najczęstsze przyczyny depresji poporodowej i wie, jak na nie oddziaływać. Może on też zlecić dodatkowe badania laboratoryjne, które pozwolą wykluczyć ewentualne niedobory witamin / żelaza lub zmiany harmonalne, które mogą dawać podobne objawy, jak depresja poporodowa. (czytaj więcej w [Przyczyny depresji poporodowej](https://depresjapoporodowa.pl/przyczyny/przyczyny-depresji)). 
 
