@@ -3,25 +3,25 @@
 - name: Objawy
   children:
     - name: Objawy depresji
-      link: /objawy/objawy-depresji
+      link: /objawy/objawy-depresji-poporodowej
     - name: Depresja a „baby blues”
       link: /objawy/baby-blues
     - name: Psychoza poporodowa
       link: /objawy/psychoza-poporodowa
     - name: Test na depresję poporodową
-      link: /objawy/esdp
+      link: /objawy/test-na-depresje-poporodowa
 - name: Przyczyny
   children:
     - name: Przyczyny depresji
-      link: /przyczyny/przyczyny-depresji
+      link: /przyczyny/przyczyny-depresji-poporodowej
     - name: Czynniki ryzyka
-      link: /przyczyny/czynniki-ryzyka
+      link: /przyczyny/czynniki-ryzyka-depresji-poporodowej
 - name: Leczenie
   children:
     - name: Leczenie farmakologiczne
       link: /leczenie/leczenie-farmakologiczne
     - name: Psychoterapia
-      link: /leczenie/psychoterapia
+      link: /leczenie/psychoterapia-w-depresji-poporodowej
     - name: Samopomoc
       link: /leczenie/samopomoc
 - name: Gdzie po pomoc?
@@ -29,11 +29,11 @@
 - name: Informacje dla bliskich
   link: /informacje-dla-bliskich
 - name: Fakty i mity
-  link: /fakty-i-mity
+  link: /fakty-i-mity-na-temat-depresji-poporodowej
 - name: Materiały
   children:
-    - name: Wywiady
-      link: /materialy/wywiady
+#    - name: Wywiady
+#      link: /materialy/wywiady
     - name: Książki
       link: /materialy/ksiazki
     - name: Podcasty i wideo

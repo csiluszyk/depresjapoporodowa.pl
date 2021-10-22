@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Psychoterapia
+title: Psychoterapia w depresji poporodowej
 image: /images/psychoterapia.jpg
 ---
 

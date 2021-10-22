@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Objawy depresji
+title: Objawy depresji poporodowej
 image: /images/objawy-depresji.jpg
 ---
 ## Depresja poporodowa ma wiele twarzy — to nie tylko smutek i brak energii.
-Stan obniżonego nastroju po porodzie (smutku, pustki, rozdrażnienia, wyczerpania) nazywamy "baby blues". Doświadcza go większość kobiet i przyjmuje się, że głównym powodem jego występowania są nagłe zmiany hormonalne jakie zachodzą w ciele kobiety. Obniżony nastrój powinien jednak minąć po 2 tygodniach (czytaj więcej o [Baby blues](https://depresjapoporodowa.pl/objawy/baby-blues)). Co jednak, gdy  smutek poporodowy utrzymuje się dłużej? Co jeśli objawy pojawiają się dopiero kilka tygodni / miesięcy po porodzie? Co jeśli towarzyszą nam one już w czasie ciąży, a po porodzie nie ustępują lub wręcz się nasilają? 
+Stan obniżonego nastroju po porodzie (smutku, pustki, rozdrażnienia, wyczerpania) nazywamy "baby blues". Doświadcza go większość kobiet i przyjmuje się, że głównym powodem jego występowania są nagłe zmiany hormonalne jakie zachodzą w ciele kobiety. Obniżony nastrój powinien jednak minąć po 2 tygodniach (czytaj więcej o [Baby blues](/objawy/baby-blues)). Co jednak, gdy  smutek poporodowy utrzymuje się dłużej? Co jeśli objawy pojawiają się dopiero kilka tygodni / miesięcy po porodzie? Co jeśli towarzyszą nam one już w czasie ciąży, a po porodzie nie ustępują lub wręcz się nasilają? 
 
 Pamiętajmy, że depresja poporodowa dotyka ok. 15% kobiet. Oznacza to, że z tą chorobą mierzy się rocznie ok. 40 - 50 tysięcy kobiet w Polsce. Warto więc, aby każdy z nas wiedział, jakie są najczęstsze objawy depresji. 
 
@@ -48,7 +48,7 @@ Dodatkowo osoby najbliższe mogą nie zauważać co dzieje się z młodą mamą,
 Kobiety po porodzie zresztą często nie mówią otwarcie o swoim cierpieniu. Dlaczego? Czasami z powodu lęku, wstydu, strachu przed oceną, tym, że ktoś nazwie je "złą matką". Również dlatego, że kobiety (oraz całe otoczenie) koncentrują się po porodzie na dziecku, nie na sobie (powszechne jest przecież przekonanie, że "teraz dziecko jest najważniejsze").
 
 ## Depresja poporodowa - jak ją zdiagnozować? 
-W odpowiedzi na pytanie, czy cierpisz na depresję poporodową może pomóc Ci wykonanie krótkiego testu ([Test na depresję poporodową](https://depresjapoporodowa.pl/objawy/esdp)). Edynburska Skala Depresji Poporodowej to proste i darmowe narzędzie, składające się jedynie z 10 krótkich pytań. 
+W odpowiedzi na pytanie, czy cierpisz na depresję poporodową może pomóc Ci wykonanie krótkiego testu ([Test na depresję poporodową](/objawy/test-na-depresje-poporodowa)). Edynburska Skala Depresji Poporodowej to proste i darmowe narzędzie, składające się jedynie z 10 krótkich pytań. 
 
-Jeśli Twoje wyniki wskazują, że możesz mierzyć się z depresją poporodową, nie bój się umówić na konsultację z lekarzem psychiatrą. To on wie, jak leczyć depresję (warto wiedzieć, że leki przeciwdepresyjne nie zawsze są konieczne!), zna również najczęstsze przyczyny depresji poporodowej i wie, jak na nie oddziaływać. Może on też zlecić dodatkowe badania laboratoryjne, które pozwolą wykluczyć ewentualne niedobory witamin / żelaza lub zmiany harmonalne, które mogą dawać podobne objawy, jak depresja poporodowa. (czytaj więcej w [Przyczyny depresji poporodowej](https://depresjapoporodowa.pl/przyczyny/przyczyny-depresji)). 
+Jeśli Twoje wyniki wskazują, że możesz mierzyć się z depresją poporodową, nie bój się umówić na konsultację z lekarzem psychiatrą. To on wie, jak leczyć depresję (warto wiedzieć, że leki przeciwdepresyjne nie zawsze są konieczne!), zna również najczęstsze przyczyny depresji poporodowej i wie, jak na nie oddziaływać. Może on też zlecić dodatkowe badania laboratoryjne, które pozwolą wykluczyć ewentualne niedobory witamin / żelaza lub zmiany harmonalne, które mogą dawać podobne objawy, jak depresja poporodowa. (czytaj więcej w [Przyczyny depresji poporodowej](/przyczyny/przyczyny-depresji-poporodowej)). 
 

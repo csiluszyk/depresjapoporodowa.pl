@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Czynniki ryzyka
+title: Czynniki ryzyka depresji poporodowej
 image: /images/czynniki-ryzyka.jpg
 ---
 Poniższe czynniki mogą wskazywać, że jesteś bardziej narażona na depresję poporodową. Nie oznacza to jednak, że jeśli spełniasz któreś kryterium, depresja na pewno u Ciebie wystąpi. I odwrotnie — jeśli żadne kryterium nie opisuje Twojej sytuacji, nie oznacza to, że na pewno depresja poporodowa Cię nie dotknie. Pamiętaj, że depresja może spotkać każdą z nas!
