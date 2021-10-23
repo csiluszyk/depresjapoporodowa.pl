@@ -4,7 +4,7 @@ title: Gdzie po pomoc?
 image: /images/gdzie-po-pomoc.jpg
 ---
 
-Poniżej znajdują się przydatne linki:
+Otrzymałaś / otrzymałeś diagnozę depresji poporodowej lub rozpoznajesz u siebie jej objawy? Nie wiesz, gdzie możesz znaleźć potrzebne wsparcie i pomoc? Poniżej znajdziesz przydatne linki:
 
 ---
 ## DepresjaPoporodowa.pl
