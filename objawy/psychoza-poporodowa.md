@@ -10,7 +10,7 @@ Psychoza poporodowa występuje znacznie rzadziej niż depresja poporodowa. Szacu
 Psychoza poporodowa to poważna choroba, którą należy traktować jako stan nagły. Należy jak najszybciej skontaktować się z lekarzem w celu przeniesienia matki na leczenie. Jest to warunek konieczny, ponieważ istnieje wysokie ryzyko, że matka skrzywdzi siebie i/lub dziecko.
 </div>
 
-## Objawy
+## Objawy psychozy poporodowej
 
 - **Halucynacje** - widzi się, słyszy bądź czuje rzeczy/osoby, które nie istnieją w rzeczywistości; żyje się w świecie fantazji, mogą wystąpić fantazje o zabiciu siebie, innych lub dziecka
 - **Urojenia** - to nieprawdziwe myśli, przekonania, podtrzymywane mimo dowodów na ich nieprawdziwość, np. matka może być przekonana o nadnaturalnej sile, może uważać że zagraża jej dziecku niebezpieczeństwo lub że w jej dziecko wstąpił demon
@@ -32,7 +32,7 @@ Gdy zauważysz u siebie lub osoby bliskiej powyższe objawy natychmiast zadzwoń
 Jeśli nie zostanie natychmiastowo podjęte leczenie, może nastąpić pogorszenie się stanu matki, która może stanowić zagrożenie dla siebie i dziecka. Zazwyczaj matka nie zdaje sobie sprawy z tego, że jest chora. W tym wypadku działanie partnera, rodziny lub przyjaciół jest niezwykle istotne. W momencie zauważenia zmiany w zachowaniu matki nie należy zwlekać, lecz jak najszybciej skontaktować się ze szpitalem.
 
 
-## Przyczyny
+## Przyczyny psychozy poporodowej
 Nie wiadomo, co powoduje psychozę poporodową, ale ryzyko jest większe, jeśli:
 
 - Matka cierpiała na psychozę poporodową po poprzedniej ciąży
@@ -47,7 +47,7 @@ Jeśli wiesz, że jesteś w grupie wysokiego ryzyka rozwoju psychozy poporodowej
 Gdy kobieta otrzyma odpowiednią i szybką pomoc, tzn. otrzyma leczenie farmakologiczne i wsparcie terapeutyczne, to zazwyczaj jej stan polepsza się po 2 do 12 tygodni. Całkowity proces rekonwalescencji trwa od 6 miesięcy do roku lub więcej. Większość matek po otrzymaniu leczenia wraca do pełni zdrowia.
 
 
-## W jaki sposób wspierać matkę
+## Jak wspierać matkę z psychozą poporodową? 
 - Bądź cierpliwy i wyrozumiały
 - Mów tak często jak to konieczne, że kobieta nie jest winna tego, że jest chora
 - Zapewniaj kobietę, że ją kochasz i że zawsze może ona na Ciebie liczyć
