@@ -6,13 +6,12 @@ image: /images/leczenie-farmakologiczne.jpg
 
 ## Kiedy leczenie farmakologiczne jest potrzebne? 
 
-Depresja wiąże się z nierównowagą chemiczną w mózgu, dlatego leki mogą pomóc w jej pokonaniu. Nie zawsze jednak leczenie farmakologiczne jest niezbędne. W przypadku łagodnej depresji może okazać się, że zapewnienie wsparcia, wystarcza do tego, by osoba poczuła się lepiej. Jeśli jednak objawy są uciążliwe, a zdaniem lekarza dobrze odpowiedzą na leki, to ich zastosowanie znacząco przyspieszy proces zdrowienia. Czasami również warto włączyć leczenie, aby zapobiegać rozwojowi choroby, tzn. aby nie doświadczyć epizodu ciężkiej depresji, po którym dochodzenie do zdrowia jest dłuższe.
+Depresja wiąże się z nierównowagą chemiczną w mózgu, dlatego leki mogą pomóc w jej pokonaniu. Nie zawsze jednak leczenie farmakologiczne jest niezbędne. Wiele zależy od tego, jakie występują u nas objawy oraz w jakim nasileniu. W przypadku łagodnej depresji poporodowej może okazać się, że zapewnienie wsparcia, wystarcza do tego, by osoba poczuła się lepiej. Jeśli jednak objawy depresji poporodowej są uciążliwe, a zdaniem lekarza dobrze odpowiedzą na leki, to ich zastosowanie znacząco przyspieszy proces zdrowienia. Czasami również warto włączyć leczenie, aby zapobiegać rozwojowi choroby, tzn. aby nie doświadczyć epizodu ciężkiej depresji, po którym dochodzenie do zdrowia jest dłuższe.
 
-Ocena głębokości depresji oraz rekomendacje do tego, czy leki w Twoim przypadku są wskazane, należy do lekarza. Najlepiej, aby Twój stan zdrowia ocenił psychiatra, ponieważ to on zna się na leczeniu tego zaburzenia (choć niektóre leki może przepisać również lekarz rodzinny). Pamiętaj, że nawet jeśli lekarz zaleci Ci przyjmowanie leków, to decyzja o tym, czy je stosować, należy do Ciebie (nikt nie może zmusić Cię do brania leków bez Twojej woli). Jeśli więc nie jesteś przekonana do leczenia farmakologicznego, warto mimo wszystko skonsultować się z lekarzem, który może pomóc Ci w ocenie sytuacji i dokonaniu decyzji. 
-
+Ocena głębokości depresji oraz rekomendacje do tego, czy leki w Twoim przypadku są wskazane, należy do lekarza. Najlepiej, aby Twój stan zdrowia ocenił psychiatra, ponieważ to on zna się na leczeniu tego zaburzenia (choć niektóre leki może przepisać również lekarz rodzinny). Pamiętaj, że nawet jeśli lekarz zaleci Ci przyjmowanie leków, to decyzja o tym, czy je stosować, należy do Ciebie (nikt nie może zmusić Cię do brania leków bez Twojej woli). Jeśli więc nie jesteś przekonana do leczenia farmakologicznego, warto mimo wszystko skonsultować się z lekarzem, który może pomóc Ci w ocenie sytuacji i dokonaniu decyzji.
 <div class="box">
 <h3>Ważne</h3>
-Im szybciej otrzymasz profesjonalną pomoc, tym szybciej Ty i Twoja rodzina poczujecie się lepiej! Nie zwlekaj więc z konsultacją u lekarza, ponieważ istnieje ryzyko, że bez odpowiedniego wsparcia Twoje symptomy się pogorszą.
+Im szybciej otrzymasz profesjonalną pomoc, tym szybciej Ty i Twoja rodzina poczujecie się lepiej! Nie zwlekaj więc z konsultacją u lekarza, ponieważ istnieje ryzyko, że bez odpowiedniego wsparcia objawy depresji poporodowej się pogorszą.
 </div>
 
 ## Rodzaje leków stosowanych w depresji
