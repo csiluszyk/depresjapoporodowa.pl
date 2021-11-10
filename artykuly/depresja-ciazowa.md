@@ -5,7 +5,7 @@ image: /images/depresja-ciazowa.jpg
 ---
 
 
-<strong>Wydaje nam się, że czas ciąży powinien być “błogosławionym stanem”, podczas którego zachwycamy się rosnącym brzuchem i  z entuzjazmem czekamy na poród. Dla wielu kobiet ciąża jest jednak zupełnie inną historią, o której niestety zbyt rzadko się mówi.</strong>
+<strong>Wydaje nam się, że czas ciąży powinien być błogosławionym stanem, podczas którego zachwycamy się rosnącym brzuchem i  z entuzjazmem czekamy na poród. Dla wielu kobiet ciąża jest jednak zupełnie inną historią, o której niestety zbyt rzadko się mówi.</strong>
 
 
 ## Czym jest depresja w ciąży?
