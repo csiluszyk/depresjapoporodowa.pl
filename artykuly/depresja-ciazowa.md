@@ -112,7 +112,7 @@ Kiedy zapewnisz już sobie wsparcie, możesz skoncentrować się na tym, jakie d
 - zauważ w jakich sytuacjach źle o sobie myślisz - osoby z depresją mają tendencję do myślenia o sobie źle ("To wszystko moja wina", "Wszyscy przeze mnie cierpią", "Będę złą matką"). Spróbuj z tymi myślami polemizować. Przede wszystkim pamiętaj, że nie jesteś winna temu, że chorujesz na depresję.
 
 
-Jeśli chcesz wiedzieć więcej o tym, jak możesz sobie pomóc, przeczytaj [Samopomoc w depresji poporodowej](https://depresjapoporodowa.pl/leczenie/samopomoc). Objawy depresji w obu tych zaburzeniach są podobne, dlatego rady, jak z nimi walczyć, również są zbliżone. 
+Jeśli chcesz wiedzieć więcej o tym, jak możesz sobie pomóc, przeczytaj [Samopomoc w depresji poporodowej](https://depresjapoporodowa.pl/leczenie/samopomoc). Objawy w obu tych zaburzeniach są podobne, dlatego rady, jak z nimi walczyć, również są zbliżone. 
 
 ## Więcej informacji znajdziesz:
 <https://www.embryotox.de/arzneimittel/>{:target="_blank"}
