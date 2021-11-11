@@ -74,7 +74,7 @@ Wiele kobiet doświadczających depresji ciążowej, odczuwa ogromne poczucie wi
 ---
 
 ### Pamiętaj!
-Depresja nie jest Twoją winą! Żaden specjalista nie będzie Cię oceniał. Psychiatra, ginekolog, lekarz rodzinny, czy położna, to profesjonaliści, których zadaniem jest Cię 
+Depresja nie jest Twoją winą! Żaden specjalista nie będzie Cię oceniał. Psychiatra, ginekolog, lekarz rodzinny czy położna, to profesjonaliści, których zadaniem jest Cię wesprzeć i zapewnić opiekę Tobie i Twojemu dziecku.
 
 ---
 
