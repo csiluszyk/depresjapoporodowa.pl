@@ -109,7 +109,7 @@ Kiedy zapewnisz już sobie wsparcie, możesz skoncentrować się na tym, jakie d
 - jedz zdrowo - nawet jeśli nie masz apetytu, staraj się przyrządzać sobie zdrowe jedzenie. Jedz częściej, ale mniejsze porcje. Pomoże to dostarczyć Tobie i Twojemu dziecku potrzebnych składników.
 - mów otwarcie jak się czujesz - porozmawiaj z kimś bliskim (partnerem, rodziną, przyjaciółmi) o swoich uczuciach. Zazwyczaj jesteśmy zaskoczeni, jak pozytywnie reaguje otoczenie, gdy otwarcie powiemy im, czego doświadczamy.
 - proś o pomoc - nie bierz na siebie zbyt dużo obowiązków, proś najbliższych o pomoc w codziennych obowiązkach
-- zauważ w jakich sytuacjach źle o sobie myślisz - osoby z depresją mają tendencję, do myślenia o sobie źle ("To wszystko moja wina", "Wszyscy przeze mnie cierpią", "Będę złą matką"). Spróbuj z tymi myślami polemizować. Przede wszystkim pamiętaj, że nie jesteś winna temu, że chorujesz na depresję.
+- zauważ w jakich sytuacjach źle o sobie myślisz - osoby z depresją mają tendencję do myślenia o sobie źle ("To wszystko moja wina", "Wszyscy przeze mnie cierpią", "Będę złą matką"). Spróbuj z tymi myślami polemizować. Przede wszystkim pamiętaj, że nie jesteś winna temu, że chorujesz na depresję.
 
 
 Jeśli chcesz wiedzieć więcej o tym, jak możesz sobie pomóc, przeczytaj [Samopomoc w depresji poporodowej](https://depresjapoporodowa.pl/leczenie/samopomoc). Objawy depresji w obu tych zaburzeniach są podobne, dlatego rady, jak z nimi walczyć, również są zbliżone. 
