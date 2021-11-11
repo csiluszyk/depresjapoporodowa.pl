@@ -69,7 +69,7 @@ Jeżeli jesteś w ciąży i podejrzewasz u siebie depresję, możesz sama wykona
 
 Jeżeli Twój wynik wskazuje, że powinnaś skontaktować się ze specjalistą, nie powinnaś z tym zwlekać. Możesz o swoich objawach powiedzieć lekarzowi ginekolog, który prowadzi Twoją ciążę lub lekarzowi rodzinnemu. Jeżeli masz możliwość skonsultować się w nieodległym czasie z lekarzem psychiatrą, jest to najlepszy specjalista, który może Ci pomóc. Psychiatra najlepiej zna objawy depresyjne oraz wie, jak leczyć depresję, by zminimalizować ryzyko powikłań w ciąży.
 
-Wiele kobiet doświadczających depresji ciążowej, odczuwa ogromne poczucie winy. Zazwyczaj matki wstydzą się tego, jak się czują, ponieważ przyjęło się uważać, że czas ciąży jest czasem radosnego oczekiwania. Pamiętaj jednak, że nikt nie wybiera sobie choroby. Potraktuj depresję jak każdą inną chorobę - gdybyś rozpoznała u siebie w ciąży chorobę układu moczowego/ oddechowego/ chorobę skóry itp. z pewnością udałabyś się do specjalisty po pomoc.
+Wiele kobiet doświadczających depresji ciążowej, odczuwa ogromne poczucie winy. Zazwyczaj matki wstydzą się tego, jak się czują, ponieważ przyjęło się uważać, że czas ciąży jest czasem radosnego oczekiwania. Pamiętaj jednak, że nikt nie wybiera sobie choroby. Potraktuj depresję jak każdą inną przypadłość - gdybyś będąc w ciąży rozpoznała u siebie chorobę układu moczowego/ oddechowego/ chorobę skóry itp. z pewnością udałabyś się do specjalisty po pomoc.
 
 ---
 
