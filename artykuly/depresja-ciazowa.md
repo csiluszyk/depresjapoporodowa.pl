@@ -127,4 +127,8 @@ Ashley, J. M., Harper, B. D., Arms-Chavez, C. J., & LoBello, S. G. (2016). Estim
 
 Gentile, S. (2017). Untreated depression during pregnancy: Short-and long-term effects in offspring. A systematic review. Neuroscience, 342, 154-166.
 
+Jarde, A., Morais, M., Kingston, D., Giallo, R., MacQueen, G. M., Giglia, L., ... & McDonald, S. D. (2016). Neonatal outcomes in women with untreated antenatal depression compared with women without depression: a systematic review and meta-analysis. JAMA psychiatry, 73(8), 826-837.
+
 Míguez, M. C., & Vázquez, M. B. (2021). Risk factors for antenatal depression: A review. World Journal of Psychiatry, 11(7), 325.
+
+
