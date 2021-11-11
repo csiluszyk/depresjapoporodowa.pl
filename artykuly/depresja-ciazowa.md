@@ -35,10 +35,12 @@ Depresja w ciąży może dotykać kobiet na różne sposoby, a jej objawy mogą 
 - Myśli o skrzywdzeniu siebie (lub nienarodzonego dziecko), w tym również myśli samobójcze
 - Poczucie winy
 
-<div class="box">
+---
+
 ### Pamiętaj!
 Ciąża nie chroni przed depresją. Niestety na depresję można zachorować zarówno w I, II, jak i III trymestrze ciąży.
-</div>
+
+---
 
 ## Jakie są przyczyny i czynniki ryzyka depresji w ciąży? 
 Przyczyny depresji w ciąży nie są do końca znane, jednak istnieje kilka czynników, o których wiemy, że znacząco zwiększają ryzyko zachorowania na tę chorobę:
@@ -54,10 +56,12 @@ Ciąża jest szczególnym momentem, w czasie którego w organizmie kobiety zacho
 
 Dodatkowo hormony ciążowe mogą bezpośrednio wpływać na nasze emocje. Kobiety w trakcie ciąży mogą doświadczać niewielkich wahań nastroju, mogą być poirytowane i bardziej płaczliwe. 
 
-<div class="box">
+---
+
 ### Ważne
 Zaufaj swojej intuicji. Jeśli czujesz, że doświadczane objawy wykraczają poza to, jak czują się inne kobiety w czasie ciąży, podejmij kroki, aby zadbać o swoje zdrowie i zdrowie nienarodzonego dziecka.
-</div>
+
+---
 
 
 ## Podejrzewam u siebie depresję - co mogę zrobić? 
@@ -67,10 +71,12 @@ Jeżeli Twój wynik wskazuje, że powinnaś skontaktować się ze specjalistą, 
 
 Wiele kobiet doświadczających depresji ciążowej, odczuwa ogromne poczucie winy. Zazwyczaj matki wstydzą się tego, jak się czują, ponieważ przyjęło się uważać, że czas ciąży jest czasem radosnego oczekiwania. Pamiętaj jednak, że nikt nie wybiera sobie choroby. Potraktuj depresję jak każdą inną chorobę - gdybyś rozpoznała u siebie w ciąży chorobę układu moczowego/ oddechowego/ chorobę skóry itp. z pewnością udałabyś się do specjalisty po pomoc.
 
-<div class="box">
+---
+
 ### Pamiętaj!
-Depresja nie jest Twoją winą! Żaden specjalista nie będzie Cię oceniał. Psychiatra, ginekolog, lekarz rodzinny, czy położna, to profesjonaliści, których zadaniem jest Cię wesprzeć i zapewnić opiekę Tobie i Twojemu dziecku.
-</div>
+Depresja nie jest Twoją winą! Żaden specjalista nie będzie Cię oceniał. Psychiatra, ginekolog, lekarz rodzinny, czy położna, to profesjonaliści, których zadaniem jest Cię 
+
+---
 
 
 ## Jak leczyć depresję w ciąży? 
