@@ -97,7 +97,7 @@ Ważne jest, aby leczyć depresję ciążową również dlatego, że po urodzeni
 Nawet jeżeli Twoje objawy nie są obecnie mocno nasilone, musisz mieć na uwadze, że bez zapewnienia sobie odpowiedniego wsparcia, mogą się one pogłębić. Warto jest więc mimo wszystko udać się do lekarza, który będzie monitorował Twój stan zdrowia. Jeśli z kolei Twoje objawy są nasilone, a zwłaszcza gdy masz myśli samobójcze, powinnaś udać się do lekarza psychiatry niezwłocznie. 
 
 <div class="box">
-Nieleczenie depresji niesie negatywne skutki zarówno dla kobiety, jak i jej dziecka. Nie bój się poprosić o pomoc. Dzięki wsparciu Twoje cierpienie może naprawdę minąć.
+Nieleczenie depresji niesie negatywne skutki zarówno dla kobiety, jak i jej dziecka. Nie bój się poprosić o pomoc. Dzięki odpowiedniemu wsparciu Twoje cierpienie może naprawdę minąć.
 </div>
 
 ## Jak mogę pomóc sobie sama? 
