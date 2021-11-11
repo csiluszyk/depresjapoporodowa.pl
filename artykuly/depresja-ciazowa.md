@@ -86,7 +86,7 @@ Na temat brania leków przeciwdepresyjnych w ciąży narosło wiele mitów. Rzec
 
 O potencjalnym wpływie danego leku na zdrowie dziecka i kobiety możemy dowiedzieć się więc jedynie z obserwacji. W ten sposób wiemy, że stosowanie w ciąży niektórych leków jest stanowczo zabronione, ponieważ istnieją badania pokazujące ich negatywny wpływ na rozwój dziecka. Z drugiej strony wiemy, że niektóre leki są względnie bezpieczne, ponieważ zostały zastosowane u wielu tysięcy kobiet bez poważnego uszczerbku dla zdrowia mamy i malucha. 
 
-Lekarz psychiatra przed włączeniem leków ocenia zyski i ewentualne ryzyko dla zdrowia dziecka. Warto pamiętać, że w przypadku ciężkiej depresji zyski najczęściej przewyższają ewentualne ryzyko. Jeśli zaś chcesz sama sprawdzić, co na temat stosowania danego leku w ciąży oraz przy karmieniu piersią mówią obecne badania, możesz wejść na stronę Embryotox Institute (https://www.embryotox.de/arzneimittel/). Wpisując nazwę leku dowiesz się, czy jest on powszechnie stosowany przy leczeniu depresji ciążowej lub depresji poporodowej. 
+Lekarz psychiatra przed włączeniem leków ocenia zyski i ewentualne ryzyko dla zdrowia dziecka. Warto pamiętać, że w przypadku ciężkiej depresji zyski najczęściej przewyższają ewentualne ryzyko. Jeśli zaś chcesz sama sprawdzić, co na temat stosowania danego leku w ciąży oraz przy karmieniu piersią mówią obecne badania, możesz wejść na stronę Embryotox Institute ([https://www.embryotox.de/arzneimittel/]). Wpisując nazwę leku dowiesz się, czy jest on powszechnie stosowany przy leczeniu depresji ciążowej lub depresji poporodowej. 
 
 
 ## Dlaczego leczenie depresji w ciąży jest ważne? 
