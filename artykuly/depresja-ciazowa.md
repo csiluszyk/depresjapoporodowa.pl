@@ -101,7 +101,7 @@ Nieleczenie depresji niesie negatywne skutki zarówno dla kobiety, jak i jej dzi
 </div>
 
 ## Jak mogę pomóc sobie sama? 
-W leczeniu depresji najważniejsze jest wsparcie. Dlatego najlepszym pierwszym krokiem, jaki możesz zrobić, jest udanie się do specjalisty (psychiatry, psychologa, lekarza rodzinnego), którzy mają odpowiednią wiedzę i doświadczenie w wspieraniu osób cierpiących. Następny ważny krok, to poinformowanie Twojego ginekologa o tym, że chorujesz. Jest to naprawdę istotne, aby lekarz prowadzący Twoją ciążę był informowany na bieżąco nt. Twojego stanu zdrowia. 
+W leczeniu depresji najważniejsze jest wsparcie. Dlatego najlepszym pierwszym krokiem, jaki możesz zrobić, jest udanie się do specjalisty (psychiatry, psychologa, lekarza rodzinnego), którzy mają odpowiednią wiedzę i doświadczenie we wspieraniu osób cierpiących. Następny ważny krok, to poinformowanie Twojego ginekologa o tym, że chorujesz. Jest to naprawdę istotne, aby lekarz prowadzący Twoją ciążę był informowany na bieżąco nt. Twojego stanu zdrowia. 
 
 Kiedy zapewnisz już sobie wsparcie, możesz skoncentrować się na tym, jakie dodatkowe kroki podjąć, by zadbać o siebie i swoje dziecko. Poniżej znajduje się kilka pomysłów, w jaki sposób możesz to zrobić:
 
