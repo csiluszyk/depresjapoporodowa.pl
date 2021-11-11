@@ -115,13 +115,13 @@ Kiedy zapewnisz już sobie wsparcie, możesz skoncentrować się na tym, jakie d
 Jeśli chcesz wiedzieć więcej o tym, jak możesz sobie pomóc, przeczytaj [Samopomoc w depresji poporodowej](https://depresjapoporodowa.pl/leczenie/samopomoc). Objawy depresji w obu tych zaburzeniach są podobne, dlatego rady, jak z nimi walczyć, również są zbliżone. 
 
 ## Więcej informacji znajdziesz:
-https://www.embryotox.de/arzneimittel/
+<https://www.embryotox.de/arzneimittel/>{:target="_blank"}
 
-https://www.ouh.nhs.uk/patient-guide/leaflets/files/130125perinatal.pdf
+<https://www.ouh.nhs.uk/patient-guide/leaflets/files/130125perinatal.pdf>{:target="_blank"}
 
-https://www.tommys.org/pregnancy-information/im-pregnant/mental-wellbeing/depression-pregnancy
+<https://www.tommys.org/pregnancy-information/im-pregnant/mental-wellbeing/depression-pregnancy>{:target="_blank"}
 
-https://americanpregnancy.org/healthy-pregnancy/pregnancy-health-wellness/depression-during-pregnancy/
+<https://americanpregnancy.org/healthy-pregnancy/pregnancy-health-wellness/depression-during-pregnancy/>{:target="_blank"}
 
 Ashley, J. M., Harper, B. D., Arms-Chavez, C. J., & LoBello, S. G. (2016). Estimated prevalence of antenatal depression in the US population. Archives of women's mental health, 19(2), 395-400.
 
