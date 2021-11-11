@@ -13,7 +13,7 @@ Depresja to choroba, która sprawia, że kolory naszego świata gasną. Zaczynam
 
 Jak ten stan ma się do ciąży? Otóż depresja może nas spotkać w każdym momencie życia, również wtedy (a nawet częściej), gdy spodziewamy się dziecka. 
 
-Badania pokazują, że na depresję w okresie ciąży cierpi od <strong>7</strong> do <strong>20%</strong> kobiet. Nawet jeżeli optymistycznie przyjmiemy, że jest to ta mniejsza liczba, oznacza to, że co roku z depresją w ciąży mierzy się ponad 20 tys. Polek.
+Badania pokazują, że na depresję cierpi od <strong>7</strong> do <strong>20%</strong> ciężarnych kobiet. Nawet jeżeli optymistycznie przyjmiemy, że jest to ta mniejsza liczba, oznacza to, że co roku z depresją w ciąży mierzy się ponad 20 tys. Polek.
 
 <div class="box">
 Depresja w ciąży nie jest oznaką słabości, nieodpowiedzialności, czy braku gotowości do tego, by zostać mamą. Depresja ciążowa to po prostu choroba, którą z odpowiednim wsparciem i pomocą można pokonać.
