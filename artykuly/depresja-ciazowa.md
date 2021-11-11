@@ -22,7 +22,7 @@ Depresja w ciąży nie jest oznaką słabości, nieodpowiedzialności, czy braku
 ## Jakie są objawy depresji w ciąży? 
 Depresja w ciąży może dotykać kobiet na różne sposoby, a jej objawy mogą wahać się od łagodnych do ciężkich. U niektórych kobiet dominują objawy związane ze wzmożonym lękiem, u drugich objawy związane z obniżonym nastrojem. 
 
-Najczęstszymi objawami depresji w ciąży są:
+<strong>Najczęstszymi objawami depresji w ciąży są:</strong>
 - Uczucie smutku lub emocjonalnej pustki, które odczuwamy przez większą część dnia i prawie każdego dnia przez okres ponad 2 tygodni 
 - Uczucie bezradności i beznadziei, widzenie przyszłości w “czarnych barwach”
 - Lęk o swoje zdrowie i zdrowie dziecka
