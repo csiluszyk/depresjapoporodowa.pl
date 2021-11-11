@@ -92,7 +92,7 @@ Lekarz psychiatra przed włączeniem leków ocenia zyski i ewentualne ryzyko dla
 ## Dlaczego leczenie depresji w ciąży jest ważne? 
 Badania pokazują, że nieleczona depresja w ciąży może prowadzić do różnych powikłań, przedwczesnego porodu oraz niskiej masy urodzeniowej dziecka.
 
-Ważne jest, aby leczyć depresję ciążową również dlatego, że po urodzeniu dziecka jej objawy mogą się nasilić. Niestety dużą część kobiet z nieleczoną depresją ciążową dotyka później depresja poporodowa, która jeśli jest nieleczona, może wpływać na budowanie więzi matki z dzieckiem.
+Ważne jest, aby leczyć depresję ciążową również dlatego, że po urodzeniu dziecka jej objawy mogą się nasilić. Niestety dużą część kobiet z nieleczoną depresją ciążową dotyka później depresja poporodowa, która jeśli znowu jest nieleczona, może wpływać na budowanie więzi matki z dzieckiem.
 
 Nawet jeżeli Twoje objawy nie są obecnie mocno nasilone, musisz mieć na uwadze, że bez zapewnienia sobie odpowiedniego wsparcia, mogą się one pogłębić. Warto jest więc mimo wszystko udać się do lekarza, który będzie monitorował Twój stan zdrowia. Jeśli z kolei Twoje objawy są nasilone, a zwłaszcza gdy masz myśli samobójcze, powinnaś udać się do lekarza psychiatry niezwłocznie. 
 
