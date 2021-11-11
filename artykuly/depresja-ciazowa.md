@@ -52,7 +52,7 @@ Przyczyny depresji w ciąży nie są do końca znane, jednak istnieje kilka czyn
 - Kłopoty w związku, zwłaszcza bycie w związku przemocowym
 
 ## Dlaczego depresja ciążowa pozostaje często nierozpoznana? 
-Ciąża jest szczególnym momentem, w czasie którego w organizmie kobiety zachodzi wiele zmian fizycznych i hormonalnych. Większość kobiet w trakcie ciąży zmaga się z różnymi nieprzyjemnymi symptomami, jak poranne mdłości, zgaga, zaparcia, bóle mięśni itp. Objawy te oddziałują na inne sfery życia, mogą wpływać na apetyt, powodować zaburzenia snu oraz zmęczenie, co samo w sobie często sprawia, że mamy obniżony nastrój i czujemy się źle. 
+Ciąża jest szczególnym momentem, w czasie którego w organizmie kobiety zachodzi wiele zmian fizycznych i hormonalnych. Większość kobiet w trakcie ciąży zmaga się z różnymi nieprzyjemnymi symptomami, jak poranne mdłości, zgaga, zaparcia, bóle mięśni itp. Objawy te oddziaływują na inne sfery życia, mogą wpływać na apetyt, powodować zaburzenia snu oraz zmęczenie, co samo w sobie często sprawia, że mamy obniżony nastrój i czujemy się źle. 
 
 Dodatkowo hormony ciążowe mogą bezpośrednio wpływać na nasze emocje. Kobiety w trakcie ciąży mogą doświadczać niewielkich wahań nastroju, mogą być poirytowane i bardziej płaczliwe. 
 
