@@ -108,7 +108,7 @@ Kiedy zapewnisz już sobie wsparcie, możesz skoncentrować się na tym, jakie d
 - zadbaj o ruch - nawet niewielka aktywność pomaga w walce z depresją, ponieważ stymuluje wydzielanie endorfin i aktywizuje układ parasympatyczny (odpowiedzialny za relaks i odprężenie). Ćwicz tyle, na ile pozwala Ci Twój organizm - wyjdź na spacer, wejdź po schodach do domu, zapisz się na yogę dla ciężarnych. 
 - jedz zdrowo - nawet jeśli nie masz apetytu, staraj się przyrządzać sobie zdrowe jedzenie. Jedz częściej, ale mniejsze porcje. Pomoże to dostarczyć Tobie i Twojemu dziecku potrzebnych składników.
 - mów otwarcie jak się czujesz - porozmawiaj z kimś bliskim (partnerem, rodziną, przyjaciółmi) o swoich uczuciach. Zazwyczaj jesteśmy zaskoczeni, jak pozytywnie reaguje otoczenie, gdy otwarcie powiemy im, czego doświadczamy.
-- proś o pomoc - nie bierz na siebie zbyt dużo obowiązków, proś najbliższych o pomoc w codziennych obowiązkach
+- proś o pomoc - nie bierz na siebie zbyt dużo zadań, proś najbliższych o pomoc w codziennych obowiązkach
 - zauważ w jakich sytuacjach źle o sobie myślisz - osoby z depresją mają tendencję do myślenia o sobie źle ("To wszystko moja wina", "Wszyscy przeze mnie cierpią", "Będę złą matką"). Spróbuj z tymi myślami polemizować. Przede wszystkim pamiętaj, że nie jesteś winna temu, że chorujesz na depresję.
 
 
