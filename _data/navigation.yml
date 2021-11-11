@@ -30,6 +30,10 @@
   link: /informacje-dla-bliskich
 - name: Fakty i mity
   link: /fakty-i-mity-na-temat-depresji-poporodowej
+- name: Pozostałe artykuły
+  children:
+    - name: Depresja w ciąży
+      link: /artykuly/depresja-ciazowa
 - name: Materiały
   children:
 #    - name: Wywiady
