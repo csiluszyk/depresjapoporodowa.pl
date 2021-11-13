@@ -4,7 +4,7 @@ title: Depresja poporodowa a „baby blues”
 image: /images/baby-blues.jpg
 ---
 
-Baby blues (inaczej smutek poporodowy) to tymczasowe wahania nastroju, których największe nasilenie obserwuje się zazwyczaj po 3 do 5 dni po porodzie. Stan ten trwa kilka dni, nie dłużej jednak niż 2 tygodnie. Baby blues dotyka nawet 80% matek. Ze względu na tak częste występowanie nie uznaje się tego stanu za zaburzenie psychiczne. Przyjmuje się, że jest to naturalne, fizjologiczne zjawisko, wynikające prawdopodobnie z nagłych zmian hormonalnych, jakie zachodzą w ciele kobiety po porodzie. Dodatkowe przyczyny baby blues to najprawdopodobniej stres związany z nową sytuacją, zmęczenie, deprywacja snu oraz fizyczny ból, występujący po urodzeniu dziecka.
+Baby blues (inaczej smutek poporodowy) to tymczasowe wahania nastroju, których największe nasilenie obserwuje się zazwyczaj 3 do 5 dni po porodzie. Stan ten trwa kilka dni, nie dłużej jednak niż 2 tygodnie. Baby blues dotyka nawet 80% matek. Ze względu na tak częste występowanie nie uznaje się tego stanu za zaburzenie psychiczne. Przyjmuje się, że jest to naturalne, fizjologiczne zjawisko, wynikające prawdopodobnie z nagłych zmian hormonalnych, jakie zachodzą w ciele kobiety po porodzie. Dodatkowe przyczyny baby blues to najprawdopodobniej stres związany z nową sytuacją, zmęczenie, deprywacja snu oraz fizyczny ból, występujący po urodzeniu dziecka.
 
 ## Najczęstszymi symptomami baby blues są:
 
