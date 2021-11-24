@@ -1,0 +1,231 @@
+- question: Smutek i przygnębienie
+  answers:
+   - answer: Nie jestem smutny ani przygnębiony
+     value: 0
+   - answer: Często odczuwam smutek i przygnębienie
+     value: 1
+   - answer: Przeżywam stale smutek, nie mogę się od niego uwolnić
+     value: 2
+   - answer: Jestem stale smutny i nieszczęśliwy, jest to nie do wytrzymania
+     value: 3
+     
+- question: Martwienie się o przyszłość
+  answers:
+    - answer: Nie przejmuję się zbytnio swoją przyszłością
+      value: 0
+    - answer: Często martwię się o swoją przyszłość
+      value: 1
+    - answer: Obawiam się, że w przyszłości nic dobrego mnie nie czeka
+      value: 2
+    - answer: Czuję, że przyszłość jest beznadziejna i nic tego nie zmieni
+      value: 3
+  
+- question: Zaniedbywanie obowiązków
+  answers:
+    - answer: Sądzę, że nie popełniam większych zaniedbań
+      value: 0
+    - answer: Sądzę, że czynię więcej zaniedbań niż inni
+      value: 1
+    - answer: Kiedy zastanawiam się nad sobą, widzę mnóstwo błędów i zaniedbań
+      value: 2
+    - answer: Jestem zupełnie niewydolny i wszystko robię źle
+      value: 3
+    
+- question: Odczuwanie przyjemności
+  answers:
+    - answer: To co robię sprawia mi przyjemność
+      value: 0
+    - answer: Nie cieszy mnie to co robię
+      value: 1
+    - answer: Nic mi teraz nie daje prawdziwego zadowolenia
+      value: 2
+    - answer: Nie potrafię przeżywać zadowolenia i przyjemności. Wszystko mnie nuży
+      value: 3
+           
+- question: Poczucie winy
+  answers:
+    - answer: Nie czuję się winnym ani wobec siebie, ani wobec innych
+      value: 0
+    - answer: Dosyć często mam wyrzuty sumienia
+      value: 1
+    - answer: Bardzo często czuję, że zawiniłem
+      value: 2
+    - answer: Stale mam poczucie winy
+      value: 3
+          
+- question: Zasługiwanie na karę
+  answers:
+    - answer: Sądzę, że nie zasługuję na karę
+      value: 0
+    - answer: Sądzę, że zasługuję na karę
+      value: 1
+    - answer: Spodziewam się ukarania
+      value: 2
+    - answer: Wiem, że jestem karany
+      value: 3
+       
+- question: Zadowolenie z siebie
+  answers:
+    - answer: Jestem z siebie zadowolony
+      value: 0
+    - answer: Nie jestem z siebie zadowolony
+      value: 1
+    - answer: Czuję do siebie niechęć
+      value: 2
+    - answer: Nienawidzę siebie
+      value: 3
+      
+- question: Poczucie bycia gorszym od innych
+  answers:
+    - answer: Nie czuję się gorszy od innych ludzi
+      value: 0
+    - answer: Zarzucam sobie, że jestem nieudolny i popełniam błędy
+      value: 1
+    - answer: Stale potępiam siebie za popełnione błędy
+      value: 2
+    - answer: Winię siebie za wszystko zło, które istnieje
+      value: 3
+       
+- question: Myśli samobójcze i pragnienie śmierci
+  answers:
+    - answer: Nie myślę o odebraniu sobie życia
+      value: 0
+    - answer: Myślę o samobójstwie - ale nie mógłbym tego dokonać
+      value: 1
+    - answer: Pragnę odebrać sobie życie
+      value: 2
+    - answer: Popełnię samobójstwo, jak będzie odpowiednia sposobność
+      value: 3
+       
+- question: Płaczliwość
+  answers:
+    - answer: Nie płaczę częściej niż zwykle
+      value: 0
+    - answer: Płaczę częściej niż dawniej
+      value: 1
+    - answer: Ciągle chce mi się płakać
+      value: 2
+    - answer: Chciałbym płakać, lecz nie jestem w stanie
+      value: 3
+     
+- question: Rozdrażnienie i nerwowość
+  answers:
+    - answer: Nie jestem bardziej podenerwowany niż dawniej
+      value: 0
+    - answer: Jestem bardziej nerwowy niż dawniej
+      value: 1
+    - answer: Stale jestem zdenerwowany lub rozdrażniony
+      value: 2
+    - answer: Wszystko co dawniej mnie drażniło, stało się obojętne
+      value: 3
+     
+- question: Utrata zainteresowań kontaktami społecznymi
+  answers:
+    - answer: Ludzie interesują mnie jak dawniej
+      value: 0
+    - answer: Interesuję się ludźmi mniej niż dawniej
+      value: 1
+    - answer: Utraciłem większość zainteresowań innymi ludźmi
+      value: 2
+    - answer: Utraciłem wszelkie zainteresowania innymi ludźmi
+      value: 3
+      
+- question: Trudności w podejmowaniu decyzji
+  answers:
+    - answer: Decyzję podejmuję łatwo, tak jak dawniej
+      value: 0
+    - answer: Częściej niż kiedyś odwlekam podjęcie decyzji
+      value: 1
+    - answer: Mam dużo trudności z podjęciem decyzji
+      value: 2
+    - answer: Nie jestem w stanie podjąć żadnej decyzji
+      value: 3
+     
+- question: Poczucie bycia atrakcyjnym
+  answers:
+    - answer: Sądzę, że wyglądam nie gorzej niż dawniej
+      value: 0
+    - answer: Martwię się tym, że wyglądam staro i nieatrakcyjnie
+      value: 1
+    - answer: Czuję, że wyglądam coraz gorzej
+      value: 2
+    - answer: Jestem przekonany, że wyglądam okropnie i odpychająco
+      value: 3
+      
+- question: Trudność z wykonywaniem różnych prac i zadań
+  answers:
+    - answer: Mogę pracować jak dawniej
+      value: 0
+    - answer: Z trudem rozpoczynam każdą czynność
+      value: 1
+    - answer: Z wielkim wysiłkiem zmuszam się do zrobienia czegokolwiek
+      value: 2
+    - answer: Nie jestem w stanie nic robić
+      value: 3
+     
+- question: Kłopoty ze snem
+  answers:
+    - answer: Sypiam dobrze, jak zwykle
+      value: 0
+    - answer: Sypiam gorzej niż dawniej
+      value: 1
+    - answer: Rano budzę się 1-2 godzin za wcześnie i trudno jest mi ponownie usnąć
+      value: 2
+    - answer: Budzę się kilka godzin za wcześnie i nie mogę usnąć
+      value: 3
+      
+- question: Męczliwość
+  answers:
+    - answer: Nie męczę się bardziej niż dawniej
+      value: 0
+    - answer: Męczę się znacznie łatwiej niż kiedyś
+      value: 1
+    - answer: Męczę się wszystkim co robię
+      value: 2
+    - answer: Jestem zbyt zmęczony, aby cokolwiek robić
+      value: 3
+      
+- question: Zmiany w apetycie 
+  answers:
+    - answer: Mam apetyt nie gorszy niż dawniej
+      value: 0
+    - answer: Mam trochę gorszy apetyt
+      value: 1
+    - answer: Apetyt mam wyraźnie gorszy
+      value: 2
+    - answer: Nie mam w ogóle apetytu
+      value: 3
+     
+- question: W ciągu ostatniego miesiąca nie stosowałem diety, aby schudnąć, lecz straciłem na wadze:
+  answers:
+    - answer: Nie tracę na wadze ciała (w okresie ostatniego miesiąca)
+      value: 0
+    - answer: Straciłem na wadze więcej niż 2 kg
+      value: 1
+    - answer: Straciłem na wadze więcej niż 4 kg
+      value: 2
+    - answer: Straciłem na wadze więcej niż 6 kg
+      value: 3
+     
+- question: Martwienie się stanem swojego zdrowia
+  answers:
+    - answer: Nie martwię się o swoje zdrowie bardziej niż zawsze
+      value: 0
+    - answer: Martwię się swoimi dolegliwościami, mam rozstrój żołądka, zaparcie, bóle
+      value: 1
+    - answer: Stan mego zdrowia bardzo mnie martwi, często o tym myślę
+      value: 2
+    - answer: Tak bardzo martwię się o swoje zdrowie, że nie mogę o niczym innym myśleć
+      value: 3
+     
+- question: Kłopoty z potencją
+  answers:
+    - answer: Moje zainteresowania seksualne nie uległy zmianom
+      value: 0
+    - answer: Jestem mniej zainteresowany sprawami płci (seksu).
+      value: 1
+    - answer: Seks wyraźnie mniej mnie interesuje
+      value: 2
+    - answer: Zupełnie straciłem zainteresowanie sprawami seksu
+      value: 3
+ 
