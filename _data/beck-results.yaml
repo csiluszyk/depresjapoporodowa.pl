@@ -1,1 +1,11 @@
-fma;
+- result: "Możesz doświadczać chwilowego obniżenia nastroju, jednak najpewniej nie jest to depresja. Jeśli nieprzyjemne objawy będą się utrzymywać, możesz powtórzyć test po 7 dniach i porównać wyniki. 
+Ważne! Jeżeli w pytaniu 9 zaznaczyłeś/łaś, że masz myśli samobójcze, mimo wszystko skontaktuj się z lekarzem psychiatrą. W sytuacji zagrożenia życia zadzwoń na numer ratunkowy (tel. 112)"
+
+- result: "Możliwe, że doświadczasz lekkiej depresji. Aby to potwierdzić lub wykluczyć udaj się do psychologa lub psychiatry. Łagodne objawy depresji dobrze odpowiadają na psychoterapię. 
+Ważne! Jeżeli w pytaniu 9 zaznaczyłeś/łaś, że masz myśli samobójcze, niezwłocznie skontaktuj się z lekarzem psychiatrą. W sytuacji zagrożenia życia zadzwoń na numer ratunkowy (tel. 112)"
+
+- result: "Najprawdopodobniej cierpisz na depresję o umiarkowanym nasileniu. Nie zwlekaj z udaniem się do lekarza psychiatry (jeśli czas oczekiwania na wizytę jest długi udaj się do lekarza rodzinnego lub psychologa). Szybkie zapewnienie Ci profesjonalnego wsparcia może zatrzymać rozwój choroby. Psychoterapia jest leczeniem pierwszego wyboru, jednak czasami konieczne może być włączenie również leczenia farmakologicznego. O tym, jakie leczenie w Twoim przypadku jest wskazane, dowiesz się po rozmowie z lekarzem psychiatrą.
+Ważne! Jeżeli w pytaniu 9 zaznaczyłeś/łaś, że masz myśli samobójcze, niezwłocznie (tego samego dnia) skontaktuj się z lekarzem psychiatrą. W sytuacji zagrożenia życia zadzwoń na numer ratunkowy (tel. 112)"
+
+- result: "Wiele wskazuje, że cierpisz na ciężką depresję. Jak najszybciej udaj się do lekarza psychiatry (jeśli jest długi czas oczekiwania na wizytę, udaj się do lekarza rodzinnego lub psychologa). Leczenie ciężkiej depresji polega na połączeniu psychoterapii oraz leczenia farmakologicznego. W sytuacji zagrożenia życia może być konieczne leczenie szpitalne.  
+Ważne! Jeśli masz myśli samobójcze udaj się niezwłocznie (tego samego dnia) po pomoc do specjalisty, a w sytuacji zagrożenia życia zadzwoń na numer ratunkowy (tel. 112)"
