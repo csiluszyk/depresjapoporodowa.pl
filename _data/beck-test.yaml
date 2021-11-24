@@ -196,7 +196,7 @@
     - answer: Nie mam w ogóle apetytu
       value: 3
      
-- question: W ciągu ostatniego miesiąca nie stosowałem diety, aby schudnąć, lecz straciłem na wadze:
+- question: W ciągu ostatniego miesiąca nie stosowałem diety, aby schudnąć, lecz straciłem na wadze
   answers:
     - answer: Nie tracę na wadze ciała (w okresie ostatniego miesiąca)
       value: 0

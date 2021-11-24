@@ -253,7 +253,7 @@
 
 			});
 
-	// Test.
+	// Tests.
 	$("form[name='esdp-form']").submit(function(event) {
 		event.preventDefault();
 		var score = $("form[name='esdp-form'] input[type='radio']:checked").map(function () {
@@ -277,6 +277,29 @@
 			$("#esdp-result-4").show();
         }
 		$("#esdp-result").show();
+		window.scrollTo(0,document.body.scrollHeight);
+	});
+
+	$("form[name='beck-form']").submit(function(event) {
+		event.preventDefault();
+		var score = $("form[name='beck-form'] input[type='radio']:checked").map(function () {
+			return parseInt($(this).val(), 10);
+		}).get().reduce(function (sum, curr) {
+			return sum + curr;
+		}, 0);
+
+		$(".beck-result").hide();
+		$("#beck-score").text(score);
+		if (score < 12) {
+			$("#beck-result-0").show();
+		} else if (score < 20) {
+			$("#beck-result-1").show();
+		} else if (score < 26) {
+			$("#beck-result-2").show();
+		} else {
+			$("#beck-result-4").show();
+		}
+		$("#beck-result").show();
 		window.scrollTo(0,document.body.scrollHeight);
 	});
 

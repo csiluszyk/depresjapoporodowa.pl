@@ -34,6 +34,8 @@
   children:
     - name: Depresja w ciąży
       link: /artykuly/depresja-ciazowa
+    - name: Skala Depresji Becka
+      link: /artykuly/test-na-depresje
 - name: Materiały
   children:
 #    - name: Wywiady

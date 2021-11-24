@@ -1,0 +1,47 @@
+---
+layout: page
+title: Test na depresję
+image: /images/test.jpg
+---
+
+<h2>Skala Depresji Becka</h2>
+<div class="box">
+    <p>
+        Inwentarz Depresji Becka (nazywany również Skalą Depresji Becka / Testem
+        Becka), to przesiewowe narzędzie pomagające wyłapać z otoczenia osoby,
+        które mogą cierpieć na depresję. Kwestionariusz nie postawi diagnozy (to
+        może zrobić jedynie lekarz), ale może być dla Ciebie pewną wskazówkę.
+        Jeśli Twój wynik sugeruje, aby udać się do lekarza lub psychologa, nie
+        zwlekaj z tym. Nieleczona depresja może się pogłębiać i mieć negatywne
+        skutki dla całego Twojego funkcjonowania.
+    </p>
+    <p>
+        Test Becka jest często wykorzystywany w gabinetach psychologów i
+        psychiatrów. Możesz więc przed pójściem na umówioną wizytę, wydrukować i
+        wypełnić kwestionariusz, aby na spotkaniu pokazać specjaliście uzyskane
+        wyniki (pobierz pdf).
+    </p>
+</div>
+<form name="beck-form">
+    <p><strong>Przy każdym zagadnieniu wybierz stwierdzenie, które jest najbliższe temu, jak się czułeś w ciągu ostatnich 14 dni</strong>.</p>
+    <ol>
+    {% for item in site.data.beck-test %}
+        <li><fieldset>
+        <legend>{{ item.question }}</legend>
+        {% assign outer_index = forloop.index %}
+        {% for subitem in item.answers %}
+            <div><input type="radio" id="q{{outer_index}}-a{{forloop.index}}" name="q{{ outer_index }}" value="{{ subitem.value }}" required>
+            <label for="q{{outer_index}}-a{{forloop.index}}">{{ subitem.answer }}</label></div>
+        {% endfor %}
+        </fieldset></li>
+    {% endfor %}
+    </ol>
+    <button type="submit">Sprawdź wynik</button>
+</form>
+<div class="box" id="beck-result" hidden>
+<h3>Twój wynik: <span id="beck-score">0</span> pkt.</h3>
+
+{% for item in site.data.beck-results %}
+    <p id="beck-result-{{ forloop.index0 }}" class="beck-result" hidden>{{ item.result }}</p>
+{% endfor %}
+</div>
