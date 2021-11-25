@@ -40,7 +40,7 @@ Bycie niewyspanym, zmęczonym, poirytowanym jest w dużej mierze wpisane w rodzi
 
 Objawy depresji poporodowej i jej nasilenie u każdego mężczyzny mogą wyglądać inaczej. U części ojców depresja to przede wszystkim obniżony nastrój i brak energii, u innych lęk, u jeszcze innych poirytowanie i agresja.
 
-Najczęstsze objawy depresji poporodowej u ojców to:
+<strong>Najczęstsze objawy depresji poporodowej u ojców to:</strong>
 - smutek, poczucie braku sensu
 - utrata zainteresowań
 - poczucie winy, przeświadczenie, że nie jest się dobrym ojcem/ mężem/ pracownikiem 
