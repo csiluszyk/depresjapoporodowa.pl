@@ -115,20 +115,13 @@ Kiedy zapewnisz już sobie wsparcie, możesz skoncentrować się na tym, jakie d
 Jeśli chcesz wiedzieć więcej o tym, jak możesz sobie pomóc, przeczytaj [Samopomoc w depresji poporodowej](https://depresjapoporodowa.pl/leczenie/samopomoc). Objawy w obu tych zaburzeniach są podobne, dlatego rady, jak z nimi walczyć, również są zbliżone. 
 
 ## Więcej informacji znajdziesz:
-<https://www.embryotox.de/arzneimittel/>{:target="_blank"}
-
-<https://www.ouh.nhs.uk/patient-guide/leaflets/files/130125perinatal.pdf>{:target="_blank"}
-
-<https://www.tommys.org/pregnancy-information/im-pregnant/mental-wellbeing/depression-pregnancy>{:target="_blank"}
-
-<https://americanpregnancy.org/healthy-pregnancy/pregnancy-health-wellness/depression-during-pregnancy/>{:target="_blank"}
-
-Ashley, J. M., Harper, B. D., Arms-Chavez, C. J., & LoBello, S. G. (2016). Estimated prevalence of antenatal depression in the US population. Archives of women's mental health, 19(2), 395-400.
-
-Gentile, S. (2017). Untreated depression during pregnancy: Short-and long-term effects in offspring. A systematic review. Neuroscience, 342, 154-166.
-
-Jarde, A., Morais, M., Kingston, D., Giallo, R., MacQueen, G. M., Giglia, L., ... & McDonald, S. D. (2016). Neonatal outcomes in women with untreated antenatal depression compared with women without depression: a systematic review and meta-analysis. JAMA psychiatry, 73(8), 826-837.
-
-Míguez, M. C., & Vázquez, M. B. (2021). Risk factors for antenatal depression: A review. World Journal of Psychiatry, 11(7), 325.
+- <https://www.embryotox.de/arzneimittel/>{:target="_blank"}
+- <https://www.ouh.nhs.uk/patient-guide/leaflets/files/130125perinatal.pdf>{:target="_blank"}
+- <https://www.tommys.org/pregnancy-information/im-pregnant/mental-wellbeing/depression-pregnancy>{:target="_blank"}
+- <https://americanpregnancy.org/healthy-pregnancy/pregnancy-health-wellness/depression-during-pregnancy/>{:target="_blank"}
+- Ashley, J. M., Harper, B. D., Arms-Chavez, C. J., & LoBello, S. G. (2016). Estimated prevalence of antenatal depression in the US population. Archives of women's mental health, 19(2), 395-400.
+- Gentile, S. (2017). Untreated depression during pregnancy: Short-and long-term effects in offspring. A systematic review. Neuroscience, 342, 154-166.
+- Jarde, A., Morais, M., Kingston, D., Giallo, R., MacQueen, G. M., Giglia, L., ... & McDonald, S. D. (2016). Neonatal outcomes in women with untreated antenatal depression compared with women without depression: a systematic review and meta-analysis. JAMA psychiatry, 73(8), 826-837.
+- Míguez, M. C., & Vázquez, M. B. (2021). Risk factors for antenatal depression: A review. World Journal of Psychiatry, 11(7), 325.
 
 
