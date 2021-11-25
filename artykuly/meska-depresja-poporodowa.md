@@ -98,23 +98,14 @@ Przede wszystkim spróbuj z mężczyzną otwarcie porozmawiać. Powiedz jakie za
 Więcej porad odnośnie tego, jak rozmawiać z osobą z depresją poporodową znajdziesz tutaj: Informacje dla bliskich (https://depresjapoporodowa.pl/informacje-dla-bliskich). 
 
 
-## Jeśli chcesz wiedzieć więcej:
-Williams, M. (2018). Daddy Blues: Postnatal Depression and Fatherhood. Welbeck Publishing Group.
-
-<https://www.parents.com/parenting/dads/sad-dads/>{:target="_blank"}
-
-<https://www.tommys.org/pregnancy-information/blogs-and-stories/after-birth/tommys-midwives/postnatal-depression-men>{:target="_blank"}
-
-Bakermans‐Kranenburg, M. J., Lotz, A., Alyousefi‐van Dijk, K., & van IJzendoorn, M. (2019). Birth of a father: Fathering in the first 1,000 days. Child Development Perspectives, 13(4), 247-253.
-
-Berg, S. J., & Wynne-Edwards, K. E. (2001, June). Changes in testosterone, cortisol, and estradiol levels in men becoming fathers. In Mayo Clinic Proceedings (Vol. 76, No. 6, pp. 582-592). Elsevier.
-
-Paulson, J. F., & Bazemore, S. D. (2010). Prenatal and postpartum depression in fathers and its association with maternal depression: a meta-analysis. Jama, 303(19), 1961-1969.
-
-Sethna, V., Murray, L., Netsi, E., Psychogiou, L., & Ramchandani, P. G. (2015). Paternal depression in the postnatal period and early father–infant interactions. Parenting, 15(1), 1-8.
-
-Koch, S., De Pascalis, L., Vivian, F., Meurer Renner, A., Murray, L., & Arteche, A. (2019). Effects of male postpartum depression on father–infant interaction: The mediating role of face processing. Infant mental health journal, 40(2), 263-276.
-
-Eddy, B., Poll, V., Whiting, J., & Clevesy, M. (2019). Forgotten fathers: Postpartum depression in men. Journal of family issues, 40(8), 1001-1017.
-
-Scarff, J. R. (2019). Postpartum depression in men. Innovations in clinical neuroscience, 16(5-6), 11.
+## Więcej informacji znajdziesz:
+- Williams, M. (2018). Daddy Blues: Postnatal Depression and Fatherhood. Welbeck Publishing Group.
+- <https://www.parents.com/parenting/dads/sad-dads/>{:target="_blank"}
+- <https://www.tommys.org/pregnancy-information/blogs-and-stories/after-birth/tommys-midwives/postnatal-depression-men>{:target="_blank"}
+- Bakermans‐Kranenburg, M. J., Lotz, A., Alyousefi‐van Dijk, K., & van IJzendoorn, M. (2019). Birth of a father: Fathering in the first 1,000 days. Child Development Perspectives, 13(4), 247-253.
+- Berg, S. J., & Wynne-Edwards, K. E. (2001, June). Changes in testosterone, cortisol, and estradiol levels in men becoming fathers. In Mayo Clinic Proceedings (Vol. 76, No. 6, pp. 582-592). Elsevier.
+- Paulson, J. F., & Bazemore, S. D. (2010). Prenatal and postpartum depression in fathers and its association with maternal depression: a meta-analysis. Jama, 303(19), 1961-1969.
+- Sethna, V., Murray, L., Netsi, E., Psychogiou, L., & Ramchandani, P. G. (2015). Paternal depression in the postnatal period and early father–infant interactions. Parenting, 15(1), 1-8.
+- Koch, S., De Pascalis, L., Vivian, F., Meurer Renner, A., Murray, L., & Arteche, A. (2019). Effects of male postpartum depression on father–infant interaction: The mediating role of face processing. Infant mental health journal, 40(2), 263-276.
+- Eddy, B., Poll, V., Whiting, J., & Clevesy, M. (2019). Forgotten fathers: Postpartum depression in men. Journal of family issues, 40(8), 1001-1017.
+- Scarff, J. R. (2019). Postpartum depression in men. Innovations in clinical neuroscience, 16(5-6), 11.
