@@ -6,7 +6,7 @@ image:
 
 Nie jest prawdą, że na depresję poporodową zapadają wyłącznie kobiety. Blisko <strong>1 na 10</strong> świeżo upieczonych ojców zmaga się z męską / ojcowską depresją poporodową (<strong>paternal postpartum depression</strong>). Niestety większość z nich cierpi po cichu, samotnie, bez oficjalnej diagnozy i potrzebnego wsparcia.
 
-## Pomijani mężczyźni 
+## Pomijani ojcowie
 Czy zastanawialiście się kiedyś, ile uwagi i wsparcia dajemy młodym ojcom? Można by to zobrazować tak:
 
 
