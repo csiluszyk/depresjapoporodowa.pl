@@ -1,18 +1,21 @@
 ---
 layout: page
 title: Depresja poporodowa u mężczyzn
-image: 
+image: /images/meska-depresja-poporodowa.jpg
 ---
 
-Nie jest prawdą, że na depresję poporodową zapadają wyłącznie kobiety. Blisko <strong>1 na 10</strong> świeżo upieczonych ojców zmaga się z męską / ojcowską depresją poporodową (<strong>paternal postpartum depression</strong>). Niestety większość z nich cierpi po cichu, samotnie, bez oficjalnej diagnozy i potrzebnego wsparcia.
+Nie jest prawdą, że na depresję poporodową zapadają wyłącznie kobiety. Blisko <strong>1 na 10</strong> świeżo upieczonych ojców zmaga się z męską / ojcowską depresją poporodową (ang. *paternal postpartum depression*). Niestety większość z nich cierpi po cichu, samotnie, bez oficjalnej diagnozy i potrzebnego wsparcia.
 
 ## Pomijani ojcowie
 Czy zastanawialiście się kiedyś, ile uwagi i wsparcia dajemy młodym ojcom? Można by to zobrazować tak:
 
+<span class="image fit">
+![](/images/meska-depresja-poporodowa-diagram.png)
+</span>
 
 Po przyjściu dziecka na świat uwaga rodziców, rodziny, otoczenia, specjalistów... koncentruje się przede wszystkim na niemowlęciu. Jest to naturalne, ponieważ jest ono bezbronne wobec świata i całkowicie od nas zależne. 
 
-Kobieta - przynajmniej od razu po narodzinach dziecka - otrzymuje trochę uwagi (choć zazwyczaj wsparcie to nie jest wystarczające!!!),  ponieważ musi ona dojść do siebie po trudach porodu. W całej tej układance najbardziej pomijanym elementem pozostają ojcowie. A przecież bycie ojcem to ogromna rola, pochłaniająca wiele godzin, wymagająca zdobycia nowych umiejętności i pogodzenia różnych obowiązków. 
+Kobieta — przynajmniej od razu po narodzinach dziecka — otrzymuje trochę uwagi (choć zazwyczaj wsparcie to nie jest wystarczające!!!), ponieważ musi ona dojść do siebie po trudach porodu. W całej tej układance najbardziej pomijanym elementem pozostają ojcowie. A przecież bycie ojcem to ogromna rola, pochłaniająca wiele godzin, wymagająca zdobycia nowych umiejętności i pogodzenia różnych obowiązków. 
 
 Około <strong>15% młodych matek</strong> choruje na depresję poporodową oraz <strong>ok. 8-10% ojców</strong>. Depresja może pojawić się bezpośrednio po urodzeniu dziecka, jak i kilka tygodni / miesięcy (do 1 roku) później.  Dlatego tak ważne jest, aby otoczenie i specjaliści obserwowali zdrowie psychiczne obojga rodziców. 
 
@@ -33,7 +36,7 @@ Istnieją pewne <strong>czynniki ryzyka</strong>, które zwiększają szansę za
 - trudności finansowe
 - małe wsparcie otoczenia
 - niedawne stresujące wydarzenia np. utrata kogoś bliskiego, zmiana miejsca zamieszkania
-- młody wiek - ojcowie poniżej 25 roku życia są bardziej narażeni na rozwój depresji poporodowej
+- młody wiek — ojcowie poniżej 25 roku życia są bardziej narażeni na rozwój depresji poporodowej
 
 ## Objawy męskiej depresji
 Bycie niewyspanym, zmęczonym, poirytowanym jest w dużej mierze wpisane w rodzicielstwo. Jeśli jednak te objawy się utrzymują i zaburzają nasze codzienne funkcjonowanie lub negatywnie wpływają na naszą relację z dzieckiem lub partnerką, mogą być to pierwsze sygnały depresji. 
@@ -43,7 +46,7 @@ Objawy depresji poporodowej i jej nasilenie u każdego mężczyzny mogą wygląd
 <strong>Najczęstsze objawy depresji poporodowej u ojców to:</strong>
 - smutek, poczucie braku sensu
 - utrata zainteresowań
-- poczucie winy, przeświadczenie, że nie jest się dobrym ojcem/ mężem/ pracownikiem 
+- poczucie winy, przeświadczenie, że nie jest się dobrym ojcem / mężem / pracownikiem 
 - lęk o przyszłość
 - uczucie ciągłego zmęczenia
 - bezsenność lub nadmierna senność
@@ -52,7 +55,7 @@ Objawy depresji poporodowej i jej nasilenie u każdego mężczyzny mogą wygląd
 - agresja słowna lub fizyczna 
 - sięganie po używki, zwłaszcza nadużywanie alkoholu i narkotyków
 - zostawanie w pracy po godzinach 
-- zaburzenia seksualne - spadek libido lub nawiązywanie przygodnych kontaktów seksualnych 
+- zaburzenia seksualne — spadek libido lub nawiązywanie przygodnych kontaktów seksualnych 
 - zachowania autodestrukcyjne, ryzykowne 
 - myśli samobójcze, próby samobójcze
 
@@ -66,7 +69,7 @@ Leczenie depresji poporodowej u ojców wygląda podobnie jak leczenie depresji p
 
 Trzeba mieć na uwadze, że depresja nie minie sama (a przynajmniej nie szybko), może zaś się pogłębiać. Im szybciej uzyskamy pomoc, tym szybciej zwalczymy chorobę. Nieleczona depresja poporodowa może rzutować na naszą relację z dzieckiem oraz partnerką. 
 
-Jeżeli podejrzewasz, że cierpisz na ojcowską depresję poporodową możesz wykonać krótki test (dostępny bezpłatnie [tutaj](https://depresjapoporodowa.pl/artykuly/test-na-depresje)). Skala Depresji Becka nie zastąpi wprawdzie badania lekarskiego, jednak może być dla Ciebie pewną wskazówką. Jeżeli wyniki badania sugerują skontaktowanie się z lekarzem, nie zwlekaj z udaniem się do psychiatry (jeżeli do psychiatry w Twojej okolicy są długie kolejki możesz się również udać do lekarza rodzinnego lub psychologa). 
+Jeżeli podejrzewasz, że cierpisz na ojcowską depresję poporodową możesz wykonać krótki test (dostępny bezpłatnie [tutaj](/artykuly/test-na-depresje)). Skala Depresji Becka nie zastąpi wprawdzie badania lekarskiego, jednak może być dla Ciebie pewną wskazówką. Jeżeli wyniki badania sugerują skontaktowanie się z lekarzem, nie zwlekaj z udaniem się do psychiatry (jeżeli do psychiatry w Twojej okolicy są długie kolejki możesz się również udać do lekarza rodzinnego lub psychologa). 
 
 <div class="box">
 Nie jest prawdą, że "prawdziwy mężczyzna" nie choruje na depresję, ponieważ sam potrafi sobie poradzić ze swoimi problamami. Każdy z nas - kobieta, mężczyzna, starzec, młody - potrzebuje czasami pomocy i wsparcia.
@@ -82,20 +85,18 @@ Poniżej znajdziesz kilka sposobów, jak możesz zadbać o siebie w czasie walki
 - **nie bierz na siebie zbyt wielu obowiązków**, poproś bliskich o wsparcie
 - **zadbaj o czas 1:1 z dzieckiem** - staraj się codziennie znaleźć chwilę na zabawę z dzieckiem. Możesz je zabrać na spacer, ponosić w chuście, wykąpać... Zbudowanie więzi ojcowskiej z dzieckiem wymaga czasu i zaangażowania, nie zniechęcaj się trudnościami występującymi na początku.
 
----
-
-### Pamiętaj!
-Depresja nie jest oznaką słabości, braku charakteru, czy nieodpowiedzialności. Depresja to choroba, która powoduje zmiany w funkcjonowaniu Twojego mózgu. Z odpowiednim wsparciem i pomocą można jednak przywrócić Ci  dawną"normalność". Poproś o pomoc - to najbardziej męska rzecz, jaką można zrobić w kryzysie.
-
----
+<div class="box">
+<h3>Pamiętaj!</h3>
+Depresja nie jest oznaką słabości, braku charakteru, czy nieodpowiedzialności. Depresja to choroba, która powoduje zmiany w funkcjonowaniu Twojego mózgu. Z odpowiednim wsparciem i pomocą można jednak przywrócić Ci dawną „normalność”. Poproś o pomoc-to najbardziej męska rzecz, jaką można zrobić w kryzysie.
+</div>
 
 
 ## Jak wspierać mężczyznę w depresji? - Informacje dla bliskich 
 Czasami otoczeniu może być ciężko zrozumieć zachowanie mężczyzny, zwłaszcza jeżeli depresja manifestuje się w postaci zachowań agresywnych czy nadużywania alkoholu. Choć należy wtedy powiedzieć mężczyźnie, że nie akceptuje się jego zachowania, nie powinno się go potępiać jako osoby. Zamiast oceniać, spróbuj zrozumieć. Zamiast piętnować, zaoferuj wsparcie. 
 
-Przede wszystkim spróbuj z mężczyzną otwarcie porozmawiać. Powiedz jakie zachowania Cię niepokoją. Następnie zasugeruj wizytę u specjalisty (psychiatry / lekarza rodzinnego / psychologa) lub przynajmniej poproś o wykonanie testu ([Skala Depresji Becka](https://depresjapoporodowa.pl/artykuly/test-na-depresje)). Jeśli mężczyzna ma trudność w rozmawianiu o tym, jakich emocji doświadcza, zacznij rozmowę od omówienia objawów fizycznych (bezsenności, fizycznego bólu, braku energii itp.). Zazwyczaj objawy fizyczne są łatwiejsze do zauważenia i wyrażenia, i jednocześnie stanowią często dobry początek do rozwinięcia głębszej rozmowy dotyczącej uczuć. 
+Przede wszystkim spróbuj z mężczyzną otwarcie porozmawiać. Powiedz jakie zachowania Cię niepokoją. Następnie zasugeruj wizytę u specjalisty (psychiatry / lekarza rodzinnego / psychologa) lub przynajmniej poproś o wykonanie testu ([Skala Depresji Becka](/artykuly/test-na-depresje)). Jeśli mężczyzna ma trudność w rozmawianiu o tym, jakich emocji doświadcza, zacznij rozmowę od omówienia objawów fizycznych (bezsenności, fizycznego bólu, braku energii itp.). Zazwyczaj objawy fizyczne są łatwiejsze do zauważenia i wyrażenia, i jednocześnie stanowią często dobry początek do rozwinięcia głębszej rozmowy dotyczącej uczuć. 
 
-Więcej porad odnośnie tego, jak rozmawiać z osobą z depresją poporodową znajdziesz tutaj: [Informacje dla bliskich](https://depresjapoporodowa.pl/informacje-dla-bliskich). 
+Więcej porad odnośnie tego, jak rozmawiać z osobą z depresją poporodową znajdziesz tutaj: [Informacje dla bliskich](/informacje-dla-bliskich). 
 
 
 ## Więcej informacji znajdziesz:

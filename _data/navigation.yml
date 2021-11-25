@@ -34,6 +34,8 @@
   children:
     - name: Depresja w ciąży
       link: /artykuly/depresja-ciazowa
+    - name: Męska depresja poporodowa
+      link: /artykuly/meska-depresja-poporodowa
     - name: Skala Depresji Becka
       link: /artykuly/test-na-depresje
 - name: Materiały
