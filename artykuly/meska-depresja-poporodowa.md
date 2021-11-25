@@ -95,7 +95,7 @@ Czasami otoczeniu może być ciężko zrozumieć zachowanie mężczyzny, zwłasz
 
 Przede wszystkim spróbuj z mężczyzną otwarcie porozmawiać. Powiedz jakie zachowania Cię niepokoją. Następnie zasugeruj wizytę u specjalisty (psychiatry / lekarza rodzinnego / psychologa) lub przynajmniej poproś o wykonanie testu ([Skala Depresji Becka](https://depresjapoporodowa.pl/artykuly/test-na-depresje)). Jeśli mężczyzna ma trudność w rozmawianiu o tym, jakich emocji doświadcza, zacznij rozmowę od omówienia objawów fizycznych (bezsenności, fizycznego bólu, braku energii itp.). Zazwyczaj objawy fizyczne są łatwiejsze do zauważenia i wyrażenia, i jednocześnie stanowią często dobry początek do rozwinięcia głębszej rozmowy dotyczącej uczuć. 
 
-Więcej porad odnośnie tego, jak rozmawiać z osobą z depresją poporodową znajdziesz tutaj: Informacje dla bliskich (https://depresjapoporodowa.pl/informacje-dla-bliskich). 
+Więcej porad odnośnie tego, jak rozmawiać z osobą z depresją poporodową znajdziesz tutaj: [Informacje dla bliskich](https://depresjapoporodowa.pl/informacje-dla-bliskich). 
 
 
 ## Więcej informacji znajdziesz:
