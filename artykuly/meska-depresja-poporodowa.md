@@ -57,7 +57,7 @@ Najczęstsze objawy depresji poporodowej u ojców to:
 - myśli samobójcze, próby samobójcze
 
 <div class="box">
-Depresja poporodowa u mężczyzn często manifestuje się odmiennie niż u kobiet. Jest to związane z odmiennymi sposobami radzenia sobie ze stresem, które w dużej mierze są uwarunkowane biologicznie i kulturowo.
+Depresja poporodowa u mężczyzn często manifestuje się odmiennie niż u kobiet. Jest to związane z odmiennymi sposobami radzenia sobie ze stresem, które w dużej mierze uwarunkowane są biologicznie i kulturowo.
 </div>
 
 
