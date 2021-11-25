@@ -74,13 +74,13 @@ Nie jest prawdą, że "prawdziwy mężczyzna" nie choruje na depresję, poniewa�
 
 ## Jak radzić sobie z depresją?
 Poniżej znajdziesz kilka sposobów, jak możesz zadbać o siebie w czasie walki z depresją:
-- ćwicz - wysiłek pomoże Ci szybciej zmetabolizować adrenalinę (jej poziom przy depresji często jest podwyższony). Dodatkowo podczas wysiłku wydzielają się endorfiny, które pomogą Twojemu ciału się odprężyć. 
-- odpoczywaj i ucinaj drzemki, kiedy tylko to możliwe 
-- jedz zdrowo
-- unikaj używek, hazardu, brania nadgodzin w pracy
-- mów otwarcie o swoich emocjach - dla wielu mężczyzn szczera rozmowa z przyjacielem, partnerką, rodziną jest bardzo pomocna w rozładowaniu napięcia
-- nie bierz na siebie zbyt wielu obowiązków, poproś bliskich o wsparcie
-- zadbaj o czas 1:1 z dzieckiem - staraj się codziennie znaleźć chwilę na zabawę z dzieckiem. Możesz je zabrać na spacer, ponosić w chuście, wykąpać... Zbudowanie więzi ojcowskiej z dzieckiem wymaga czasu i zaangażowania, nie zniechęcaj się trudnościami występującymi na początku.
+- **ćwicz** - wysiłek pomoże Ci szybciej zmetabolizować adrenalinę (jej poziom przy depresji często jest podwyższony). Dodatkowo podczas wysiłku wydzielają się endorfiny, które pomogą Twojemu ciału się odprężyć. 
+- **odpoczywaj i ucinaj drzemki**, kiedy tylko to możliwe 
+- **jedz zdrowo**
+- **unikaj używek, hazardu, brania nadgodzin w pracy**
+- **mów otwarcie o swoich emocjach** - dla wielu mężczyzn szczera rozmowa z przyjacielem, partnerką, rodziną jest bardzo pomocna w rozładowaniu napięcia
+- **nie bierz na siebie zbyt wielu obowiązków**, poproś bliskich o wsparcie
+- **zadbaj o czas 1:1 z dzieckiem** - staraj się codziennie znaleźć chwilę na zabawę z dzieckiem. Możesz je zabrać na spacer, ponosić w chuście, wykąpać... Zbudowanie więzi ojcowskiej z dzieckiem wymaga czasu i zaangażowania, nie zniechęcaj się trudnościami występującymi na początku.
 
 ---
 
