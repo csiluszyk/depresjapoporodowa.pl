@@ -60,16 +60,16 @@ Przy planowanym cięciu cesarskim zazwyczaj stosuje się poziome nacięcie (naci
 Staraj się dbać o higienę w miejscu nacięcia i zgłoś swojemu lekarzowi lub położnej, jeżeli z rany wydobywa się ropa, odczuwasz nasilający się ból lub masz gorączkę ponad 38..... Miejsce nacięcia może przez pewien czas pozostawać nieczułe na dotyk, ponieważ podczas zabiegu przecinane są również nerwy. U wielu kobiet pełne czucie w miejscu rany wróci po kilku / kilkunastu tygodniach.
 
 ## Zmiany emocjonalne 
-Większość matek (ok. 80%) doświadcza po porodzie baby blues, czyli niewielkich wahań nastroju, które utrzymują się maksymalnie 2 tygodnie. Przypuszcza się, że jest to spowodowane nagłymi wahaniami hormonalnymi (czytaj więcej o Baby blues). 
+Większość matek (ok. 80%) doświadcza po porodzie baby blues, czyli niewielkich wahań nastroju, które utrzymują się maksymalnie 2 tygodnie. Przypuszcza się, że jest to spowodowane nagłymi wahaniami hormonalnymi (czytaj więcej o [Baby blues](https://depresjapoporodowa.pl/objawy/baby-blues)). 
 
-Nie ma też drugiego takiego momentu w życiu kobiety, kiedy byłaby ona tak mocno narażona na rozwój chorób psychicznych. Około 15% mam dotknie depresja poporodowa, a 0.1% kobiet dotknie psychoza poporodowa. Warto wiedzieć, że depresja nie zawsze pojawia się bezpośrednio po porodzie, lecz może rozwinąć się dopiero kilka tygodni / miesięcy po urodzeniu dziecka. Z tego powodu zaleca się, by każda mama profilaktycznie  wykonała test przesiewowy na obecności symptomów depresji <strong>przynajmniej w 1, 2, 4 i 6 miesiącu po porodzie</strong> (są to zalecenia AAP - The American Academy of Pediatrics). Bezpłatny test znajdziesz tutaj: Test na depresję poporodową (......)
+Nie ma też drugiego takiego momentu w życiu kobiety, kiedy byłaby ona tak mocno narażona na rozwój chorób psychicznych. Około 15% mam dotknie depresja poporodowa, a 0.1% kobiet dotknie psychoza poporodowa. Warto wiedzieć, że depresja nie zawsze pojawia się bezpośrednio po porodzie, lecz może rozwinąć się dopiero kilka tygodni / miesięcy po urodzeniu dziecka. Z tego powodu zaleca się, by każda mama profilaktycznie  wykonała test przesiewowy na obecności symptomów depresji <strong>przynajmniej w 1, 2, 4 i 6 miesiącu po porodzie</strong> (są to zalecenia AAP - The American Academy of Pediatrics). Bezpłatny test znajdziesz tutaj: [Test na depresję poporodową](https://depresjapoporodowa.pl/objawy/test-na-depresje-poporodowa).
 
 ## Czytaj więcej:
 - Oster, E. (2020). Cribsheet: A data-driven guide to better, more relaxed parenting, from birth to preschool. Penguin Books.
-- https://www.rodzicpoludzku.pl/po-porodzie/polog-co-cie-moze-zaskoczyc.html
-- https://www.nct.org.uk/life-parent/your-body-after-birth/bleeding-after-birth-10-things-you-need-know
-- https://www.stanfordchildrens.org/en/topic/default?id=postpartum-hemorrhage-90-P02486
-- https://www.whattoexpect.com/first-year/postpartum-health-and-care/loss-of-bladder-control-postpartum-urinary-incontinence/
-- https://www.urmc.rochester.edu/ob-gyn/obstetrics/after-delivery/common-conditions.aspx
-- https://www.nhs.uk/conditions/caesarean-section/recovery/
+- <https://www.rodzicpoludzku.pl/po-porodzie/polog-co-cie-moze-zaskoczyc.html>{:target="_blank"}
+- <https://www.nct.org.uk/life-parent/your-body-after-birth/bleeding-after-birth-10-things-you-need-know>{:target="_blank"}
+- <https://www.stanfordchildrens.org/en/topic/default?id=postpartum-hemorrhage-90-P02486>{:target="_blank"}
+- <https://www.whattoexpect.com/first-year/postpartum-health-and-care/loss-of-bladder-control-postpartum-urinary-incontinence/>{:target="_blank"}
+- <https://www.urmc.rochester.edu/ob-gyn/obstetrics/after-delivery/common-conditions.aspx>{:target="_blank"}
+- <https://www.nhs.uk/conditions/caesarean-section/recovery/>{:target="_blank"}
 - Sperstad, J. B., Tennfjord, M. K., Hilde, G., Ellström-Engh, M., & Bø, K. (2016). Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain. British journal of sports medicine, 50(17), 1092-1096.
