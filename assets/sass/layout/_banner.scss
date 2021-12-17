@@ -16,8 +16,8 @@
 			@include vendor('flex-grow', '0');
 			@include vendor('flex-shrink', '0');
 			display: block;
-			margin: 0 0 _size(element-margin) 0;
-			width: 100%;
+			margin: 0 0 _size(element-margin) (_size(element-margin) * 2);
+			width: 50%;
 
 			img {
 				height: 100%;
