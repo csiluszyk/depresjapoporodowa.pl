@@ -115,43 +115,43 @@ Dużo mówi się o tym, jak ukazywanie w mediach perfekcyjnie wyglądających ko
 
 ## Bibliografia
 
-- [^link_postpartale]: https://postpartale-depression.ch/de/
-- [^Rao]: Rao, W. W., Zhu, X. M., Zong, Q. Q., Zhang, Q., Hall, B. J., Ungvari, G. S. i Xiang, Y. T. (2020). Prevalence of prenatal and postpartum depression in fathers: A comprehensive meta-analysis of observational surveys. Journal of affective disorders, 263, 491-499.
-- [^Paulson]: Paulson, J. F., Dauber, S. i Leiferman, J. A. (2006). Individual and combined effects of postpartum depression in mothers and fathers on parenting behavior. Pediatrics, 118(2), 659-668.
-- [^Guintivano]: Guintivano, J., Manuck, T., & Meltzer-Brody, S. (2018). Predictors of postpartum depression: a comprehensive review of the last decade of evidence. Clinical obstetrics and gynecology, 61(3), 591.
-- [^Couto]: e Couto, T. C., Brancaglion, M. Y. M., Alvim-Soares, A., Moreira, L., Garcia, F. D., Nicolato, R., ... & Corrêa, H. (2015). Postpartum depression: A systematic review of the genetics involved. World journal of psychiatry, 5(1), 103.
-- [^Viktorin]: Viktorin, A., Meltzer-Brody, S., Kuja-Halkola, R., Sullivan, P. F., Landén, M., Lichtenstein, P., & Magnusson, P. K. (2016). Heritability of perinatal depression and genetic overlap with nonperinatal depression. American Journal of Psychiatry, 173(2), 158-165.
-- [^Szpunar]: Szpunar, M. J. i Parry, B. L. (2018). A systematic review of cortisol, thyroid-stimulating hormone, and prolactin in peripartum women with major depression. Archives of women's mental health, 21(2), 
-- [^Keely]: Keely, E. J. (2011). Postpartum thyroiditis: an autoimmune thyroid disorder which predicts future thyroid health. Obstetric medicine, 4(1), 7-11.
-- [^Payne]: Payne, J. L. i Maguire, J. (2019). Pathophysiological mechanisms implicated in postpartum depression. Frontiers in neuroendocrinology, 52, 165-180.
-- [^Orzel]: Orzeł-Gryglewska, J. (2010). Consequences of sleep deprivation. International journal of occupational medicine and environmental health.
-- [^Ghaedrahmati]: Ghaedrahmati, M., Kazemi, A., Kheirabadi, G., Ebrahimi, A., & Bahrami, M. (2017). Postpartum depression risk factors: A narrative review. Journal of education and health promotion, 6.
-- [^Silverman]: Silverman, M. E., Reichenberg, A., Savitz, D. A., Cnattingius, S., Lichtenstein, P., Hultman, C. M., ... i Sandin, S. (2017). The risk factors for postpartum depression: A population‐based study. Depression and anxiety, 34(2), 178-187.
-- [^Ruohomaki]: Ruohomäki, A., Toffol, E., Upadhyaya, S., Keski-Nisula, L., Pekkanen, J., Lampi, J., ... i Lehto, S. M. (2018). The association between gestational diabetes mellitus and postpartum depressive symptomatology: A prospective cohort study. Journal of affective disorders, 241, 263-268.
-- [^Wassef]: Wassef, A., Nguyen, Q. D. i St-André, M. (2019). Anaemia and depletion of iron stores as risk factors for postpartum depression: a literature review. Journal of Psychosomatic Obstetrics & Gynecology, 40(1), 19-28.
-- [^Amini]: Amini, S., Jafarirad, S. i Amani, R. (2019). Postpartum depression and vitamin D: A systematic review. Critical reviews in food science and nutrition, 59(9), 1514-1520.
-- [^AminiS]: Amini, S., Amani, R., Jafarirad, S., Cheraghian, B., Sayyah, M. i Hemmati, A. A. (2020). The effect of vitamin D and calcium supplementation on inflammatory biomarkers, estradiol levels and severity of symptoms in women with postpartum depression: a randomized double-blind clinical trial. Nutritional Neuroscience, 1-11.
-- [^Kettunen]: Kettunen, P., Koistinen, E. i Hintikka, J. (2016). The connections of pregnancy-, delivery-, and infant-related risk factors and negative life events on postpartum depression and their role in first and recurrent depression. Depression research and treatment, 2016. 
-- [^Xu]: Xu, H., Ding, Y., Ma, Y., Xin, X. i Zhang, D. (2017). Cesarean section and risk of postpartum depression: a meta-analysis. Journal of psychosomatic research, 97, 118-126.
-- [^Tahirkheli]: Tahirkheli, N. N., Cherry, A. S., Tackett, A. P., McCaffree, M. A. i Gillaspy, S. R. (2014). Postpartum depression on the neonatal intensive care unit: current perspectives. International journal of women's health, 6, 975.
-- [^Vigod]: Vigod, S. N., Villegas, L., Dennis, C. L. i Ross, L. E. (2010). Prevalence and risk factors for postpartum depression among women with preterm and low‐birth‐weight infants: a systematic review. BJOG: An International Journal of Obstetrics & Gynaecology, 117(5), 540-550.
-- [^link_netdoktor]: https://www.netdoktor.de/news/geburt-pda-schuetzt-vor-depressionen/
-- [^Ding]: Ding, T., Wang, D. X., Qu, Y., Chen, Q., & Zhu, S. N. (2014). Epidural labor analgesia is associated with a decreased risk of postpartum depression: a prospective cohort study. Anesthesia & Analgesia, 119(2), 383-392.
-- [^Wisner]: Wisner, Katherine: Double Duty: Does Epidural Labor Analgesia Reduce Both Pain and Postpartum Depression ?, Anesthesia & Analgesia: August 2014 - Volume 119 - Issue 2 - p 219–221.
-- [^Evensen]: Evensen, A., Anderson, J. M. i Fontaine, P. (2017). Postpartum hemorrhage: prevention and treatment. American family physician, 95(7), 442-449.
-- [^Fritel]: Fritel, X., Tsegan, Y. E., Pierre, F., & Saurel-Cubizolles, M. J. (2016). Association of postpartum depressive symptoms and urinary incontinence. A cohort study. European Journal of Obstetrics & Gynecology and Reproductive Biology, 198, 62-67.
-- [^Chang]: Chang, S. R., Chen, K. H., Lee, C. N., Shyu, M. K., Lin, M. I. i  Lin, W. A. (2016). Relationships between perineal pain and postpartum depressive symptoms: a prospective cohort study. International journal of nursing studies, 59, 68-78.
-- [^link_multi]: https://www.multi-mam.pl/upload/standardy-karmienia-piersia-raport-multimam.pdf
-- [^Chaput]: Chaput, K. H., Nettel-Aguirre, A., Musto, R., Adair, C. E., & Tough, S. C. (2016). Breastfeeding difficulties and supports and risk of postpartum depression in a cohort of womenwho have given birth in Calgary: a prospective cohort study. CMAJ open, 4(1), E103.
-- [^Boyce]: Boyce, P., & Hickey, A. (2005). Psychosocial risk factors to major depression after childbirth. Social psychiatry and psychiatric epidemiology, 40(8), 605-612.
-- [^Silverman]: Silverman, M. E. i Loudon, H. (2010). Antenatal reports of pre-pregnancy abuse is associated with symptoms of depression in the postpartum period. Archives of women's mental health, 13(5), 411-415.
-- [^OHara]: O'Hara, M. W. i McCabe, J. E. (2013). Postpartum depression: current status and future directions. Annual review of clinical psychology, 9, 379-407.)
-- [^Beck]: Beck, C. T. (2001). Predictors of postpartum depression: an update. Nursing research, 50(5), 275-285.
-- [^Yim]: Yim, I. S., Stapleton, L. R. T., Guardino, C. M., Hahn-Holbrook, J. i Schetter, C. D. (2015). Biological and psychosocial predictors of postpartum depression: systematic review and call for integration. Annual review of clinical psychology, 11.
-- [^Guintivano]: Guintivano, J., Manuck, T. i Meltzer-Brody, S. (2018). Predictors of postpartum depression: a comprehensive review of the last decade of evidence. Clinical obstetrics and gynecology, 61(3), 591.
-- [^link_washington]: https://www.washingtonpost.com/news/inspired-life/wp/2015/06/30/when-threes-not-the-charm-how-to-manage-the-higher-risk-of-divorce-when-baby-comes-along/
-- [^Malus]: Małus, A., Szyluk, J., Galińska-Skok, B. i Konarzewska, B. (2016). Incidence of postpartum depression and couple relationship quality. Psychiatr Pol, 50(6), 1135-46.
-- [^Rich]: Rich-Edwards, J. W., Kleinman, K., Abrams, A., Harlow, B. L., McLaughlin, T. J., Joffe, H. i Gillman, M. W. (2006). Sociodemographic predictors of antenatal and postpartum depressive symptoms among women in a medical group practice. Journal of Epidemiology & Community Health, 60(3), 221-227.)
+[^link_postpartale]: https://postpartale-depression.ch/de/
+[^Rao]: Rao, W. W., Zhu, X. M., Zong, Q. Q., Zhang, Q., Hall, B. J., Ungvari, G. S. i Xiang, Y. T. (2020). Prevalence of prenatal and postpartum depression in fathers: A comprehensive meta-analysis of observational surveys. Journal of affective disorders, 263, 491-499.
+[^Paulson]: Paulson, J. F., Dauber, S. i Leiferman, J. A. (2006). Individual and combined effects of postpartum depression in mothers and fathers on parenting behavior. Pediatrics, 118(2), 659-668.
+[^Guintivano]: Guintivano, J., Manuck, T., & Meltzer-Brody, S. (2018). Predictors of postpartum depression: a comprehensive review of the last decade of evidence. Clinical obstetrics and gynecology, 61(3), 591.
+[^Couto]: e Couto, T. C., Brancaglion, M. Y. M., Alvim-Soares, A., Moreira, L., Garcia, F. D., Nicolato, R., ... & Corrêa, H. (2015). Postpartum depression: A systematic review of the genetics involved. World journal of psychiatry, 5(1), 103.
+[^Viktorin]: Viktorin, A., Meltzer-Brody, S., Kuja-Halkola, R., Sullivan, P. F., Landén, M., Lichtenstein, P., & Magnusson, P. K. (2016). Heritability of perinatal depression and genetic overlap with nonperinatal depression. American Journal of Psychiatry, 173(2), 158-165.
+[^Szpunar]: Szpunar, M. J. i Parry, B. L. (2018). A systematic review of cortisol, thyroid-stimulating hormone, and prolactin in peripartum women with major depression. Archives of women's mental health, 21(2), 
+[^Keely]: Keely, E. J. (2011). Postpartum thyroiditis: an autoimmune thyroid disorder which predicts future thyroid health. Obstetric medicine, 4(1), 7-11.
+[^Payne]: Payne, J. L. i Maguire, J. (2019). Pathophysiological mechanisms implicated in postpartum depression. Frontiers in neuroendocrinology, 52, 165-180.
+[^Orzel]: Orzeł-Gryglewska, J. (2010). Consequences of sleep deprivation. International journal of occupational medicine and environmental health.
+[^Ghaedrahmati]: Ghaedrahmati, M., Kazemi, A., Kheirabadi, G., Ebrahimi, A., & Bahrami, M. (2017). Postpartum depression risk factors: A narrative review. Journal of education and health promotion, 6.
+[^Silverman]: Silverman, M. E., Reichenberg, A., Savitz, D. A., Cnattingius, S., Lichtenstein, P., Hultman, C. M., ... i Sandin, S. (2017). The risk factors for postpartum depression: A population‐based study. Depression and anxiety, 34(2), 178-187.
+[^Ruohomaki]: Ruohomäki, A., Toffol, E., Upadhyaya, S., Keski-Nisula, L., Pekkanen, J., Lampi, J., ... i Lehto, S. M. (2018). The association between gestational diabetes mellitus and postpartum depressive symptomatology: A prospective cohort study. Journal of affective disorders, 241, 263-268.
+[^Wassef]: Wassef, A., Nguyen, Q. D. i St-André, M. (2019). Anaemia and depletion of iron stores as risk factors for postpartum depression: a literature review. Journal of Psychosomatic Obstetrics & Gynecology, 40(1), 19-28.
+[^Amini]: Amini, S., Jafarirad, S. i Amani, R. (2019). Postpartum depression and vitamin D: A systematic review. Critical reviews in food science and nutrition, 59(9), 1514-1520.
+[^AminiS]: Amini, S., Amani, R., Jafarirad, S., Cheraghian, B., Sayyah, M. i Hemmati, A. A. (2020). The effect of vitamin D and calcium supplementation on inflammatory biomarkers, estradiol levels and severity of symptoms in women with postpartum depression: a randomized double-blind clinical trial. Nutritional Neuroscience, 1-11.
+[^Kettunen]: Kettunen, P., Koistinen, E. i Hintikka, J. (2016). The connections of pregnancy-, delivery-, and infant-related risk factors and negative life events on postpartum depression and their role in first and recurrent depression. Depression research and treatment, 2016. 
+[^Xu]: Xu, H., Ding, Y., Ma, Y., Xin, X. i Zhang, D. (2017). Cesarean section and risk of postpartum depression: a meta-analysis. Journal of psychosomatic research, 97, 118-126.
+[^Tahirkheli]: Tahirkheli, N. N., Cherry, A. S., Tackett, A. P., McCaffree, M. A. i Gillaspy, S. R. (2014). Postpartum depression on the neonatal intensive care unit: current perspectives. International journal of women's health, 6, 975.
+[^Vigod]: Vigod, S. N., Villegas, L., Dennis, C. L. i Ross, L. E. (2010). Prevalence and risk factors for postpartum depression among women with preterm and low‐birth‐weight infants: a systematic review. BJOG: An International Journal of Obstetrics & Gynaecology, 117(5), 540-550.
+[^link_netdoktor]: https://www.netdoktor.de/news/geburt-pda-schuetzt-vor-depressionen/
+[^Ding]: Ding, T., Wang, D. X., Qu, Y., Chen, Q., & Zhu, S. N. (2014). Epidural labor analgesia is associated with a decreased risk of postpartum depression: a prospective cohort study. Anesthesia & Analgesia, 119(2), 383-392.
+[^Wisner]: Wisner, Katherine: Double Duty: Does Epidural Labor Analgesia Reduce Both Pain and Postpartum Depression ?, Anesthesia & Analgesia: August 2014 - Volume 119 - Issue 2 - p 219–221.
+[^Evensen]: Evensen, A., Anderson, J. M. i Fontaine, P. (2017). Postpartum hemorrhage: prevention and treatment. American family physician, 95(7), 442-449.
+[^Fritel]: Fritel, X., Tsegan, Y. E., Pierre, F., & Saurel-Cubizolles, M. J. (2016). Association of postpartum depressive symptoms and urinary incontinence. A cohort study. European Journal of Obstetrics & Gynecology and Reproductive Biology, 198, 62-67.
+[^Chang]: Chang, S. R., Chen, K. H., Lee, C. N., Shyu, M. K., Lin, M. I. i  Lin, W. A. (2016). Relationships between perineal pain and postpartum depressive symptoms: a prospective cohort study. International journal of nursing studies, 59, 68-78.
+[^link_multi]: https://www.multi-mam.pl/upload/standardy-karmienia-piersia-raport-multimam.pdf
+[^Chaput]: Chaput, K. H., Nettel-Aguirre, A., Musto, R., Adair, C. E., & Tough, S. C. (2016). Breastfeeding difficulties and supports and risk of postpartum depression in a cohort of womenwho have given birth in Calgary: a prospective cohort study. CMAJ open, 4(1), E103.
+[^Boyce]: Boyce, P., & Hickey, A. (2005). Psychosocial risk factors to major depression after childbirth. Social psychiatry and psychiatric epidemiology, 40(8), 605-612.
+[^Silverman]: Silverman, M. E. i Loudon, H. (2010). Antenatal reports of pre-pregnancy abuse is associated with symptoms of depression in the postpartum period. Archives of women's mental health, 13(5), 411-415.
+[^OHara]: O'Hara, M. W. i McCabe, J. E. (2013). Postpartum depression: current status and future directions. Annual review of clinical psychology, 9, 379-407.)
+[^Beck]: Beck, C. T. (2001). Predictors of postpartum depression: an update. Nursing research, 50(5), 275-285.
+[^Yim]: Yim, I. S., Stapleton, L. R. T., Guardino, C. M., Hahn-Holbrook, J. i Schetter, C. D. (2015). Biological and psychosocial predictors of postpartum depression: systematic review and call for integration. Annual review of clinical psychology, 11.
+[^Guintivano]: Guintivano, J., Manuck, T. i Meltzer-Brody, S. (2018). Predictors of postpartum depression: a comprehensive review of the last decade of evidence. Clinical obstetrics and gynecology, 61(3), 591.
+[^link_washington]: https://www.washingtonpost.com/news/inspired-life/wp/2015/06/30/when-threes-not-the-charm-how-to-manage-the-higher-risk-of-divorce-when-baby-comes-along/
+[^Malus]: Małus, A., Szyluk, J., Galińska-Skok, B. i Konarzewska, B. (2016). Incidence of postpartum depression and couple relationship quality. Psychiatr Pol, 50(6), 1135-46.
+[^Rich]: Rich-Edwards, J. W., Kleinman, K., Abrams, A., Harlow, B. L., McLaughlin, T. J., Joffe, H. i Gillman, M. W. (2006). Sociodemographic predictors of antenatal and postpartum depressive symptoms among women in a medical group practice. Journal of Epidemiology & Community Health, 60(3), 221-227.)
  
  
 
