@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Połóg - czyli co się dzieje w organizmie kobiety po porodzie
-image: 
+image: /images/polog.jpg
 ---
 
 Na półkach w księgarni znajdziesz masę książek poświęconych pierwszym miesiącom życia dziecka i temu, jak możesz wspierać jego rozwój. Znajdziesz również sporo książek, które wyjaśnią Ci, co dzieje się z Twoim organizmem w poszczególnych tygodniach ciąży. Czego raczej nie znajdziesz - ponieważ niestety jest to nadal ogromnie przemilczany temat - to rzetelnych informacji o tym, co będzie się działo z Twoim organizmem później. 
@@ -12,6 +12,11 @@ Połóg to czas, kiedy Twój organizm regeneruje się po ogromnym wysiłku, jaki
 W wielu miejscach przeczytasz, że okres połogu trwa 6 tygodni i że po tym czasie Twój organizm wróci do stanu sprzed porodu. Te ramy czasowe są jednak bardzo umowne i raczej określają średnią niż realny czas, który będzie aplikował się do każdej kobiety. <strong>Nie ma też badań naukowych, które potwierdzałyby, że 6 tygodni to okres wystarczający na powrót do zdrowia</strong>. Każda z nas jest inna i ma inne doświadczenia porodu, dlatego też każda z nas powinna dać swojemu ciału tyle czasu, ile akurat potrzebuje. 
 
 ## Jak zmienia się ciało po porodzie? 
+
+<span class="image fit">
+![](/images/polog-diagram.png)
+</span>
+
 ### Krwawienie
 Przede wszystkim w pierwszych dniach po porodzie będziesz mocno krwawiła. Dotyczy to zarówno mam, które rodziły naturalnie, jak i tych, które miały cesarkę. Jest to spowodowane odrywaniem się wyściółki macicy (endometrium), która po porodzie musi się na nowo odbudować (jest to tzw. proces oczyszczania macicy). Krwawienie zazwyczaj trwa od 24 do 36 dni <strong>(ok. 5 tyg.)</strong>. Może się jednak zdarzyć, że będziesz krwawiła dłużej, nawet ponad 6 tygodni i jest to również normalne. 
 
