@@ -4,13 +4,16 @@ title: O nas
 image: /images/o-nas.jpg
 ---
 
-Nazywamy się Agata i Cezary. Gdy urodził się nasz syn, staliśmy się najszczęśliwszymi (choć bardzo zmęczonymi) rodzicami. Po 4 miesiącach po porodzie Agata zaczęła cierpieć na bezsenność, która szybko przerodziła się w ciężką depresję. Mimo wsparcia terapeuty i psychiatry objawy stale się pogarszały, dlatego podjęliśmy decyzję, by szukać jeszcze większej pomocy. Agata na 6 tygodni trafiła do szpitala psychiatrycznego. Z perspektywy czasu pobyt tam ocenia jako jedno z najcenniejszych doświadczeń życiowych, gdzie otrzymała profesjonalną pomoc i poznała wiele wspaniałych mam z podobnymi trudnościami. Cezary przez cały czas towarzyszył jej w walce - wspierając, wysłuchując i zapewniając, że dzięki jej depresji kocha ją jeszcze bardziej. Dziś Agata kontynuuje leczenie, ciesząc się na powrót z bycia mamą, żoną i kobietą. 
+Nazywam się Agata Siłuszyk, jestem psychologiem, psychoterapeutą, ale też mamą, która osobiście doświadczyła depresji poporodowej. Mogę Was zapewnić, że to żaden wstyd. To może spotkać każdego. Ważne jest, aby zawalczyć o siebie i swoją rodzinę, o swoje zdrowie. Depresję można leczyć. Z depresją można walczyć. Z depresji można wyjść. Trzeba jednak podjąć odpowiednie kroki i poprosić o wsparcie.
 
-Mamy nadzieję, że znajdziecie na tej stronie potrzebne informacje i rozwiejecie swoje wątpliwości. Gdybyśmy mogli posłać w świat jedną myśl byłoby to:
+Podczas mojego kryzysu uważałam, że nie powinnam nigdy więcej być psychologiem. To się na szczęście zmieniło, właśnie dlatego, że poprosiłam o pomoc. Stanęłam ponownie na nogi. Dziś staram się wspierać mamy i ojców doświadczających depresji. Staram się być z nimi bez osądzania, bez pouczania, bez dawania dobrych rad. Sama wiem, jak ciężko jest być rodzicem. Zwłaszcza rodzicem w kryzysie.
+
+Dzięki moim doświadczeniom zaczęłam studiować Psychoterapię Poznawczo - Behawioralną na SWPS w Warszawie. Specjalizuję się zwłaszcza w prowadzeniu terapii depresji, zaburzeń lękowych i leczeniu zaburzeń snu. Posiadam certyfikat CBT-i (najskuteczniejszej obecnie metody leczenia bezsenności). Jestem aktywnym członkiem szwajcarskiego stowarzyszenia Pospartale Depression Schweiz oraz koordynatorem na Polskę towarzystwa Pospartum Support International. 
+
+Tę stronę prowadzę wspólnie z moim mężem. Nie pobieramy za to żadnych pieniędzy. Jeśli potrzebujecie wsparcia, porozmawiania, dopytania o to, gdzie można otrzymać profesjonalną pomoc, piszcie! Czekamy na Wasze wiadomości! Nasz email to: <info@depresjapoporodowa.pl>
+
 
 <div class="box">
 <h3>“Depresję poporodową da się leczyć! Najważniejszy krok jaki musisz zrobić, to poprosić o pomoc!”</h3>
 </div>
 
-Zachęcamy do kontaktu z nami poprzez naszego maila: <info@depresjapoporodowa.pl>. \
-Z przyjemnością odpowiemy na Wasze wiadomości. 
