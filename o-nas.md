@@ -8,7 +8,7 @@ Nazywam się Agata Siłuszyk, jestem psychologiem, psychoterapeutą, ale też ma
 
 Podczas mojego kryzysu uważałam, że nie powinnam nigdy więcej być psychologiem. To się na szczęście zmieniło, właśnie dlatego, że poprosiłam o pomoc. Stanęłam ponownie na nogi. Dziś staram się wspierać mamy i ojców doświadczających depresji. Staram się być z nimi bez osądzania, bez pouczania, bez dawania dobrych rad. Sama wiem, jak ciężko jest być rodzicem. Zwłaszcza rodzicem w kryzysie.
 
-Dzięki moim doświadczeniom zaczęłam studiować Psychoterapię Poznawczo - Behawioralną na SWPS w Warszawie. Specjalizuję się zwłaszcza w prowadzeniu terapii depresji, zaburzeń lękowych i leczeniu zaburzeń snu. Posiadam certyfikat CBT-i (najskuteczniejszej obecnie metody leczenia bezsenności). Jestem aktywnym członkiem szwajcarskiego stowarzyszenia Pospartale Depression Schweiz oraz koordynatorem na Polskę towarzystwa Pospartum Support International. 
+Dzięki moim doświadczeniom zaczęłam studiować Psychoterapię Poznawczo - Behawioralną na SWPS w Warszawie. Specjalizuję się zwłaszcza w prowadzeniu terapii depresji, zaburzeń lękowych i leczeniu zaburzeń snu. Posiadam certyfikat CBT-i (najskuteczniejszej obecnie metody leczenia bezsenności). Jestem aktywnym członkiem szwajcarskiego stowarzyszenia Postpartale Depression Schweiz oraz koordynatorem na Polskę towarzystwa Postpartum Support International. 
 
 Tę stronę prowadzę wspólnie z moim mężem. Nie pobieramy za to żadnych pieniędzy. Jeśli potrzebujecie wsparcia, porozmawiania, dopytania o to, gdzie można otrzymać profesjonalną pomoc, piszcie! Czekamy na Wasze wiadomości! Nasz email to: <info@depresjapoporodowa.pl>
 
